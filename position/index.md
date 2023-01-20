@@ -1,5 +1,5 @@
 ---
-title: Position
+title: position
 nav:
   order: 3
   tooltip: Position in the lab

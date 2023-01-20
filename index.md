@@ -4,100 +4,18 @@ title: Home
 
 # This the new website under construction for the Chen Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+We are a computational biology lab pursuing a fundamental biological question, that is, how a cell identity is established in development, maintained in a healthy body, and dysregulated in diseases. We develop bioinformatics methods to understand genetic and epigenetic mechanisms in cell identity regulation. Different cell types in a healthy body share the same genetic sequence. Difference in identity of these cell types is determined by epigenetic regulation of gene expression. Meanwhile, many genetic mutations in germ line or somatic cells were found to affect epigenetic factors, and can cause disease due to cell identity dysregulation. (1) To study cell identity regulation in development, we are interested in cardiovascular endothelial lineage specification. (2) To study cell identity dysregulation in diseases, the lab is focused on cancers and cardiovascular diseases.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
 
-{% include section.html full=true %}
+The most important discovery in the lab is that the cell identity genes as a unique group are distinct from other genes in the molecular mechanisms to regulate their expression and mutation patterns (Chen et al, Nature Genetics 2015; Xia et al, Nature Communications 2020a; GPB 2021). The findings build a knowledge foundation for us to develop bioinformatics technology for discovery of cell identity regulators (Xia et al, Nature Communications 2020a) and disease genes (Chen et al, Nature Genetics 2015; Nature Communications 2020b). Our findings further provide insights into the molecular regulation of normal cell identities in development (Gu et al, Science 2019), molecular regulation of genetic variations (Chen et al, NAR 2008; Yu et al, Nature 2018; Hu et al, Genes & Development 2014), and dysregulation of cell identity in diseases, e.g., in limb ischemia (Meng, et al, Circulation 2020) and cancers (Yi et al, Nature Cell Biology 2021; Zhao et al, Nature Communications 2020b; Dhar et al, Molecular Cell 2018). The techniques we developed has been proved to successfully recapture known disease genes such as cancer driver genes, and further, overcome critical constraint on current technologies by successfully identifying many disease genes that were not detectable by conventional mutation analysis (Chen et al, Nature Genetics 2015; Nature Communications 2020b). These disease genes led to new therapeutic targets and diagnostic markers as have been verified in cellular, animal, and preclinical models by our collaborators (Zhu et al, Nature Communications 2018; Liu et al, IJC 2018; Zhu et al, Oncogene 2019) and thus, will benefit numerous cancer patients.
 
-{% include banner.html image="images/banner.jpg" %}
 
-{% include section.html %}
+Major research directions in the lab include:
 
-# Highlights
+- Develop new bioinformatics techniques to interpret high throughput genomic data.
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Single cell, spatial genomics, Hi-C, ChIP-seq, ATAC-seq, RNA-seq and other additional techniques to study epigenetic regulation of transcription by 3D chromatin conformation, chromatin modifications, and chromatin-binding proteins.
 
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
+- High throughput profiling of RNA methylation, RNA binding proteins, and ribosomes to study post transcriptional regulation of gene expression.
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
-%}
-
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Molecular, cellular, animal, and clinical models to understand mechanisms in diseases with a focus on heart failure and prostate cancer.

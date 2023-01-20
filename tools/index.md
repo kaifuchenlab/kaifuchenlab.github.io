@@ -6,9 +6,10 @@ nav:
 ---
 
 # <i class="fas fa-tools"></i>Tools
+
 ## Developed by Chen Lab
 
-### MEBOCOST (BioRxiv, 2022): 
+<dt> ### MEBOCOST (BioRxiv, 2022): left </dt>
 A computational technology to enable detection of cell-cell communications mediated by metabolites and their sensor proteins (receptor, transporter, etc) based on single-cell RNA-Seq data.
 
 ### MACMIC (Genomics, Proteomics and Bioinformatics, 2021): 

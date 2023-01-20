@@ -7,7 +7,7 @@ nav:
 
 {% include section.html %}
 
-## Join The Lab
+# Join The Lab
 
 To apply for a position, please send a CV, cover letter or research statement, and information for three references to the PI, Kaifu Chen, PhD (Bchkfc.png).
 

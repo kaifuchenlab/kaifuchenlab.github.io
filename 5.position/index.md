@@ -40,7 +40,4 @@ We are committed to cultivating a diverse workplace. We do not discriminate on t
 Commitment to Integrity:
 The Lab has zero tolerance to research fraud. Candidate with any history of fabrication, falsification, plagiarism or deception is suggested not to apply for a position in this lab.
 
-{% include link.html type="external" link="kaifu.chen@childrens.harvard.edu" text="Apply Now" icon="" style="button" %}
-{:.center}
-
 {% include section.html %}

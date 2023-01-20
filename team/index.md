@@ -51,8 +51,11 @@ This researcher will develop bioinformatics technology to investigate gene expre
 
 Responsibilities:
 • Develop computational tools, statistical methods, artificial intelligence techniques, machine learning algorithms, or network models to understand single-cell sequencing data. 
+
 • Analyze single cell sequencing data to study cell identity regulation and dysregulation. 
+
 • Analyze Hi-C, ChIP-seq, ATAC-seq, and RNA-seq data to study epigenetic regulation of transcription. 
+
 • Collaboration with biologist and clinician to leverage research output, innovation, and significance.
 
 Qualifications:

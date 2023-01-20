@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fas fa-users"></i>Team
-#### Principal Investigator
+### Principal Investigator
 
 {%
   include list.html
@@ -16,7 +16,7 @@ nav:
 %}
 
 
-#### Instructor
+### Instructor
 
 {%
   include list.html
@@ -25,7 +25,7 @@ nav:
   filters="role: pi"
 %}
 
-#### Postdoctoral Fellow
+### Postdoctoral Fellow
 
 {% include section.html %}
 

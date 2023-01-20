@@ -12,7 +12,7 @@ nav:
 **MEBOCOST (BioRxiv, 2022):
 A computational technology to enable detection of cell-cell communications mediated by metabolites and their sensor proteins (receptor, transporter, etc) based on single-cell RNA-Seq data.
 
-**MACMIC (Genomics, Proteomics and Bioinformatics, 2021):
+**MACMIC (Genomics, Proteomics and Bioinformatics, 2021):**
 A statistical method to define epigenomic features that have maximal co-localization but minimal correlation across the genome.
 
 ### TADsplimer (Genome Biology, 2020): 

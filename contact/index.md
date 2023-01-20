@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# <i class="fas fa-envelope"></i>Location and Contact Information
+# <i class="fas fa-envelope"></i>Location and Contact
 Office: Enders 1307 
 
 Address for regular mailing:

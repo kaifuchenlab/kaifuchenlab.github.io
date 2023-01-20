@@ -14,7 +14,7 @@ To apply for a position, please send a CV, cover letter or research statement, a
 
 **Overview:**
 
-The lab led by Kaifu Chen (http://chenlab.openwetware.org/) in the Harvard Medical School at Boston Children's Hospital is seeking a bioinformatics postdoc for single-cell and spatial multi-omics bioinformatics research. Major biological topic can be 3D genome organization, RNA methylation, or metabolism.
+The lab led by Kaifu Chen in the Harvard Medical School at Boston Children's Hospital is seeking a bioinformatics postdoc for single-cell and spatial multi-omics bioinformatics research. Major biological topic can be 3D genome organization, RNA methylation, or metabolism.
 
 This researcher will develop bioinformatics technology to investigate gene expression regulation at the single-cell and spatial resolution. Experiences with bioinformatics technique development or epigenetic research will be considered with high priority (but not a prerequisite). The lab is productive in recent years in both development of bioinformatics methods (Nature Genetics 2015, Nature Communications 2020a, Nature Communications 2020b, Genome Biology 2020, etc.) and biomedical research based on cutting-edge bioinformatics techniques (Nature 2018, Science 2019, Circulation 2020, Nature Cell Biology 2021, etc). Both the School and Hospital offer rich and dynamic research environments. The work location is embraced by tens of other top institutes such as the Massachusetts General Hospital, Dana-Farber Cancer Institute, and Broad Institute.
 

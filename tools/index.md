@@ -9,31 +9,31 @@ nav:
 
 ## Developed by Chen Lab
 
-**MEBOCOST (BioRxiv, 2022):
+**MEBOCOST (BioRxiv, 2022):**
 A computational technology to enable detection of cell-cell communications mediated by metabolites and their sensor proteins (receptor, transporter, etc) based on single-cell RNA-Seq data.
 
 **MACMIC (Genomics, Proteomics and Bioinformatics, 2021):**
 A statistical method to define epigenomic features that have maximal co-localization but minimal correlation across the genome.
 
-### TADsplimer (Genome Biology, 2020): 
+**TADsplimer (Genome Biology, 2020):** 
 A bioinformatic toolkit to identify TAD splits and mergers between Hi-C samples.
 
-### CEFCIG at GitHub or GoogleSite(Nature Communications, 2020): 
+**CEFCIG at GitHub or GoogleSite(Nature Communications, 2020):** 
 A Computational Epigenetic Framework for Cell Identity Gene discovery.
 - GridGO: a grid-based genetic algorithm for automatic optimization of epigenetic signature analysis on the basis of biological significance.
 - CIGdiscover: a logistic regression model for cell identity genes discovery
 - CIGnet: a novel network method to uncover master transcription factors for cell identity genes in an unbiased, knowledge-guided, and quantitatively testable manner.
 - CIGDB: A Cell Identity Gene Database.
 
-### CAGRE (Science, 2019): 
+**CAGRE (Science, 2019):**
 A bioinformatic tool for Commulative Analysis of Genomic Region Enrichment.
 
-### FAID (Nature, 2018): 
+**FAID (Nature, 2018):**
 A bioinformatic tool for Feature Analysis of Inserted DNA in a genome.
 
-## Developed by Kaifu
+** Developed by Kaifu
 
-### DANPOS2 (Nature Genetics, 2015): 
+**DANPOS2 (Nature Genetics, 2015):**
 a set of 8 bioinformatics tools, including:
 - Dpos: comparative analysis of MNase-Seq data between samples.
 - Dpeak: comparative analysis ChIP-Seq data between samples.
@@ -44,17 +44,17 @@ a set of 8 bioinformatics tools, including:
 - Wiq: a tool for genome wide quantile normalization of epigenetic data.
 - Wig2Wiq: a tool for converting wiggle format file to wiq format.
 
-### DANPOS (Genome Research, 2013): 
+**DANPOS (Genome Research, 2013):**
 A tool for Dynamic Analysis of Nucleosome and Protein Occupancy by Sequencing
 
-### SpikeSCN (Genes & Development, 2013): 
+**SpikeSCN (Genes & Development, 2013):**
 Genome structure and copy number variation analysis based on genome sequencing with spike-in control.
 
-### BarVar (Cell reports, 2013): 
+**BarVar (Cell reports, 2013):**
 A bioinformatics pipeline to screen for drug-resistant genetic variations from barcode sequencing data.
 
-### NucHMM (GPB, 2010): 
+**NucHMM (GPB, 2010):**
 A Hidden Markov Model for nucleosome positioning prediction based on DNA sequence feature.
 
-### GenomePSD (Nucleic acids research, 2008): 
+**GenomePSD (Nucleic acids research, 2008):**
 A Power Spectrum Density analysis tool for genome sequence.

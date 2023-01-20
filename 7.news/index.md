@@ -6,27 +6,27 @@ nav:
 ---
 
 # <i class="fas fa-feather-alt"></i> Lab log
-**June, 2022**
+**June, 2022:**
 Dr. Yang YU, a bioinformatics PhD from the University of Virginia, will join the lab as a postdoc.
 Dr. Archana Hari, a bioinformatics PhD from the University of Maryland, will join the lab as a postdoc.
 Yanqiang will move to a faculty position very soon. Congratulations to Yanqiang!
 Xin will move to a faculty position very soon. Congratulations to Xin!
 
-**March, 2021**
+**March, 2021:**
 Dr. Krishan Gupta, a bioinformatics PhD from the IIIT-D, will join the lab as a postdoc.
 Guangyu will start to build his new lab at Methodist / Cornell as an Assistant Professor. Congratulations to Guangyu!
 
-**February, 2021**
+**February, 2021:**
 Dr. Rongbin Zheng, a bioinformatics PhD from the Tongji University (and a former visiting student at Harvard), will Join the lab as a postdoc.
 Dr. KulandaiSamy A, a bioinformatics PhD from the Indian Institute of Technology Madras, will Join the lab as a postdoc.
 
-**January, 2021**
+**January, 2021:**
 Dongyu finally decided to start his own independent lab as a professor in the Beijing University (Peking University), congratulations!
 
-**December, 2020**
+**December, 2020:**
 Dongyu received a great offer to start his own independent lab very soon, congratulations!
 
-**November, 2020**
+**November, 2020:**
 Yanqiang's collaboration with Yang in the Cao lab on RNA methylation has resulted in a manuscript accepted for publication by the journal Nature Cell Biology, Cheers!
 
 **November, 2020:**

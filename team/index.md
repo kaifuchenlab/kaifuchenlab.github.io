@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-
+Chen Lab members
 
 {% include section.html %}
 

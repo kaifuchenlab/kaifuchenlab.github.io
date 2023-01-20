@@ -1,5 +1,5 @@
 ---
-title: Research
+title: research
 nav:
   order: 3
   tooltip: Research description

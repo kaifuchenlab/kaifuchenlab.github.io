@@ -6,8 +6,26 @@ nav:
 ---
 
 # <i class="fas fa-users"></i>Team
+#### Principal Investigator
 
-Chen Lab members
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
+
+
+#### Instructor
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
+
+#### Postdoctoral Fellow
 
 {% include section.html %}
 

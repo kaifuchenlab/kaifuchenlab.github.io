@@ -10,12 +10,10 @@ baseurl:
 
 # site social media and other links
 links:
-  email:
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: kaifu.chen@childrens.harvard.edu
+  google-scholar: https://scholar.google.com/citations?user=epbS1cEAAAAJ&hl=en
+  github: kaifuchenlab
+  twitter: https://twitter.com/home
 
 ### advanced settings
 

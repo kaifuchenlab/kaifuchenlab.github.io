@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: tools
 nav:
   order: 3
   tooltip: Software, datasets, and more

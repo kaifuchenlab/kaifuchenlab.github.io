@@ -2,7 +2,7 @@
 title: Home
 ---
 
-### This the new website under construction for the Chen Lab
+### This is the new website under construction for the Chen Lab
 
 
 {%

@@ -1,5 +1,8 @@
 ---
-title: Home
+title: Research
+nav:
+  order: 3
+  tooltip: Research description
 ---
 
 # This the new website under construction for the Chen Lab

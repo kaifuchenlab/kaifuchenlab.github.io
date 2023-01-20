@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# <i class="fas fa-tools"></i>Software, Database, and Methods
+# <i class="fas fa-tools"></i>Software and Database
 
 
 **MEBOCOST (BioRxiv, 2022):**

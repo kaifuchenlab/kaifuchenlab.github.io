@@ -1,5 +1,5 @@
 ---
-title: News
+title: news
 nav:
   order: 4
   tooltip: Musings and miscellany

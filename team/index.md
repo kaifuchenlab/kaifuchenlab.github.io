@@ -52,7 +52,3 @@ nav:
 
 {% include section.html %}
 
-
-{:.center}
-
-{% include section.html %}

@@ -25,6 +25,14 @@ Kaifu received undergraduate training in Biophysics at the Nankai University and
 
 {% endcapture %}
 
+
+{%
+  include feature.html
+  image="images/Kfchen.JPG"
+  text=text
+%}
+
+
 {%
   include feature.html
   image="images/Kfchen.JPG"

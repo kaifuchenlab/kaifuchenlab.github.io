@@ -13,6 +13,8 @@ nav:
   image="images/Kfchen.JPG"
   width="20%"
   height="20%"
+  height="20%"
+  caption="Kaifu Chen (陈开富), Ph.D. "
 %}
 
 
@@ -23,6 +25,7 @@ nav:
   image="images/YLCL.jpeg"
   width="20%"
   height="20%"
+  caption="Yanqiang Li, PhD"
 %}
 
 ### Postdoctoral Fellow

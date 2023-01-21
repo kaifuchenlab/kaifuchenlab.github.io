@@ -28,7 +28,7 @@ nav:
 
 {%
   include 
-  image1="images/Cell_Identity.png"
+  image2="images/Cell_Identity.png"
 %}
 
 
@@ -36,7 +36,7 @@ nav:
 **The most important discovery in the lab is that the cell identity genes as a unique group are distinct from other genes in the molecular mechanisms to regulate their expression and mutation patterns (Chen et al, Nature Genetics 2015; Xia et al, Nature Communications 2020a; GPB 2021).** The findings build a knowledge foundation for us to develop bioinformatics technology for discovery of cell identity regulators (Xia et al, Nature Communications 2020a) and disease genes (Chen et al, Nature Genetics 2015; Nature Communications 2020b). Our findings further provide insights into the molecular regulation of normal cell identities in development (Gu et al, Science 2019), molecular regulation of genetic variations (Chen et al, NAR 2008; Yu et al, Nature 2018; Hu et al, Genes & Development 2014), and dysregulation of cell identity in diseases, e.g., in limb ischemia (Meng, et al, Circulation 2020) and cancers (Yi et al, Nature Cell Biology 2021; Zhao et al, Nature Communications 2020b; Dhar et al, Molecular Cell 2018). The techniques we developed has been proved to successfully recapture known disease genes such as cancer driver genes, and further, overcome critical constraint on current technologies by successfully identifying many disease genes that were not detectable by conventional mutation analysis (Chen et al, Nature Genetics 2015; Nature Communications 2020b). These disease genes led to new therapeutic targets and diagnostic markers as have been verified in cellular, animal, and preclinical models by our collaborators (Zhu et al, Nature Communications 2018; Liu et al, IJC 2018; Zhu et al, Oncogene 2019) and thus, will benefit numerous cancer patients.
 
 {%
-  image1="images/Cell_Identity.png"
+  image3="images/Cell_Identity.png"
 %}
 
 

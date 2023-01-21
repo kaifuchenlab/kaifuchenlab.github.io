@@ -9,10 +9,9 @@ nav:
 ### Principal Investigator
 
 {%
-  include feature.html
+  include figure.html
   image="images/Kfchen.JPG"
   width="20%"
-  height="20%"
   height="20%"
   caption="Kaifu Chen, Ph.D."
 %}

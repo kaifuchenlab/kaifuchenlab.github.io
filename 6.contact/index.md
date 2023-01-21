@@ -19,7 +19,7 @@ Enders 1307
 61 Binney St, Boston, MA 02115 
 
 **Email:** 
-
+{: .align-left}
 {%
   include figure.html
   image="images/Bchkfc.png"

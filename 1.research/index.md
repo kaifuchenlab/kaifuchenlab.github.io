@@ -12,8 +12,8 @@ nav:
 {%
   include gallery.html
   image1="images/Cell_Identity.png"
-  width=50%
-  height=50%
+  width=“50%”
+  height=”50%“
 %}
 
 

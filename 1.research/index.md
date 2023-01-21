@@ -14,6 +14,12 @@ nav:
 <img alt="Cell_Identity" src="https://user-images.githubusercontent.com/123195085/213884192-f8612722-1c37-4e8a-b549-c2ea8ebd4748.png" width=80% height=80%>
 %}
 
+{%
+  include gallery.html
+  image1="images/photo.jpg"
+  width=50% height=50%
+%}
+
 **Major research directions in the lab:**
 
 - Develop new bioinformatics techniques to interpret high throughput genomic data.

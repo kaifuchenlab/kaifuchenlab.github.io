@@ -11,7 +11,7 @@ nav:
 
 {%
   include figure.html
-  image="images/cell_identity.png"
+  image="images/Cell_Identity.png"
   width="50%"
   height="50%"
 %}
@@ -30,7 +30,7 @@ nav:
 
 {%
   include figure.html
-  image="images/cell_identity.png"
+  image="images/Cell_Identity.png"
   width="200px"
 %}
 

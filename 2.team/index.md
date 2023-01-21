@@ -26,12 +26,11 @@ Kaifu received undergraduate training in Biophysics at the Nankai University and
 {% endcapture %}
 
 {%
-  include figure.html
+  include feature.html
   image="images/Kfchen.JPG"
   width="20%"
   height="20%"
   height="20%"
-  caption="Kaifu Chen (陈开富), Ph.D. "
   text=text
 %}
 

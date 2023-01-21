@@ -12,7 +12,8 @@ nav:
 {%
   include figure.html
   image="images/photo.jpg"
-  width="500%"
+  width="50%"
+  height="50%"
 %}
 
 
@@ -30,7 +31,7 @@ nav:
 {%
   include figure.html
   image="images/photo.jpg"
-  width="400px"
+  width="200px"
 %}
 
 

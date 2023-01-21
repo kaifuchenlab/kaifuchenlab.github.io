@@ -9,7 +9,7 @@ nav:
 ### Principal Investigator
 
 {% capture text %}
-Kaifu Chen (陈开富), Ph.D.
+**Kaifu Chen (陈开富), Ph.D.**
 
 Associate Professor, Harvard Medical School 
 

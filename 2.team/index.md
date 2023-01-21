@@ -32,41 +32,6 @@ Kaifu received undergraduate training in Biophysics at the Nankai University and
 
 ### Postdoctoral Fellow
 
-
-{% include section.html %}
-
-{%
-  include list.html
-  image="images/AHCL.jpeg"
-  width="20%"
-  height="20%"
-  caption="Archana Hari, Ph.D."
-%}
-{%
-  include list.html
-  image="images/KGCL.jpg"
-  width="20%"
-  height="20%"
-  caption="Krishan Gupta, Ph.D."
-%}
-{%
-  include figure.html
-  image="images/RZCL.jpeg"
-  width="20%"
-  height="20%"
-  caption="Rongbin Zheng, Ph.D."
-%}
-{:.center}
-{% include section.html %}
-
-
-
-
-
-
-
-
-
 {%
   include figure.html
   image="images/AHCL.jpeg"

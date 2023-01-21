@@ -127,3 +127,4 @@ Dongyu graduated with a PhD. in Genomics from Beijing Institute of Genomics, Chi
 **Alin S. Tomoiaga, Ph.D.**
 09/2015 ~ 01/2017 
 After finishing postdoc training for 1.5 year in Chen lab, Alin became a tenure track Assistant Professor of Statistics at the Manhattan College. Before joining Chen lab, Alin graduated with a statistics PhD degree from Texas Tech University,
+

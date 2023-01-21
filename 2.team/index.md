@@ -40,14 +40,6 @@ nav:
 
 {%
   include figure.html
-  image="images/AHCL.jpeg"
-  width="40%"
-  height="40%"
-%}
-
-
-{%
-  include figure.html
   image="images/KGCL.jpg"
   width="40%"
   height="40%"
@@ -73,6 +65,14 @@ nav:
 {%
   include figure.html
   image="images/XLCL.jpeg"
+  width="40%"
+  height="40%"
+%}
+
+
+{%
+  include figure.html
+  image="images/XWCL.jpeg"
   width="40%"
   height="40%"
 %}

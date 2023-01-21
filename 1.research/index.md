@@ -9,13 +9,11 @@ nav:
 
 **We are a bioinformatics lab pursuing a fundamental biological question, that is, how a cell identity is established in development, maintained in a healthy body, and dysregulated in diseases.** We develop bioinformatics methods to understand genetic and epigenetic mechanisms in cell identity regulation. Different cell types in a healthy body share the same genetic sequence. Difference in identity of these cell types is determined by epigenetic regulation of gene expression. Meanwhile, many genetic mutations in germ line or somatic cells were found to affect epigenetic factors, and can cause disease due to cell identity dysregulation. (1) To study cell identity regulation in development, we are interested in cardiovascular endothelial lineage specification. (2) To study cell identity dysregulation in diseases, the lab is focused on cancers and cardiovascular diseases.
 
-
 {%
-  include gallery.html
-  image1="images/Cell_Identity.png"
-  width="10px"
+  include figure.html
+  image="images/group-photo.jpg"
+  width="400px"
 %}
-
 
 
 **Major research directions in the lab:**

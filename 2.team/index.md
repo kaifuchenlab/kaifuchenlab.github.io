@@ -9,45 +9,73 @@ nav:
 ### Principal Investigator
 
 {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
+  include figure.html
+  image="images/Kfchen.JPG"
+  width="40%"
+  height="40%"
 %}
 
 
 ### Instructor
 
 {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
+  include figure.html
+  image="images/YLCL.jpeg"
+  width="40%"
+  height="40%"
 %}
 
 ### Postdoctoral Fellow
 
 {% include section.html %}
 
+
 {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
+  include figure.html
+  image="images/AHCL.jpeg"
+  width="40%"
+  height="40%"
 %}
+
+
 {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
+  include figure.html
+  image="images/AHCL.jpeg"
+  width="40%"
+  height="40%"
 %}
+
+
 {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
+  include figure.html
+  image="images/KGCL.jpg"
+  width="40%"
+  height="40%"
 %}
-{:.center}
+
+
+{%
+  include figure.html
+  image="images/RZCL.jpeg"
+  width="40%"
+  height="40%"
+%}
+
+
+{%
+  include figure.html
+  image="images/KACL.jpeg"
+  width="40%"
+  height="40%"
+%}
+
+
+{%
+  include figure.html
+  image="images/XLCL.jpeg"
+  width="40%"
+  height="40%"
+%}
 
 
 {% include section.html %}

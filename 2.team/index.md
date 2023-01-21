@@ -11,8 +11,8 @@ nav:
 {%
   include figure.html
   image="images/Kfchen.JPG"
-  width="40%"
-  height="40%"
+  width="20%"
+  height="20%"
 %}
 
 
@@ -21,8 +21,8 @@ nav:
 {%
   include figure.html
   image="images/YLCL.jpeg"
-  width="40%"
-  height="40%"
+  width="20%"
+  height="20%"
 %}
 
 ### Postdoctoral Fellow
@@ -33,48 +33,48 @@ nav:
 {%
   include figure.html
   image="images/AHCL.jpeg"
-  width="40%"
-  height="40%"
+  width="20%"
+  height="20%"
 %}
 
 
 {%
   include figure.html
   image="images/KGCL.jpg"
-  width="40%"
-  height="40%"
+  width="20%"
+  height="20%"
 %}
 
 
 {%
   include figure.html
   image="images/RZCL.jpeg"
-  width="40%"
-  height="40%"
+  width="20%"
+  height="20%"
 %}
 
 
 {%
   include figure.html
   image="images/KACL.jpeg"
-  width="40%"
-  height="40%"
+  width="20%"
+  height="20%"
 %}
 
 
 {%
   include figure.html
   image="images/XLCL.jpeg"
-  width="40%"
-  height="40%"
+  width="20%"
+  height="20%"
 %}
 
 
 {%
   include figure.html
   image="images/XWCL.jpeg"
-  width="40%"
-  height="40%"
+  width="20%"
+  height="20%"
 %}
 
 

@@ -19,6 +19,39 @@ Enders 1307
 61 Binney St, Boston, MA 02115 
 
 
+
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="kaifu.chen@childrens.harvard.edu"
+  tooltip=""
+  link="kaifu.chen@childrens.harvard.edu"
+  style="button"
+%}
+
+{%
+  include link.html
+  type="phone"
+  icon=""
+  text="(617) 919-385"
+  tooltip=""
+  link="+1-617-919-5385"
+  style="button"
+%}
+
+
+{%
+  include link.html
+  type="address"
+  icon=""
+  text="Google Maps"
+  tooltip="Our location on Google Maps for easy navigation"
+  link="https://goo.gl/maps/Yi16fbmxnAn1aie96"
+  style="button"
+%}
+{:.center}
+
 **Email:** 
 {%
   include figure.html

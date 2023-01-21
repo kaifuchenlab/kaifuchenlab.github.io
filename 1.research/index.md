@@ -27,10 +27,10 @@ nav:
 - Molecular, cellular, animal, and clinical models to understand mechanisms in diseases with a focus on heart failure and prostate cancer.
 
 
-
 {%
-  include gallery.html
-  image1="images/Cell_Identity.png"
+  include figure.html
+  image="images/photo.jpg"
+  width="400px"
 %}
 
 

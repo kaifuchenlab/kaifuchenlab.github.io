@@ -30,7 +30,19 @@ nav:
 
 ### Postdoctoral Fellow
 
-{% include section.html %}
+{%
+  include gallery.html
+
+  image1="images/AHCL.jpeg"
+  caption1="Kaifu Chen (陈开富), Ph.D. "
+
+  image2="images/KGCL.jpg"
+  caption2="Kaifu Chen (陈开富), Ph.D. "
+
+  width="20%"
+  height="20%"
+  
+%}
 
 
 {%

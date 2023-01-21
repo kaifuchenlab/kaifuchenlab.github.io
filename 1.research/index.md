@@ -13,7 +13,6 @@ nav:
 {%
   include gallery.html
   image1="images/Cell_Identity.png"
-  width="40px"
 %}
 
 

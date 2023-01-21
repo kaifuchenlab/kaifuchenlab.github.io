@@ -8,7 +8,6 @@ nav:
 # <i class="fas fa-users"></i>Current Team Members
 ### Principal Investigator
 
-{% capture text %}
 {%
   include feature.html
   image="images/Kfchen.JPG"

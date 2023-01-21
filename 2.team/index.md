@@ -39,8 +39,6 @@ Kaifu received undergraduate training in Biophysics at the Nankai University and
   height="20%"
   caption="Archana Hari, Ph.D."
 %}
-
-
 {%
   include figure.html
   image="images/KGCL.jpg"
@@ -48,8 +46,6 @@ Kaifu received undergraduate training in Biophysics at the Nankai University and
   height="20%"
   caption="Krishan Gupta, Ph.D."
 %}
-
-
 {%
   include figure.html
   image="images/RZCL.jpeg"
@@ -57,8 +53,6 @@ Kaifu received undergraduate training in Biophysics at the Nankai University and
   height="20%"
   caption="Rongbin Zheng, Ph.D."
 %}
-
-
 {%
   include figure.html
   image="images/KACL.jpeg"
@@ -66,8 +60,6 @@ Kaifu received undergraduate training in Biophysics at the Nankai University and
   height="20%"
   caption="Kulandaisamy A, Ph.D."
 %}
-
-
 {%
   include figure.html
   image="images/XLCL.jpeg"
@@ -75,8 +67,6 @@ Kaifu received undergraduate training in Biophysics at the Nankai University and
   height="20%"
   caption="Xinlei Gao, Ph.D."
 %}
-
-
 {%
   include figure.html
   image="images/XWCL.jpeg"
@@ -84,7 +74,7 @@ Kaifu received undergraduate training in Biophysics at the Nankai University and
   height="20%"
   caption="Xin Wang, Ph.D."
 %}
-
+{:.center}
 
 ### Lab Alumni
 

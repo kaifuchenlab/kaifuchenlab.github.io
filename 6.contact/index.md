@@ -52,6 +52,35 @@ Enders 1307
 %}
 {:.center}
 
+The Boston Children's Hospital is embraced by the Harvard Medical School, Dana Farber Cancer Institute, Brigham And Women's Hospital, Beth Israel Deaconess Medical Center and tens of additional top hospitals and medical schools tightly connected in the area (Figure from maps.google.com).
+{%
+  include figure.html
+  image="images/BCH.png"
+  width="80%"
+  height="80%"
+%}
+
+
+The highest building in the middle of this picture is the Enders building (Figure from maps.google.com).
+{%
+  include figure.html
+  image="images/Enders.png"
+  width="80%"
+  height="80%"
+%}
+
+The main entrance to the Enders building is on the Longwood Avenue (Figure from maps.google.com).
+{%
+  include figure.html
+  image="images/EndersEntrance.png"
+  width="80%"
+  height="80%"
+%}
+
+
+
+
+
 **Email:** 
 {%
   include figure.html
@@ -78,30 +107,4 @@ Enders 1307
   height="15%"
 %}
 {:.left}
-
-
-The Boston Children's Hospital is embraced by the Harvard Medical School, Dana Farber Cancer Institute, Brigham And Women's Hospital, Beth Israel Deaconess Medical Center and tens of additional top hospitals and medical schools tightly connected in the area (Figure from maps.google.com).
-{%
-  include figure.html
-  image="images/BCH.png"
-  width="80%"
-  height="80%"
-%}
-
-
-The highest building in the middle of this picture is the Enders building (Figure from maps.google.com).
-{%
-  include figure.html
-  image="images/Enders.png"
-  width="80%"
-  height="80%"
-%}
-
-The main entrance to the Enders building is on the Longwood Avenue (Figure from maps.google.com).
-{%
-  include figure.html
-  image="images/EndersEntrance.png"
-  width="80%"
-  height="80%"
-%}
 

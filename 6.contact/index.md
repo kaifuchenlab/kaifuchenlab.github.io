@@ -23,24 +23,24 @@ Enders 1307
 {%
   include figure.html
   image="images/Bchkfc.png"
-  width="40%"
-  height="40%"
+  width="20%"
+  height="20%"
 %}
 
 **Tel:**  
 {%
   include figure.html
   image="images/5385.png"
-  width="30%"
-  height="30%"
+  width="10%"
+  height="10%"
 %}
 
 **Fax:** 
 {%
   include figure.html
   image="images/Fax.png"
-  width="30%"
-  height="30%"
+  width="10%"
+  height="10%"
 %}
 
 The Boston Children's Hospital is embraced by the Harvard Medical School, Dana Farber Cancer Institute, Brigham And Women's Hospital, Beth Israel Deaconess Medical Center and tens of additional top hospitals and medical schools tightly connected in the area (Figure from maps.google.com).

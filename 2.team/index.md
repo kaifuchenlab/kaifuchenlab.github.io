@@ -25,31 +25,18 @@ nav:
   image="images/YLCL.jpeg"
   width="20%"
   height="20%"
-  caption="Yanqiang Li, PhD"
+  caption="Yanqiang Li, Ph.D."
 %}
+
 
 ### Postdoctoral Fellow
-
-{%
-  include gallery.html
-
-  image1="images/AHCL.jpeg"
-  caption1="Kaifu Chen (陈开富), Ph.D. "
-
-  image2="images/KGCL.jpg"
-  caption2="Kaifu Chen (陈开富), Ph.D. "
-
-  width="20%"
-  height="20%"
-  
-%}
-
 
 {%
   include figure.html
   image="images/AHCL.jpeg"
   width="20%"
   height="20%"
+  caption="Archana Hari, Ph.D."
 %}
 
 
@@ -58,6 +45,7 @@ nav:
   image="images/KGCL.jpg"
   width="20%"
   height="20%"
+  caption="Krishan Gupta, Ph.D."
 %}
 
 
@@ -66,6 +54,7 @@ nav:
   image="images/RZCL.jpeg"
   width="20%"
   height="20%"
+  caption="Rongbin Zheng, Ph.D."
 %}
 
 
@@ -74,6 +63,7 @@ nav:
   image="images/KACL.jpeg"
   width="20%"
   height="20%"
+  caption="Kulandaisamy A, Ph.D."
 %}
 
 
@@ -82,6 +72,7 @@ nav:
   image="images/XLCL.jpeg"
   width="20%"
   height="20%"
+  caption="Xinlei Gao, Ph.D."
 %}
 
 
@@ -90,8 +81,7 @@ nav:
   image="images/XWCL.jpeg"
   width="20%"
   height="20%"
+  caption="Xin Wang, Ph.D."
 %}
 
-
-{% include section.html %}
 

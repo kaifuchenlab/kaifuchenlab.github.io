@@ -12,7 +12,7 @@ nav:
 {%
   include figure.html
   image="images/photo.jpg"
-  width="400px"
+  width="500%"
 %}
 
 

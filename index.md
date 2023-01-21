@@ -7,5 +7,5 @@ title: Home
 
 {%
   include gallery.html
-  image1="lab2022.jpeg"
+  image="images/lab2022.jpeg"
 %}

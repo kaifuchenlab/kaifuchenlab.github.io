@@ -60,8 +60,6 @@ The highest building in the middle of this picture is the Enders building (Figur
   height="80%"
 %}
 
-
-
 The main entrance to the Enders building is on the Longwood Avenue (Figure from maps.google.com).
 {%
   include figure.html

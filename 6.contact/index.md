@@ -23,16 +23,16 @@ Enders 1307
 {%
   include figure.html
   image="images/Bchkfc.png"
-  width="40%"
-  height="40%"
+  width="30%"
+  height="30%"
 %}
 
 **Tel:**  
 {%
   include figure.html
   image="images/5385.png"
-  width="20%"
-  height="20%"
+  width="15%"
+  height="15%"
 %}
 
 **Fax:** 

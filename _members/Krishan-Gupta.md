@@ -1,6 +1,6 @@
 ---
 name: Krishan Gupta, Ph.D.
-image: images/KGCL.jpeg
+image: images/KGCL.jpg
 description: Postdoc
 role: postdoc
 ---

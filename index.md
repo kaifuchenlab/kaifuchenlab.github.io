@@ -15,4 +15,4 @@ title: Home
   caption="2023: first Lab lunch after pandemic."
 %}
 
-[Lab Intranet](https://sites.google.com/site/superchenlab/)
+### [Lab Intranet](https://sites.google.com/site/superchenlab/)

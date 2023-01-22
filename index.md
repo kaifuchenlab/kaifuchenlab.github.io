@@ -12,5 +12,5 @@ title: Home
   image="images/lab2022.jpeg"
   width="70%"
   height="70%"
-  caption="The first Lab lunch after the pandemic."
+  caption="The first Lab lunch after pandemic."
 %}

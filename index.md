@@ -2,7 +2,7 @@
 title: Home
 ---
 # Kaifu Chen Lab
-### [Harvard Medical School](https://hms.harvard.edu) | [Boston Children's Hospital](http://www.childrenshospital.org)
+### [Harvard Medical School](https://hms.harvard.edu) &nbsp; &nbsp; | &nbsp; &nbsp;[Boston Children's Hospital](http://www.childrenshospital.org)
 
 {%
   include gallery.html

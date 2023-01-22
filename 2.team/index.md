@@ -7,13 +7,14 @@ nav:
 
 # <i class="fas fa-users"></i>Current Team Members
 
+{% include section.html %}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: pi"
 %}
-{% include section.html %}
 {%
   include list.html
   data="members"
@@ -35,7 +36,6 @@ nav:
 {:.center}
 
 {% include section.html %}
-
 
 ### Lab Alumni
 

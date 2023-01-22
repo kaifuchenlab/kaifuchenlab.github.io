@@ -1,8 +1,8 @@
 ---
 name: Yanqiang Li, PhD
-image: images/YLCL.jpeg
+image: images/YLCL.JPG
 description: Instructor
-role: instructor
+role: postdoc
 ---
 
 Yangqiang's major research interest is in RNA methylation

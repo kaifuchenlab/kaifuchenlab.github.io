@@ -2,7 +2,7 @@
 name: Upton O. Goode
 image: images/member.jpg
 description: Bone Investigator
-role: pi
+role: na
 aliases:
   - U. Goode
   - U. O. Goode

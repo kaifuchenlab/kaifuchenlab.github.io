@@ -37,7 +37,7 @@ nav:
 
 {% include section.html %}
 
-### Lab Alumni
+# <i class="fas fa-users"></i>Lab Alumni
 
 **Yanchun Zhang, Ph.D.**
 01/2020 ~ 01/2022 

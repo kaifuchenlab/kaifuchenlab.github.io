@@ -2,8 +2,6 @@
 title: Home
 ---
 # Chen Lab
-### [Harvard Medical School](https://hms.harvard.edu) 
-### [Boston Children's Hospital](http://www.childrenshospital.org)
 
 {%
   include gallery.html

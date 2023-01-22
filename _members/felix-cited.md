@@ -1,18 +1,8 @@
 ---
-name: Felix Cited
-image: images/member.jpg
-description: Treat Researcher
-role: phd
-group: alum
-aliases:
-  - F. Cited
-  - F Cited
-links:
-  home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+name: Yanqiang Li, PhD
+image: images/YLCL.jpeg
+description: Instructor
+role: instructor
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Yangqiang's major research interest is in RNA methylation

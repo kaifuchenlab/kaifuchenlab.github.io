@@ -50,8 +50,8 @@ The Boston Children's Hospital is embraced by the Harvard Medical School, Dana F
 {%
   include figure.html
   image="images/BCH.png"
-  width="80%"
-  height="80%"
+  width="70%"
+  height="70%"
 %}
 
 
@@ -59,15 +59,15 @@ The highest building in the middle of this picture is the Enders building (Figur
 {%
   include figure.html
   image="images/Enders.png"
-  width="80%"
-  height="80%"
+  width="70%"
+  height="70%"
 %}
 
 The main entrance to the Enders building is on the Longwood Avenue (Figure from maps.google.com).
 {%
   include figure.html
   image="images/EndersEntrance.png"
-  width="80%"
-  height="80%"
+  width="70%"
+  height="70%"
 %}
 

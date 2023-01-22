@@ -3,8 +3,10 @@ title: Home
 ---
 
 # Kaifu Chen Lab
-### Department of Pediatrics, Harvard Medical School
-### Department of Cardiology, Boston Children's Hospital
+### [Harvard Medical School](https://hms.harvard.edu)
+### [Boston Children's Hospital](http://www.childrenshospital.org)
+
+[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
 
 
 {%

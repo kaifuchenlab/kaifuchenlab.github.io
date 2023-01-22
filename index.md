@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Chen Lab
 ---
 ## [Kaifu Chen Lab](https://kaifuchenlab.github.io) 
 

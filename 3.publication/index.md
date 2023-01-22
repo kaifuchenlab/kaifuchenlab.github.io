@@ -25,7 +25,7 @@ BioRxiv.
 Dongyu Zhao*, Min Zhang*, Shaodong Liu, Qi Liu, Sen Zhu, Yanqiang Li, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang*^, Kaifu Chen^. CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells. 
 Nucleic Acids Research. (2022). 
 
-Krishan Gupta, Guangyu Wang, Shuo Zhang, Xinlei Gao, Rongbin Zheng, Yanchun Zhang, Qingshu Meng, Lili Zhang, Qi Cao, Kaifu Chen. StripeDiff: Model-based Algorithm for Differential Analysis of Chromatin Stripe. 
+Krishan Gupta*, Guangyu Wang*, Shuo Zhang*, Xinlei Gao, Rongbin Zheng, Yanchun Zhang, Qingshu Meng, Lili Zhang, Qi Cao, Kaifu Chen. StripeDiff: Model-based Algorithm for Differential Analysis of Chromatin Stripe. 
 Science Advances. (2022). 
 
 Kui Cui*, Xinlei Gao*, Beibei Wang*, Rongbin Zheng, Hao Wu, Yunzhou Dong, Yuling Xiao, Xingya Jiang, Marina V. Malovichko, Kathryn Li, Qianman Peng, Yaowei Lu, Bo Zhu, Rongbin Zheng, Scott Wong, Douglas B. Cowan, MacRae Linton, Sanjay Srivastava, Jinjun Shi, Kaifu Chen^, Hong Chen^. Targeting Epsins by nanotherapy regulates lipid metabolism and promotes ABCG1-mediated cholesterol efflux to fortify atheroma regression. 

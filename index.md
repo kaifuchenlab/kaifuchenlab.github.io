@@ -12,7 +12,7 @@ title: Home
 {%
   include figure.html
   image="images/lab2022.jpeg"
-  width="100%"
-  height="100%"
+  width="200%"
+  height="200%"
   caption="Chen Lab lunch for the first time after the pandemic."
 %}

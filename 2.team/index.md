@@ -18,14 +18,13 @@ nav:
 
 ### Instructor
 
-{%
-  include figure.html
-  image="images/YLCL.jpeg"
-  width="20%"
-  height="20%"
-  caption="Yanqiang Li, Ph.D."
-%}
 
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: instructor"
+%}
 
 ### Postdoctoral Fellow
 

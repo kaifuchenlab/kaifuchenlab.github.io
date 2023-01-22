@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-## Kaifu Chen Lab 
+## [Kaifu Chen Lab](https://kaifuchenlab.github.io) 
 
 {%
   include gallery.html

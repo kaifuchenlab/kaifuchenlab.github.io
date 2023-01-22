@@ -1,5 +1,5 @@
 ---
-title: position
+title: Recruit
 nav:
   order: 3
   tooltip: Position in the lab

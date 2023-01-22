@@ -1,6 +1,6 @@
 ---
 name: Xin Wang, Ph.D.
-image: images/XWCL.jpg
+image: images/XWCL.jpeg
 description: Postdoc
 role: postdoc
 ---

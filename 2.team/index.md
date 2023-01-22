@@ -9,14 +9,11 @@ nav:
 ### Principal Investigator
 
 {%
-  include figure.html
-  image="images/Kfchen.JPG"
-  width="20%"
-  height="20%"
-  caption="Kaifu Chen(陈开富), Ph.D."
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
 %}
-Kaifu received undergraduate training in Biophysics at the Nankai University and Ph.D. training in Genomics (Bioinformatics) in the lab of Dr. Jun Yu (于军) at the Beijing Institute of Genomics, Chinese Academy of Sciences. He performed Bioinformatics research at his postdoctoral stage in the lab of Dr. Wei Li (李蔚) at the Baylor College of medicine (now at UC Irvine). He founded his independent lab as an Assistant Professor of Weill Cornell Medical College at Houston Methodist Hospital, and later became an Associate Professor and the founding Director of their Center for Bioinformatics and Computational Biology. He finally moved the lab to Harvard at BCH in 2020. 
-
 
 
 ### Instructor
@@ -35,12 +32,6 @@ Kaifu received undergraduate training in Biophysics at the Nankai University and
 
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
 {%
   include list.html
   data="members"

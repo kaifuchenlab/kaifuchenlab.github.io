@@ -12,7 +12,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: i"
 %}
 
 
@@ -35,7 +35,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: postdoc"
 %}
 {%
   include list.html
@@ -45,62 +45,8 @@ nav:
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
 
-
-
-
-
-
-
-{%
-  include figure.html
-  image="images/AHCL.jpeg"
-  width="20%"
-  height="20%"
-  caption="Archana Hari, Ph.D."
-%}
-{%
-  include figure.html
-  image="images/KGCL.jpg"
-  width="20%"
-  height="20%"
-  caption="Krishan Gupta, Ph.D."
-%}
-{%
-  include figure.html
-  image="images/RZCL.jpeg"
-  width="20%"
-  height="20%"
-  caption="Rongbin Zheng, Ph.D."
-%}
-{%
-  include figure.html
-  image="images/KACL.jpeg"
-  width="20%"
-  height="20%"
-  caption="Kulandaisamy A, Ph.D."
-%}
-{%
-  include figure.html
-  image="images/XLCL.jpeg"
-  width="20%"
-  height="20%"
-  caption="Xinlei Gao, Ph.D."
-%}
-{%
-  include figure.html
-  image="images/XWCL.jpeg"
-  width="20%"
-  height="20%"
-  caption="Xin Wang, Ph.D."
-%}
-{:.center}
 
 ### Lab Alumni
 

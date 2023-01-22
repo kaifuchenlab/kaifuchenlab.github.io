@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# Chen Lab
+# Kaifu Chen Lab
 
 {%
   include gallery.html
@@ -12,5 +12,5 @@ title: Home
   image="images/lab2022.jpeg"
   width="70%"
   height="70%"
-  caption="Chen Lab lunch for the first time after the pandemic."
+  caption="The first Lab lunch after the pandemic."
 %}

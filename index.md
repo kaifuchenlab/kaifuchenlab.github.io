@@ -1,8 +1,7 @@
 ---
 title: Home
 ---
-# Kaifu Chen Lab 
-## Do Good Science
+## Kaifu Chen Lab 
 
 {%
   include gallery.html

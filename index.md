@@ -12,5 +12,5 @@ title: Home
   image="images/lab2022.jpeg"
   width="70%"
   height="70%"
-  caption="Marking 2023: first Lab lunch after pandemic."
+  caption="2023: first Lab lunch after pandemic."
 %}

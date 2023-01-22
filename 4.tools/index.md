@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-tools"></i>Software and Database
 
 
-**MEBOCOST (BioRxiv, 2022):**
+**[MEBOCOST](https://github.com/zhengrongbin/MEBOCOST) [(BioRxiv, 2022)](https://www.biorxiv.org/content/10.1101/2022.05.30.494067v1):**
 A computational technology to enable detection of cell-cell communications mediated by metabolites and their sensor proteins (receptor, transporter, etc) based on single-cell RNA-Seq data.
 
 **MACMIC (Genomics, Proteomics and Bioinformatics, 2021):**

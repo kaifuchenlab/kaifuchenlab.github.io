@@ -35,6 +35,7 @@ nav:
 %}
 {:.center}
 
+
 {% include section.html %}
 
 # <i class="fas fa-users"></i>Lab Alumni

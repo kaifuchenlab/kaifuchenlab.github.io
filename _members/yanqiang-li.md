@@ -1,6 +1,6 @@
 ---
 name: Yanqiang Li, PhD
-image: images/YLCL.JPG
+image: images/YLCL.jpeg
 description: Instructor
 role: postdoc
 ---

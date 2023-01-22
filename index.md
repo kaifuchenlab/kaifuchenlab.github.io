@@ -1,5 +1,5 @@
 ---
-title: Chen Lab & Harvard
+title: Chen Lab @ Harvard
 ---
 ## [Kaifu Chen Lab](https://kaifuchenlab.github.io) 
 

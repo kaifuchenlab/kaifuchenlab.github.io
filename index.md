@@ -2,7 +2,9 @@
 title: Home
 ---
 
-### This is the new website under construction for the Chen Lab
+# Kaifu Chen Lab
+### Department of Pediatrics, Harvard Medical School
+### Department of Cardiology, Boston Children's Hospital
 
 
 {%

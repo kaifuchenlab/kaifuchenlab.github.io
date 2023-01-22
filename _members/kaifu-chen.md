@@ -2,7 +2,7 @@
 name: Kaifu Chen, PhD
 image: images/Kfchen.JPG
 description: Principal Investigator
-role: Principal Investigator
+role: pi
 ---
 Kaifu Chen (陈开富), Ph.D.
 Associate Professor, Harvard Medical School 

@@ -4,7 +4,7 @@ image: images/Kfchen.JPG
 description: Principal Investigator
 role: pi
 ---
-Kaifu Chen (陈开富), Ph.D.
+**Kaifu Chen (陈开富), Ph.D.**
 
 Associate Professor, Harvard Medical School 
 

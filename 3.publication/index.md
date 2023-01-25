@@ -32,7 +32,7 @@ Kui Cui\*, Xinlei Gao\*, Beibei Wang\*, Rongbin Zheng, Hao Wu, Yunzhou Dong, Yul
 Circulation Research. (2022)
 
 Yunzhou Dong, Beibei Wang, Mulong Du, Bo Zhu, Kui Cui, Douglas Cowan, Sudarshan Bhattacharjee, Scott Wong, Da-Zhi Wang, Kaifu Chen, Joyce Bischoff, MacRae Linton, and Hong Chen. Targeting Epsins to Inhibit FGF Signaling while Potentiating TGF-β Signaling Constrains Endothelial-to-Mesenchymal-Transition in Atherosclerosis. 
-Circulation. (in press)
+Circulation. (2022)
 
 Yang Yi\*, Yanqiang Li\*, Chao Li\*, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Long Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. Methylation-dependent and -independent roles of EZH2 synergize in CDCA8 activation in prostate cancer. 
 Oncogene. (2022)

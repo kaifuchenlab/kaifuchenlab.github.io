@@ -2,7 +2,7 @@
 title: Home
 ---
 # <i class="fas fa-microscope"></i> Do Good Science
-## <i class="fas fa-users"></i>Kaifu Chen Lab
+## <i class="fas fa-users"></i> Kaifu Chen Lab
 
 {%
   include gallery.html

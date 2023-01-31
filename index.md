@@ -1,8 +1,8 @@
 ---
 title: Home
 ---
-# # <i class="fas fa-microscope"></i> Do Good Science
-## Kaifu Chen Lab
+# <i class="fas fa-microscope"></i> Do Good Science
+## <i class="fas fa-users"></i>Kaifu Chen Lab
 
 {%
   include gallery.html
@@ -17,5 +17,3 @@ title: Home
 %}
 
 ### [Lab Intranet](https://sites.google.com/site/superchenlab/)
-
-

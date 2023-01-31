@@ -8,6 +8,7 @@ title: Home
   include gallery.html
   image="images/lab2022.jpeg"
 %}
+
 {%
   include figure.html
   image="images/lab2022.jpeg"
@@ -17,4 +18,3 @@ title: Home
 %}
 
 ### [Lab Intranet](https://sites.google.com/site/superchenlab/)
-

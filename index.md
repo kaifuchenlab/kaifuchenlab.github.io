@@ -3,7 +3,7 @@ title: Home
 ---
 ## [Kaifu Chen Lab](https://kaifuchenlab.github.io)
 
-# <i class="fas fa-users"></i>Do Good Science &nbsp; <i class="fas fa-microscope"></i>
+ 
 
 {%
   include gallery.html

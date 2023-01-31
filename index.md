@@ -1,8 +1,8 @@
 ---
 title: Home
 ---
+# Do Good Science
 ## [Kaifu Chen Lab](https://kaifuchenlab.github.io) 
-## Do Good Science
 
 {%
   include gallery.html

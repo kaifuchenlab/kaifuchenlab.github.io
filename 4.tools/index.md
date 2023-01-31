@@ -11,6 +11,9 @@ nav:
 **[MEBOCOST](https://github.com/zhengrongbin/MEBOCOST) [(BioRxiv, 2022)](https://www.biorxiv.org/content/10.1101/2022.05.30.494067v1):**
 A computational technology to enable detection of cell-cell communications mediated by metabolites and their sensor proteins (receptor, transporter, etc) based on single-cell RNA-Seq data.
 
+**[StripeDiff](https://github.com/GuangyWang/stripeDiff) (Science Advances, 2022):**
+A statistical method and software to identify differential stripes between two Hi-C samples.
+
 **[MACMIC](https://github.com/bxia888/MACMIC) (Genomics, Proteomics and Bioinformatics, 2021):**
 A statistical method to define epigenomic features that have maximal co-localization but minimal correlation across the genome.
 

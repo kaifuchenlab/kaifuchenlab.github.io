@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# Do Good Science
+# # <i class="fas fa-microscope"></i> Do Good Science
 ## Kaifu Chen Lab
 
 {%

@@ -2,7 +2,7 @@
 title: Home
 ---
 # Do Good Science
-## [Kaifu Chen Lab](https://kaifuchenlab.github.io) 
+## Kaifu Chen Lab
 
 {%
   include gallery.html

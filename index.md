@@ -1,8 +1,9 @@
 ---
 title: Home
 ---
-# <i class="fas fa-microscope"></i> Do Good Science
-## <i class="fas fa-users"></i> Kaifu Chen Lab
+## [Kaifu Chen Lab] (https://kaifuchenlab.github.io)
+
+# <i class="fas fa-microscope"></i> Do Good Science <i class="fas fa-users"></i> 
 
 {%
   include gallery.html

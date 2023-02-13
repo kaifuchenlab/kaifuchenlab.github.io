@@ -24,6 +24,8 @@ BioRxiv.
 
 Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (2023).
 
+Yang Yi, Yanqiang Li, Kaifu Chen and Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget. (2023).
+
 ### 2022
 
 Dongyu Zhao\*, Min Zhang\*, Shaodong Liu, Qi Liu, Sen Zhu, Yanqiang Li, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang\*^, Kaifu Chen^. CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells. 

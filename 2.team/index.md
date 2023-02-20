@@ -83,3 +83,12 @@ From the Nanjing University. Moved to New York for family reason.
 **Xin Wang, Ph.D.**
 12/2018 ~ 01/2023
 From the King Abdullah University of Science and Technology. Moved to Ohio State University for a faculty position.
+
+
+# <i class="fas fa-users"></i>Intern Alumi
+2022
+Jasmine Liu, from Northestern University
+Xuanqi Li, from Texas A&M University
+Shakhi Andrews, from Brooke High School
+
+

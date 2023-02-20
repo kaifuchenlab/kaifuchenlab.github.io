@@ -20,5 +20,5 @@ title: Home
 
 ### [Lab Intranet](https://sites.google.com/site/superchenlab/)
 
-[GitHub](https://github.com/kaifuchenlab/kaifuchenlab.github.io)
+### [GitHub](https://github.com/kaifuchenlab/kaifuchenlab.github.io)
 

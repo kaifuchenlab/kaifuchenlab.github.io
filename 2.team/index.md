@@ -85,7 +85,7 @@ From the Nanjing University. Moved to New York for family reason.
 From the King Abdullah University of Science and Technology. Moved to Ohio State University for a faculty position.
 
 
-# <i class="fas fa-users"></i>Intern Alumi
+# <i class="fas fa-users"></i>Intern (Visitor) Alumi
 
 **Lei La**, 2017, from Southern Medical University
 

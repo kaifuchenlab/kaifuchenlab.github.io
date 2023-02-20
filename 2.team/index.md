@@ -87,7 +87,7 @@ From the King Abdullah University of Science and Technology. Moved to Ohio State
 
 # <i class="fas fa-users"></i>Intern&Visitor Alumi
 
-**La Lei**, 2017, from Southern Medical University
+**Lei La**, 2017, from Southern Medical University
 
 **Jasmine Liu**, Summer 2022, from Northestern University
 

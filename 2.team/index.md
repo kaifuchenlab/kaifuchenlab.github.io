@@ -87,8 +87,8 @@ From the King Abdullah University of Science and Technology. Moved to Ohio State
 
 # <i class="fas fa-users"></i>Intern Alumi
 
-Jasmine Liu, Summer 2022, from Northestern University
+**Jasmine Liu**, Summer 2022, from Northestern University
 
-Xuanqi Li, Summer 2022, from Texas A&M University
+**Xuanqi Li**, Summer 2022, from Texas A&M University
 
-Shakhi Andrews, Summer 2022, from Brooke High School
+**Shakhi Andrews**, Summer 2022, from Brooke High School

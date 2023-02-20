@@ -39,7 +39,7 @@ Enders 1307
   include link.html
   type="phone"
   icon=""
-  text="(617) 919-5385"
+  text="1-617-919-5385"
   tooltip=""
   link="+1-617-919-5385"
   style="button"

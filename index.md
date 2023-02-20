@@ -15,7 +15,7 @@ title: Home
   image="images/lab2022.jpeg"
   width="70%"
   height="70%"
-  caption="2023: the first lab lunch after pandemic."
+  caption="2023: the first lab lunch after the pandemic."
 %}
 
 ### [Lab Intranet](https://sites.google.com/site/superchenlab/)

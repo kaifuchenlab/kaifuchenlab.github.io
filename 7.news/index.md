@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 **June, 2022:**
-Dr. Yang Y, a bioinformatics PhD from the University of Virginia, will join the lab as a postdoc.
+Dr. Yang Yu, a bioinformatics PhD from the University of Virginia, will join the lab as a postdoc.
 Dr. Archana Hari, a bioinformatics PhD from the University of Maryland, will join the lab as a postdoc.
 Yanqiang will move to a faculty position very soon. Congratulations to Yanqiang!
 Xin will move to a faculty position very soon. Congratulations to Xin!

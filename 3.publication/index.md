@@ -26,6 +26,9 @@ Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir
 
 Yang Yi, Yanqiang Li, Kaifu Chen and Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget. (2023).
 
+Sana Nasim , Jill Wylie-Sears , Xinlei Gao , Qianman Peng , Bo Zhu , Kaifu Chen , Hong Chen, Joyce Bischoff. CD45 is sufficient to initiate EndMT in human endothelial cells. 
+ATVB. (2023) 
+
 ### 2022
 
 Dongyu Zhao\*, Min Zhang\*, Shaodong Liu, Qi Liu, Sen Zhu, Yanqiang Li, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang\*^, Kaifu Chen^. CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells. 
@@ -45,9 +48,6 @@ Oncogene. (2022)
 
 Xiaolei Liu, Kui Cui, Hao Wu, Kathryn S. Li, Qianman Peng, Donghai Wang, Douglas B. Cowan, J. Brandon Dixon, R. Sathish Srinivasan, Diane R. Bielenberg, Kaifu Chen, Da-Zhi Wang, Yabing Chen, Hong Chen. Promoting Lymphangiogenesis and Lymphatic Growth and Remodeling to Treat Cardiovascular and Metabolic Diseases. 
 ATVB. (2022). 
-
-Sana Nasim , Jill Wylie-Sears , Xinlei Gao , Qianman Peng , Bo Zhu , Kaifu Chen , Hong Chen, Joyce Bischoff. CD45 is sufficient to initiate EndMT in human endothelial cells. 
-ATVB. (Acceptable in principle) 
 
 Bandana Singh, Kathryn Li, Kui Cui, Qianman Peng, Douglas B Cowan, Da-Zhi Wang, Kaifu Chen, Hong Chen. Defective Efferocytosis of Vascular Cells in Heart Disease. 
 Front Cardiovasc Med. (2022). 

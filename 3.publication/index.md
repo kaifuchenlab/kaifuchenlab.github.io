@@ -27,7 +27,7 @@ Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir
 Yang Yi, Yanqiang Li, Kaifu Chen and Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget. (2023).
 
 Sana Nasim , Jill Wylie-Sears , Xinlei Gao , Qianman Peng , Bo Zhu , Kaifu Chen , Hong Chen, Joyce Bischoff. CD45 is sufficient to initiate EndMT in human endothelial cells. 
-ATVB. (2023) 
+ATVB. (In press) 
 
 ### 2022
 

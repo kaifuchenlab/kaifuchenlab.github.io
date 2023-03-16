@@ -24,7 +24,7 @@ BioRxiv.
 Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. Low RNA stability signifies increased post-transcriptional regulation of cell identity gene. 
 Nucleic Acids Research. (In press). 
 
-Jie Lv\*, Shu Meng\*, Qilin Gu\*, Rongbin Zheng, Xinlei Gao, Yihan Zuo, Sen Zhu Jun-dae Kim Bo Xia Dongyu Zhao , Yanqiang Li , Guangyu Wang , Xin Wang , Qingshu Meng, Qi Cao, John P. Cooke^, Longhou Fang^, Kaifu Chen^, Lili Zhang\*^. Epigenetic Landscape Reveals MECOM As an Endothelial Lineage Regulator. Nature Communications. (In press).
+Jie Lv\*, Shu Meng\*, Qilin Gu\*, Rongbin Zheng, Xinlei Gao, Yihan Zuo, Sen Zhu Jun-dae Kim Bo Xia Dongyu Zhao , Yanqiang Li , Guangyu Wang , Xin Wang , Qingshu Meng, Qi Cao, John P. Cooke^, Longhou Fang^, Kaifu Chen^, Lili Zhang^. Epigenetic Landscape Reveals MECOM As an Endothelial Lineage Regulator. Nature Communications. (In press).
 
 
 Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (2023).

@@ -29,6 +29,8 @@ Developmental Cell. (In press).
 
 Jie Lv\*, Shu Meng\*, Qilin Gu\*, Rongbin Zheng, Xinlei Gao, Yihan Zuo, Sen Zhu Jun-dae Kim Bo Xia Dongyu Zhao , Yanqiang Li , Guangyu Wang , Xin Wang , Qingshu Meng, Qi Cao, John P. Cooke^, Longhou Fang^, Kaifu Chen^, Lili Zhang^. Epigenetic Landscape Reveals MECOM As an Endothelial Lineage Regulator. Nature Communications. (In press).
 
+Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunzhou Dong,  Yuling Xiao,  Xingya Jiang,  Marina V. Malovichko, Kathryn Li,  Qianman Peng,  Yao Wei Lu,  Bo Zhu,  Rongbin Zheng,  Scott Wong,  Douglas B. Cowan,  MacRae Linton,  Sanjay Srivastava, Jinjun Shi,  Kaifu Chen^ and  Hong Chen^. Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression. Circulation Research. (2023)
+
 Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (2023).
 
 Yang Yi, Yanqiang Li, Kaifu Chen and Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget. (2023).
@@ -43,9 +45,6 @@ Nucleic Acids Research. (2022).
 
 Krishan Gupta\*, Guangyu Wang\*, Shuo Zhang\*, Xinlei Gao, Rongbin Zheng, Yanchun Zhang, Qingshu Meng, Lili Zhang, Qi Cao, Kaifu Chen. StripeDiff: Model-based Algorithm for Differential Analysis of Chromatin Stripe. 
 Science Advances. (2022). 
-
-Kui Cui\*, Xinlei Gao\*, Beibei Wang\*, Rongbin Zheng, Hao Wu, Yunzhou Dong, Yuling Xiao, Xingya Jiang, Marina V. Malovichko, Kathryn Li, Qianman Peng, Yaowei Lu, Bo Zhu, Rongbin Zheng, Scott Wong, Douglas B. Cowan, MacRae Linton, Sanjay Srivastava, Jinjun Shi, Kaifu Chen^, Hong Chen^. Targeting Epsins by nanotherapy regulates lipid metabolism and promotes ABCG1-mediated cholesterol efflux to fortify atheroma regression. 
-Circulation Research. (2022)
 
 Yunzhou Dong, Beibei Wang, Mulong Du, Bo Zhu, Kui Cui, Douglas Cowan, Sudarshan Bhattacharjee, Scott Wong, Da-Zhi Wang, Kaifu Chen, Joyce Bischoff, MacRae Linton, and Hong Chen. Targeting Epsins to Inhibit FGF Signaling while Potentiating TGF-β Signaling Constrains Endothelial-to-Mesenchymal-Transition in Atherosclerosis. 
 Circulation. (2022)

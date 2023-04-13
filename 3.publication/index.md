@@ -11,25 +11,25 @@ nav:
 
 ### BioRxiv 
 
-Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. ‘’‘MEBOCOST: Metabolic Cell-Cell Communication Modeling by Single Cell Transcriptome’‘’. 
+Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **MEBOCOST: Metabolic Cell-Cell Communication Modeling by Single Cell Transcriptome**. 
 BioRxiv. 
 
-Xin Wang, Dongyu Zhao, Yanqiang Li, Yang Yu, Grzegorz Ira, Lili Zhang, Kaifu Chen. Mutation of mutator genes marks immunotherapy efficacy. 
+Xin Wang, Dongyu Zhao, Yanqiang Li, Yang Yu, Grzegorz Ira, Lili Zhang, Kaifu Chen. **Mutation of mutator genes marks immunotherapy efficacy.** 
 Research Square.
 
 Farnaz Shamsi\*, Rongbin Zheng\*, Li-Lun Ho, Kaifu Chen^, Yu-Hua Tseng^. Comprehensive analysis of intercellular communication in thermogenic adipose niche. 
 BioRxiv.
 
 ### 2023
-Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. Low RNA stability signifies increased post-transcriptional regulation of cell identity gene. 
+Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene.** 
 Nucleic Acids Research. (In press). 
 
-Dynamic changes in P300 enhancers and enhancer-promoter contacts control mouse cardiomyocyte maturation. Pingzhu Zhou*, Nathan J. VanDusen*, Yanchun Zhang*, Yangpo Cao*, Isha Sethi Rong Hu, Shuo Zhang, Guangyu Wang, Lincai Ye, Neil Mazumdar Jian Chen Xiaoran Zhang Yuxuan Guo, Bin Li, Qing Ma Julianna Y. Lee Wei-liang Gu, Guo-Cheng Yuan, Bing Ren, Kaifu Chen^, William T. Pu^. 
+**Dynamic changes in P300 enhancers and enhancer-promoter contacts control mouse cardiomyocyte maturation.** Pingzhu Zhou\*, Nathan J. VanDusen\*, Yanchun Zhang\*, Yangpo Cao\*, Isha Sethi Rong Hu, Shuo Zhang, Guangyu Wang, Lincai Ye, Neil Mazumdar Jian Chen Xiaoran Zhang Yuxuan Guo, Bin Li, Qing Ma Julianna Y. Lee Wei-liang Gu, Guo-Cheng Yuan, Bing Ren, Kaifu Chen^, William T. Pu^. 
 Developmental Cell. (In press).
 
-Jie Lv\*, Shu Meng\*, Qilin Gu\*, Rongbin Zheng, Xinlei Gao, Yihan Zuo, Sen Zhu Jun-dae Kim Bo Xia Dongyu Zhao , Yanqiang Li , Guangyu Wang , Xin Wang , Qingshu Meng, Qi Cao, John P. Cooke^, Longhou Fang^, Kaifu Chen^, Lili Zhang^. Epigenetic Landscape Reveals MECOM As an Endothelial Lineage Regulator. Nature Communications. (In press).
+Jie Lv\*, Shu Meng\*, Qilin Gu\*, Rongbin Zheng, Xinlei Gao, Yihan Zuo, Sen Zhu Jun-dae Kim Bo Xia Dongyu Zhao , Yanqiang Li , Guangyu Wang , Xin Wang , Qingshu Meng, Qi Cao, John P. Cooke^, Longhou Fang^, Kaifu Chen^, Lili Zhang^. **Epigenetic Landscape Reveals MECOM As an Endothelial Lineage Regulator.** Nature Communications. (In press).
 
-Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunzhou Dong,  Yuling Xiao,  Xingya Jiang,  Marina V. Malovichko, Kathryn Li,  Qianman Peng,  Yao Wei Lu,  Bo Zhu,  Rongbin Zheng,  Scott Wong,  Douglas B. Cowan,  MacRae Linton,  Sanjay Srivastava, Jinjun Shi,  Kaifu Chen^ and  Hong Chen^. Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression. Circulation Research. (2023)
+Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunzhou Dong,  Yuling Xiao,  Xingya Jiang,  Marina V. Malovichko, Kathryn Li,  Qianman Peng,  Yao Wei Lu,  Bo Zhu,  Rongbin Zheng,  Scott Wong,  Douglas B. Cowan,  MacRae Linton,  Sanjay Srivastava, Jinjun Shi,  Kaifu Chen^ and  Hong Chen^. **Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression. Circulation Research.** (2023)
 
 Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (2023).
 
@@ -40,10 +40,10 @@ ATVB. (2023)
 
 ### 2022
 
-Dongyu Zhao\*, Min Zhang\*, Shaodong Liu, Qi Liu, Sen Zhu, Yanqiang Li, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang\*^, Kaifu Chen^. CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells. 
+Dongyu Zhao\*, Min Zhang\*, Shaodong Liu, Qi Liu, Sen Zhu, Yanqiang Li, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang\*^, Kaifu Chen^. **CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells.** 
 Nucleic Acids Research. (2022). 
 
-Krishan Gupta\*, Guangyu Wang\*, Shuo Zhang\*, Xinlei Gao, Rongbin Zheng, Yanchun Zhang, Qingshu Meng, Lili Zhang, Qi Cao, Kaifu Chen. StripeDiff: Model-based Algorithm for Differential Analysis of Chromatin Stripe. 
+Krishan Gupta\*, Guangyu Wang\*, Shuo Zhang\*, Xinlei Gao, Rongbin Zheng, Yanchun Zhang, Qingshu Meng, Lili Zhang, Qi Cao, Kaifu Chen. **StripeDiff: Model-based Algorithm for Differential Analysis of Chromatin Stripe.** 
 Science Advances. (2022). 
 
 Yunzhou Dong, Beibei Wang, Mulong Du, Bo Zhu, Kui Cui, Douglas Cowan, Sudarshan Bhattacharjee, Scott Wong, Da-Zhi Wang, Kaifu Chen, Joyce Bischoff, MacRae Linton, and Hong Chen. Targeting Epsins to Inhibit FGF Signaling while Potentiating TGF-β Signaling Constrains Endothelial-to-Mesenchymal-Transition in Atherosclerosis. 
@@ -61,7 +61,7 @@ Front Cardiovasc Med. (2022).
 ### 2021
 
 Yang Yi\*, Yanqiang Li\*, Qingshu Meng\*, Qiaqia Li, Fuxi Li, Bing Lu, Jiangchuan Shen, Ladan Fazli, Dongyu Zhao, Chao Li, Weihua Jiang, Rui Wang, Qipeng Liu, Aileen Szczepanski, Qianru Li, Wei Qin, Adam B. Weiner, Tamara L. Lotan, Zhe Ji, Sundeep Kalantry, Lu Wang, Edward M. Schaeffer, Hengyao Niu, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^.
-A PRC2-independent function for EZH2 in regulating rRNA 2′-O methylation and IRES-dependent translation.
+**A PRC2-independent function for EZH2 in regulating rRNA 2′-O methylation and IRES-dependent translation.**
 Nature Cell Biology. (2021) 
 
 Guangyu Wang\*, Bo Xia\*, Jie Lv, Dongyu Zhao, Yanqiang Li, Yiwen Bu, Xin Wang, John P. Cooke, Qi Cao, Min Gyu Lee, Lili Zhang, Kaifu Chen^. MACMIC Reveals Dual Role of CTCF in Epigenetic Regulation of Cell Identity Genes.
@@ -78,22 +78,22 @@ Frontiers in Genetics. (2021).
 
 ### 2020
 
-Shu Meng\*^, Jie Lv\*, Palas K. Chanda, Iris Owusu, Kaifu Chen^, John P. Cooke^. Reservoir of Fibroblasts Promotes Recovery from Limb Ischemia. 
+Shu Meng\*^, Jie Lv\*, Palas K. Chanda, Iris Owusu, Kaifu Chen^, John P. Cooke^. **Reservoir of Fibroblasts Promotes Recovery from Limb Ischemia.** 
 Circulation. (2020) 
 
-Dongyu Zhao\*, Lili Zhang\*, Min Zhang, Bo Xia, Jie Lv, Guangyu Wang, Qingshu Meng, Yang Yi, Sen Zhu, Alin S. Tomoiaga, Min Gyu Lee, John P. Cooke, Qi Cao^, Kaifu Chen^. Broad Genic Repression Domains Signify Enhanced Silencing of Oncogenes. 
+Dongyu Zhao\*, Lili Zhang\*, Min Zhang, Bo Xia, Jie Lv, Guangyu Wang, Qingshu Meng, Yang Yi, Sen Zhu, Alin S. Tomoiaga, Min Gyu Lee, John P. Cooke, Qi Cao^, Kaifu Chen^. **Broad Genic Repression Domains Signify Enhanced Silencing of Oncogenes.** 
 Nature Communications. (2020b) 
 
-Bo Xia\*, Dongyu Zhao\*, Guangyu Wang\*, Min Zhang, Jie Lv, Alin S. Tomoiaga, Yanqiang Li, Xin Wang, Shu Meng, John P. Cooke, Qi Cao^, Lili Zhang^, Kaifu Chen^. Machine learning reveals cell identity regulator by histone codes. 
+Bo Xia\*, Dongyu Zhao\*, Guangyu Wang\*, Min Zhang, Jie Lv, Alin S. Tomoiaga, Yanqiang Li, Xin Wang, Shu Meng, John P. Cooke, Qi Cao^, Lili Zhang^, Kaifu Chen^. **Machine learning reveals cell identity regulator by histone codes.** 
 Nature Communications. (2020a) 
 
-Guangyu Wang, Qingshu Meng, Bo Xia, Jie Lu, Dongyu Zhao, Yanqiang Li, Xin Wang, Lili Zhang, John P. Cooke, Qi Cao^, Kaifu Chen^. TADsplimer reveals splits and mergers of topologically associating domains for epigenetic regulation of transcription. 
+Guangyu Wang, Qingshu Meng, Bo Xia, Jie Lu, Dongyu Zhao, Yanqiang Li, Xin Wang, Lili Zhang, John P. Cooke, Qi Cao^, Kaifu Chen^. **TADsplimer reveals splits and mergers of topologically associating domains for epigenetic regulation of transcription.** 
 Genome Biology. (2020) 
 
 Qiang Wang, Dongyu Zhao, Miao Xian, Zhuo Wang, Enguang Bi, Pan Su, Jianfei Qian, Xingzhe Ma, Maojie Yang, Lintao Liu, Youli Zu, Sai Ravi Pingali, Kaifu Chen, and Zhen Cai, Qing Yi. MIF as a biomarker and therapeutic target for overcoming resistance to proteasome inhibitors in human myeloma. 
 Blood. (2020) 
 
-Sen Zhu\*, Dongyu Zhao\*, Chao Li\*, Qiaqia Li, Weihua Jiang, Qipeng Liu, Rui Wang, Ladan Fazli, Yinan Li, Lili Zhang, Yang Yi, Qingshu Meng, Wanyi Wang, Guangyu Wang, Min Zhang, Xiongbing Zu, Wei Zhao, Tuo Deng, Jindan Yu, Xuesen Dong, KaiFu Chen^, Qi Cao^. BMI1 is directly regulated by androgen receptor to promote castration-resistance in prostate cancer. 
+Sen Zhu\*, Dongyu Zhao\*, Chao Li\*, Qiaqia Li, Weihua Jiang, Qipeng Liu, Rui Wang, Ladan Fazli, Yinan Li, Lili Zhang, Yang Yi, Qingshu Meng, Wanyi Wang, Guangyu Wang, Min Zhang, Xiongbing Zu, Wei Zhao, Tuo Deng, Jindan Yu, Xuesen Dong, KaiFu Chen^, Qi Cao^. **BMI1 is directly regulated by androgen receptor to promote castration-resistance in prostate cancer.** 
 Oncogene. (2020) 
 
 Motao Zhu, Guangtong Deng, Peng Tan, Changsheng Xing, Cuiping Guan, Chongming Jiang, Yinlong Zhang, Bo Ning, Chaoran Li, Bingnan Yin, Kaifu Chen, Yuliang Zhao, Helen Y Wang, Beth Levine, Guangjun Nie, Rong-Fu Wang. Beclin 2 negatively regulates innate immune signaling and tumor development.
@@ -105,7 +105,7 @@ Molecular Cancer Therapeutics.
 
 ### 2019
 
-Qilin Gu, Xiaojie Yang, Jie Lv, Jiaxiong Zhang, Bo Xia, Jun-dae Kim, Ruoyu Wang, Feng Xiong, Shu Meng, Thomas P. Clements, Bhavna Tandon, Daniel S. Wagner, Miguel F. Diaz, Pamela L. Wenzel, Yury I. Miller, David Traver, John P. Cooke, Wenbo Li, Leonard I. Zon, Kaifu Chen^, Yongping Bai^, Longhou Fang^. AIBP-mediated Cholesterol Efflux Instructs Hematopoietic Stem and Progenitor Cell Fate. 
+Qilin Gu, Xiaojie Yang, Jie Lv, Jiaxiong Zhang, Bo Xia, Jun-dae Kim, Ruoyu Wang, Feng Xiong, Shu Meng, Thomas P. Clements, Bhavna Tandon, Daniel S. Wagner, Miguel F. Diaz, Pamela L. Wenzel, Yury I. Miller, David Traver, John P. Cooke, Wenbo Li, Leonard I. Zon, Kaifu Chen^, Yongping Bai^, Longhou Fang^. **AIBP-mediated Cholesterol Efflux Instructs Hematopoietic Stem and Progenitor Cell Fate.** 
 Science. (2019)
 
 Qipeng Liu\*, Guangyu Wang\*, Qiaqia Li\*, Weihua Jiang, Jung‐Sun Kim, Rui Wang, Sen Zhu, Xiaoju Wang, Lin Yan, Yang Yi, Lili Zhang, Qingshu Meng, Chao Li, Dongyu Zhao, Yuanyuan Qiao, Yong Li, Demirkan B. Gursel, Arul M. Chinnaiyan, Kaifu Chen^, Qi Cao^. Polycomb Group Proteins EZH2 and EED Directly Regulate Androgen Receptor in Advanced Prostate Cancer. 
@@ -119,17 +119,17 @@ Endocrine-Related Cancer (2019)
 
 ### 2018
 
-Yang Yu\*, Nhung Pham\*, Bo Xia\*, Alma Papusha, Guangyu Wang, Zhenxin Yan, Guang Peng, Kaifu Chen^, Grzegorz Ira1^. Dna2 nuclease deficiency results in large and complex DNA insertions at chromosomal breaks. 
+Yang Yu\*, Nhung Pham\*, Bo Xia\*, Alma Papusha, Guangyu Wang, Zhenxin Yan, Guang Peng, Kaifu Chen^, Grzegorz Ira1^. **Dna2 nuclease deficiency results in large and complex DNA insertions at chromosomal breaks.** 
 Nature. (2018) 
 
-Sen Zhu\*, Dongyu Zhao\*, Lin Yan\*, Weihua Jiang, Jungsun Kim, Bingnan Gu, Qipeng Liu, Rui Wang, Bo Xia, Jonathan Zhao, Gang Song, Xiaobing Shi, HungMing Lam, Xuesen Dong, Jindan Yu, Kaifu Chen^, Qi Cao^. BMI1 Regulates Androgen Receptor in Prostate Cancer Independently of the Polycomb Repressive Complex I. 
+Sen Zhu\*, Dongyu Zhao\*, Lin Yan\*, Weihua Jiang, Jungsun Kim, Bingnan Gu, Qipeng Liu, Rui Wang, Bo Xia, Jonathan Zhao, Gang Song, Xiaobing Shi, HungMing Lam, Xuesen Dong, Jindan Yu, Kaifu Chen^, Qi Cao^. **BMI1 Regulates Androgen Receptor in Prostate Cancer Independently of the Polycomb Repressive Complex I.** 
 Nature Communications. (2018) 
 Featured in Editors' Highlights Webpage 
 
-Shilpa S. Dhar\*, Dongyu Zhao\*, Tao Lin, Bingnan Gu, Khusboo Pal, Hunain Alam, Jie Lv, Vidya Gopalakrishnan, Wei Li, Ali Shilatifard, Roy V. Sillitoe, Kaifu Chen^, Min Gyu Lee^. MLL4 is required to maintain broad H3K4me3 peaks and super-enhancers at tumor suppressor genes. 
+Shilpa S. Dhar\*, Dongyu Zhao\*, Tao Lin, Bingnan Gu, Khusboo Pal, Hunain Alam, Jie Lv, Vidya Gopalakrishnan, Wei Li, Ali Shilatifard, Roy V. Sillitoe, Kaifu Chen^, Min Gyu Lee^. **MLL4 is required to maintain broad H3K4me3 peaks and super-enhancers at tumor suppressor genes.** 
 Molecular Cell. (2018)
 
-Zheng Hu\*, Bo Xia\*, Spike Postnikoff, Troy A Harkness, JaHwan Seol, Alin S Tomoiaga, Wei Li, Kaifu Chen^, and Jessica K. Tyler^. Ssd1 and Gcn2 suppress global translational efficiency in replicatively aged yeast. 
+Zheng Hu\*, Bo Xia\*, Spike Postnikoff, Troy A Harkness, JaHwan Seol, Alin S Tomoiaga, Wei Li, Kaifu Chen^, and Jessica K. Tyler^. **Ssd1 and Gcn2 suppress global translational efficiency in replicatively aged yeast.** 
 Elife. (2018)
 
 Hyun Jung Park, Ping Ji, Soyeon Kim, Zheng Xia, Benjamin Rodriguez, Lei Li, Jianzhong Su, Kaifu Chen, Chioniso Masamha, David Baillat, Ms. Camilla Fontes, Ann-Bin Shyu, Joel Neilson, Eric Wagner, Wei Li. 3ʹ-UTR Shortening Represses Tumor Suppressor Genes in trans by Disrupting ceRNA Crosstalk. 
@@ -152,7 +152,7 @@ Developmental Cell. (2018)
 
 ### 2017 
 
-Shaofeng Liu\*, Zhiyun Xu\*, He Leng\*, Pu Zheng, Jiayi Yang, Kaifu Chen, Jianxun Feng, Qing Li. RPA binds histone H3-H4 and functions in DNA replication–coupled nucleosome assembly. 
+Shaofeng Liu\*, Zhiyun Xu\*, He Leng\*, Pu Zheng, Jiayi Yang, Kaifu Chen, Jianxun Feng, Qing Li. **RPA binds histone H3-H4 and functions in DNA replication–coupled nucleosome assembly.** 
 Science. (2017) 
 
 Narkhyun Bae\*, Monica Viviano\*, Xiaonan Su\*, Jie LV, Donghang Cheng, Cari Sagum, Sabrina Castellano, Xue Bai, Claire Johnson, Mahmoud Ibrahim Khalil, Kaifu Chen, Haitao Li^, Gianluca Sbardella^ and Mark T. Bedford^. Evolving Spindlin1 Small Molecule Inhibitors Using Protein Microarrays. 
@@ -175,7 +175,7 @@ Molecular and Cellular Endocrinology. (2017)
 Li N\*, Li Y\*, Lv J\*, Zheng X, Wen H, Shen H, Zhu G, Chen TY, Dhar SS, Kan PY, Wang Z, Shiekhattar R, Shi X, Lan F, Chen K, Li W, Li H, Lee MG. ZMYND8 reads the dual histone mark H3K4me1-H3K14ac to antagonize the expression of metastasis-linked genes. 
 Molecular Cell (2016)
 
-Jie Lv, Chen K. Broad H3K4me3 as a Novel Epigenetic Signature for Normal Development and Disease. 
+Jie Lv, Chen K. **Broad H3K4me3 as a Novel Epigenetic Signature for Normal Development and Disease.** 
 Genomics, proteomics & bioinformatics (2016) 
 
 Lee S, Chen T, Dhar S, Gu B, Chen K, Kim Y, Li W, Lee M. A feedback loop comprising PRMT7 and miR-24-2 interplays with Oct4, Nanog, Klf4, c-Myc to regulate stemness. 
@@ -186,21 +186,21 @@ Journal of the American Heart Association. (2016)
 
 ### 2015 
 
-Chen K\*, Chen Z\*, Wu D, Zhang L, Lin X, Su J, Rodriguez B, Xi Y, Xia Z, Chen X, Shi X, Wang Q, Li W. Broad H3K4me3 is associated with increased transcription elongation and enhancer activity at tumor-suppressor genes. 
+Chen K\*, Chen Z\*, Wu D, Zhang L, Lin X, Su J, Rodriguez B, Xi Y, Xia Z, Chen X, Shi X, Wang Q, Li W. **Broad H3K4me3 is associated with increased transcription elongation and enhancer activity at tumor-suppressor genes.** 
 Nature Genetics. (2015) highlighted by the Cancer Discovery journal
 
-Dhar Shilpa\*, Lee Sung-Hun\*, Chen Kaifu\*, Zhu Guangjing, Oh WonKyung, Allton Kendra, Gafni Ohad, Alin S. Tomoiga, Kim Young Zoon, Barton Michelle, Hanna Jacob H, Wang Zhibin, Li Wei, Lee Min Gyu. An essential role for UTX in resolution and activation of bivalent promoters. 
+Dhar Shilpa\*, Lee Sung-Hun\*, Chen Kaifu\*, Zhu Guangjing, Oh WonKyung, Allton Kendra, Gafni Ohad, Alin S. Tomoiga, Kim Young Zoon, Barton Michelle, Hanna Jacob H, Wang Zhibin, Li Wei, Lee Min Gyu. **An essential role for UTX in resolution and activation of bivalent promoters.** 
 Nucleic Acids Research. (2015) 
 
 Chen Kaifu\*, Zheng Hu\*, Zheng Xia, Dongyu Zhao, Wei Li, Jessica K. Tyler. The overlooked fact: fundamental need of spike-in controls for virtually all genome-wide analyses. 
 Molecular and Cellular Biology. (2015) 
 
-Chen L\*, Chen K\*, Baker S A, Shaw C, Li W, Zoghbi H Y. MeCP2 binds to mCH as neurons mature, influencing transcription and onset of Rett syndrome. 
+Chen L\*, Chen K\*, Baker S A, Shaw C, Li W, Zoghbi H Y. **MeCP2 binds to mCH as neurons mature, influencing transcription and onset of Rett syndrome.** 
 PNAS. (2015) (Highlighted by the Science journal) 
 
 ### 2014 
 
-Hu Z\*, Chen K\*, Xia Z, Chavez M, Pal S, Seol J, Chen C, Li W, Tyler J K. Nucleosome loss leads to global transcriptional upregulation and genomic instability during yeast aging. 
+Hu Z\*, Chen K\*, Xia Z, Chavez M, Pal S, Seol J, Chen C, Li W, Tyler J K. **Nucleosome loss leads to global transcriptional upregulation and genomic instability during yeast aging.** 
 Genes & Development. (2014). (Highlighted by the Science journal), (Recommended by Faculty of 1000)
 
 Wang L, Chen J, Wang C, Zimmermann M T, Yan H, Sun Z, Zhang Y, Chen K, Huang H, Kocher J A, Li W. MACE: Model based Analysis of ChIP-exo. 
@@ -214,13 +214,13 @@ Microbial Cell. (2014)
 
 ### 2013 
 
-Chen K\*, Xi Y, Pan X, Li Z, Kaestner K, Tyler J, Dent S YR, He X, Li W. DANPOS: Dynamic Analysis of Nucleosome Position and Occupancy by Sequencing. 
+Chen K\*, Xi Y, Pan X, Li Z, Kaestner K, Tyler J, Dent S YR, He X, Li W. **DANPOS: Dynamic Analysis of Nucleosome Position and Occupancy by Sequencing.** 
 Genome Research (2013). (Highlighted in headlines by Epigenie). 
 
-Chen K\*, Wilson M A\*, Hirsch C, Watson A, Liang S, Lu Y, Li W, Dent S YR: Stabilization of the Promoter Nucleosomes in Nucleosome Free Region by the Yeast Ssn6-Tup1 Corepressor. 
+Chen K\*, Wilson M A\*, Hirsch C, Watson A, Liang S, Lu Y, Li W, Dent S YR. **Stabilization of the Promoter Nucleosomes in Nucleosome Free Region by the Yeast Ssn6-Tup1 Corepressor.** 
 Genome Research. (2013). 
 
-Huang Z\*, Chen K\*, Zhang J\*, Li Y\*, Wang H, Cui D, Tang J, Liu Y, Shi X, Li W, Chen R, Sucgang R S, Pan X: A functional variomics tool for discovering resistance genes and targets of small molecule compounds. 
+Huang Z\*, Chen K\*, Zhang J\*, Li Y\*, Wang H, Cui D, Tang J, Liu Y, Shi X, Li W, Chen R, Sucgang R S, Pan X. **A functional variomics tool for discovering resistance genes and targets of small molecule compounds.** 
 Cell Reports. (2013). 
 
 Al-Mssallem I S, Hu S, Zhang X, Tan J, Lin Q, Liu W, Yu X, … Chen K, Alkhaldi S R, Liu G, Zhang M, Guo H, Yu J. Genome Sequences and Genetic Variations of Date Palm. 
@@ -231,7 +231,7 @@ Nature Communications. (2013).
 Li Z, Gadue P, Chen K, Tuteja G, Schug J, Li W, Kaestner K H. Foxa2 and H2A.Z Mediate Nucleosome Depletion during Embryonic Stem Cell Differentiation. 
 Cell. (2012). 
 
-Chen X, Cui D, Papusha A, Zhang X, Chu C, Tang J, Chen K, Pan X, Ira G, The Fun30 nucleosome remodeller promotes resection of DNA double-strand break ends. 
+Chen X, Cui D, Papusha A, Zhang X, Chu C, Tang J, Chen K, Pan X, Ira G, **The Fun30 nucleosome remodeller promotes resection of DNA double-strand break ends.** 
 Nature. (2012) 
 
 Barber M F, Michishita-Kioi E, Xi Y, Tasselli L, Kioi M, Moqtaderi Z, Tennen R I, Chen K, et al. SIRT7 links H3K18 deacetylation to maintenance of oncogenic transformation. 
@@ -245,7 +245,7 @@ The Journal of biological chemistry. (2012)
 
 ### 2011 
 
-Kuo A J\*, Cheung P\*, Chen K\*, Zee B M, Kioi M, Lauring J, Xi Y, et al. NSD2 Links Dimethylation of Histone H3 at Lysine 36 to Oncogenic Programming. 
+Kuo A J\*, Cheung P\*, Chen K\*, Zee B M, Kioi M, Lauring J, Xi Y, et al. **NSD2 Links Dimethylation of Histone H3 at Lysine 36 to Oncogenic Programming.** 
 Molecular cell. (2011) 
 
 Huang Z, Chen K, Xu T, Zhang J, Li Y, Li W, Agarwal A K, et al. Sampangine inhibits heme biosynthesis in both yeast and human. 
@@ -259,7 +259,7 @@ Journal of genetics and genomics. (2011)
 
 ### 2010 and before 
 
-Chen K\*, Wang L, Yang M, Liu J, Xin C, Hu S, Yu J. Sequence signatures of nucleosome positioning in Caenorhabditis elegans. Genomics, proteomics & bioinformatics. (2010) 
+Chen K\*, Wang L, Yang M, Liu J, Xin C, Hu S, Yu J. **Sequence signatures of nucleosome positioning in Caenorhabditis elegans.** Genomics, proteomics & bioinformatics. (2010) 
 
 Yang M, Zhang X, Liu G, Yin Y, Chen K, Yun Q, Zhao D, et al. The complete chloroplast genome sequence of date palm. 
 PlOS ONE. (2010) 
@@ -267,7 +267,7 @@ PlOS ONE. (2010)
 Yang M, Song S, Liu G, Chen K, Tian X, Zhao Z J, et al. A comprehensive analysis of protein phosphatases in rice and Arabidopsis.
 Plant Systematics and Evolution. (2010)
 
-Chen K\*, Meng Q, Ma L, Liu Q, Tang P, Chiu C, Hu S, et al. A novel DNA sequence periodicity decodes nucleosome positioning. 
+Chen K\*, Meng Q, Ma L, Liu Q, Tang P, Chiu C, Hu S, et al. **A novel DNA sequence periodicity decodes nucleosome positioning.** 
 Nucleic acids research. (2008)
 
 

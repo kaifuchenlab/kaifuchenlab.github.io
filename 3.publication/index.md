@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publication
 
- (\*) First authorship; (^) Senior authorship; **Bold title** indicates selected representative research. 
+ \*First authorship; ^Senior authorship; **Bold title** indicates selected representative research. 
 
 ### BioRxiv 
 

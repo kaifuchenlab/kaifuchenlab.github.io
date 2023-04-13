@@ -24,12 +24,12 @@ BioRxiv.
 Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene.** 
 Nucleic Acids Research. (In press). 
 
-**Dynamic changes in P300 enhancers and enhancer-promoter contacts control mouse cardiomyocyte maturation.** Pingzhu Zhou\*, Nathan J. VanDusen\*, Yanchun Zhang\*, Yangpo Cao\*, Isha Sethi Rong Hu, Shuo Zhang, Guangyu Wang, Lincai Ye, Neil Mazumdar Jian Chen Xiaoran Zhang Yuxuan Guo, Bin Li, Qing Ma Julianna Y. Lee Wei-liang Gu, Guo-Cheng Yuan, Bing Ren, Kaifu Chen^, William T. Pu^. 
+Pingzhu Zhou\*, Nathan J. VanDusen\*, Yanchun Zhang\*, Yangpo Cao\*, Isha Sethi Rong Hu, Shuo Zhang, Guangyu Wang, Lincai Ye, Neil Mazumdar Jian Chen Xiaoran Zhang Yuxuan Guo, Bin Li, Qing Ma Julianna Y. Lee Wei-liang Gu, Guo-Cheng Yuan, Bing Ren, Kaifu Chen^, William T. Pu^. **Dynamic changes in P300 enhancers and enhancer-promoter contacts control mouse cardiomyocyte maturation.**  
 Developmental Cell. (In press).
 
 Jie Lv\*, Shu Meng\*, Qilin Gu\*, Rongbin Zheng, Xinlei Gao, Yihan Zuo, Sen Zhu Jun-dae Kim Bo Xia Dongyu Zhao , Yanqiang Li , Guangyu Wang , Xin Wang , Qingshu Meng, Qi Cao, John P. Cooke^, Longhou Fang^, Kaifu Chen^, Lili Zhang^. **Epigenetic Landscape Reveals MECOM As an Endothelial Lineage Regulator.** Nature Communications. (In press).
 
-Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunzhou Dong,  Yuling Xiao,  Xingya Jiang,  Marina V. Malovichko, Kathryn Li,  Qianman Peng,  Yao Wei Lu,  Bo Zhu,  Rongbin Zheng,  Scott Wong,  Douglas B. Cowan,  MacRae Linton,  Sanjay Srivastava, Jinjun Shi,  Kaifu Chen^ and  Hong Chen^. **Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression. Circulation Research.** (2023)
+Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunzhou Dong,  Yuling Xiao,  Xingya Jiang,  Marina V. Malovichko, Kathryn Li,  Qianman Peng,  Yao Wei Lu,  Bo Zhu,  Rongbin Zheng,  Scott Wong,  Douglas B. Cowan,  MacRae Linton,  Sanjay Srivastava, Jinjun Shi,  Kaifu Chen^ and  Hong Chen^. **Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression.** Circulation Research. (2023)
 
 Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (2023).
 

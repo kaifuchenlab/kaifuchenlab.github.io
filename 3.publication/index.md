@@ -11,7 +11,7 @@ nav:
 
 ### BioRxiv 
 
-Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. MEBOCOST: Metabolic Cell-Cell Communication Modeling by Single Cell Transcriptome. 
+Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. ‘’‘MEBOCOST: Metabolic Cell-Cell Communication Modeling by Single Cell Transcriptome’‘’. 
 BioRxiv. 
 
 Xin Wang, Dongyu Zhao, Yanqiang Li, Yang Yu, Grzegorz Ira, Lili Zhang, Kaifu Chen. Mutation of mutator genes marks immunotherapy efficacy. 

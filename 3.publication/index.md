@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publication
 
- (\*) First authorship; (^) Senior authorship 
+ (\*) First authorship; (^) Senior authorship; **Bold title** indicate Kaifu's favorite selection. 
 
 ### BioRxiv 
 

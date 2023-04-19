@@ -64,7 +64,7 @@ Yang Yi\*, Yanqiang Li\*, Qingshu Meng\*, Qiaqia Li, Fuxi Li, Bing Lu, Jiangchua
 **A PRC2-independent function for EZH2 in regulating rRNA 2′-O methylation and IRES-dependent translation.**
 Nature Cell Biology. (2021) 
 
-Guangyu Wang\*, Bo Xia\*, Jie Lv, Dongyu Zhao, Yanqiang Li, Yiwen Bu, Xin Wang, John P. Cooke, Qi Cao, Min Gyu Lee, Lili Zhang, Kaifu Chen^. MACMIC Reveals Dual Role of CTCF in Epigenetic Regulation of Cell Identity Genes.
+Guangyu Wang\*, Bo Xia\*, Jie Lv, Dongyu Zhao, Yanqiang Li, Yiwen Bu, Xin Wang, John P. Cooke, Qi Cao, Min Gyu Lee, Lili Zhang, Kaifu Chen^. **MACMIC Reveals Dual Role of CTCF in Epigenetic Regulation of Cell Identity Genes**.
 Genomics, Proteomics, and Bioinformatics. (2021) 
 
 Christopher J Terranova, Ming Tang, Mayinuer Maitituoheti, Ayush T Raman, Archit K Ghosh, Jonathan Schulz, Samir B Amin, Elias Orouji, Katarzyna Tomczak, Sharmistha Sarkar, Junna Oba, Caitlin Creasy, Chang-Jiun Wu, Samia Khan, Rossana Lazcano, Khalida Wani, Anand Singh, Praveen Barrodia, Dongyu Zhao, Kaifu Chen, Lauren E Haydu, Wei-Lien Wang, Alexander J Lazar, Scott E Woodman, Chantale Bernatchez, Kunal Rai. Reprogramming of bivalent chromatin states in NRAS mutant melanoma suggests PRC2 inhibition as a therapeutic strategy. 

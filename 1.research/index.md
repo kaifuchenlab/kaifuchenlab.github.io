@@ -19,7 +19,7 @@ nav:
 
 **Major research approach in the lab:**
 
-- Develop new bioinformatics techniques to interpret high throughput genomic data.
+- Develop new bioinformatics techniques to analyze high throughput genomic, epigenomic, transcriptomic, and metabolomic data, 
 
 - Single cell, spatial genomics, Hi-C, ChIP-seq, ATAC-seq, RNA-seq and other additional techniques to study epigenetic regulation of transcription by 3D chromatin conformation, chromatin modifications, and chromatin-binding proteins.
 

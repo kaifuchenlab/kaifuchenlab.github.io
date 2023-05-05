@@ -17,7 +17,7 @@ nav:
 %}
 
 
-**Major research directions in the lab:**
+**Major research approach in the lab:**
 
 - Develop new bioinformatics techniques to interpret high throughput genomic data.
 
@@ -25,7 +25,7 @@ nav:
 
 - High throughput profiling of RNA methylation, RNA binding proteins, and ribosomes to study post transcriptional regulation of gene expression.
 
-- Molecular, cellular, animal, and clinical models to understand mechanisms in diseases with a focus on heart failure and prostate cancer.
+- Collaborate with wet-bench labs for molecular, cellular, animal, and clinical models to understand mechanisms in diseases with a focus on heart failure and prostate cancer.
 
 **The most important discovery in the lab is that the cell identity genes as a unique group are distinct from other genes in the molecular mechanisms to regulate their expression and mutation patterns** (Chen et al, Nature Genetics 2015; Xia et al, Nature Communications 2020a; Zhao et al, Nature Communications 2020b; Wang et al, GPB 2021; Li et al, Nucleic Acids Research, 2023; Lv et al, Nature Communications, 2023). Specifically, we find that due to broad enrichment of transcription factor binding motifs at cell identity gene loci, these genes are regulated by unique epigenetic mechanisms such as the Broad H3K4me3 to maintain a stable transcriptional elongation status. We further found that these genes show frequent co-transcriptional m6A modifications on their RNAs to specify a fast decay of the RNAs in the cells. Therefore, genetic elements determined that cell identity genes are regulated by epigenetic mechanisms that promote fast turnover of the gene expression. In contrast, most other active genes in the cell, such as housekeeping genes, undergo slow  expression turnover. 
 

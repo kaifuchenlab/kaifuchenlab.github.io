@@ -33,6 +33,8 @@ Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunz
 
 Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (2023).
 
+Keman Xu; Fatma Saaoud; Ying Shao; Yifan Lu; Sheng Wu; Huaqing Zhao; Kaifu Chen; Roberto Vazquez-Padron; Xiaohua Jiang; Hong Wang. Early hyperlipidemia triggers metabolomic reprogramming with increased SAH, increased acetyl-CoA-cholesterol synthesis, and decreased glycolysis.Redox Biology. (Accepted 2023)
+
 Yang Yi, Yanqiang Li, Kaifu Chen and Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget. (2023).
 
 Sana Nasim , Jill Wylie-Sears , Xinlei Gao , Qianman Peng , Bo Zhu , Kaifu Chen , Hong Chen, Joyce Bischoff. CD45 is sufficient to initiate EndMT in human endothelial cells. 

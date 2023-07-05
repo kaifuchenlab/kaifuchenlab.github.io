@@ -17,8 +17,6 @@ BioRxiv.
 Xin Wang, Dongyu Zhao, Yanqiang Li, Yang Yu, Grzegorz Ira, Lili Zhang, Kaifu Chen. **Mutation of mutator genes marks immunotherapy efficacy.** 
 Research Square.
 
-Farnaz Shamsi\*, Rongbin Zheng\*, Li-Lun Ho, Kaifu Chen^, Yu-Hua Tseng^. Comprehensive analysis of intercellular communication in thermogenic adipose niche. 
-BioRxiv.
 
 ### 2023
 Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene.** 
@@ -30,6 +28,8 @@ Pingzhu Zhou\*, Nathan J. VanDusen\*, Yanchun Zhang\*, Yangpo Cao\*, Isha Sethi 
 Developmental Cell. (2023).
 
 Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunzhou Dong,  Yuling Xiao,  Xingya Jiang,  Marina V. Malovichko, Kathryn Li,  Qianman Peng,  Yao Wei Lu,  Bo Zhu,  Rongbin Zheng,  Scott Wong,  Douglas B. Cowan,  MacRae Linton,  Sanjay Srivastava, Jinjun Shi,  Kaifu Chen^ and  Hong Chen^. **Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression.** Circulation Research. (2023)
+
+Farnaz Shamsi\*, Rongbin Zheng\*, Li-Lun Ho, Kaifu Chen^, Yu-Hua Tseng^. **Comprehensive analysis of intercellular communication in the thermogenic adipose niche**. Communication Biology (Accepted 2023).
 
 Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (2023).
 

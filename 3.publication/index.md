@@ -31,6 +31,8 @@ Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunz
 
 Farnaz Shamsi\*, Rongbin Zheng\*, Li-Lun Ho, Kaifu Chen^, Yu-Hua Tseng^. **Comprehensive analysis of intercellular communication in the thermogenic adipose niche**. Communication Biology (Accepted 2023).
 
+Abhijit Chakraborty, Yanming Li, Chen Zhang, Yang Li, Kimberly Rebello, Shengyu Li, Samantha Xu, Hernan Vasquez, Lin Zhang, Wei Luo, Guangyu Wang, Kaifu Chen, Joseph Coselli, Scott LeMaire, and Ying Shen. Epigenetic Induction of Smooth Muscle Cell Phenotypic Alterations in Aortic Aneurysms and Dissections. Circulation. (2023). 
+
 Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (2023).
 
 Keman Xu; Fatma Saaoud; Ying Shao; Yifan Lu; Sheng Wu; Huaqing Zhao; Kaifu Chen; Roberto Vazquez-Padron; Xiaohua Jiang; Hong Wang. Early hyperlipidemia triggers metabolomic reprogramming with increased SAH, increased acetyl-CoA-cholesterol synthesis, and decreased glycolysis. Redox Biology. (2023)

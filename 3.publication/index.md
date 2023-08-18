@@ -19,48 +19,48 @@ Research Square.
 
 
 ### 2023
-Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene.** 
-Nucleic Acids Research. (2023). 
+Abhijit Chakraborty, Yanming Li, Chen Zhang, Yang Li, Kimberly Rebello, Shengyu Li, Samantha Xu, Hernan Vasquez, Lin Zhang, Wei Luo, Guangyu Wang, Kaifu Chen, Joseph Coselli, Scott LeMaire, and Ying Shen. Epigenetic Induction of Smooth Muscle Cell Phenotypic Alterations in Aortic Aneurysms and Dissections. Circulation. (08/09/2023). 
 
-Jie Lv\*, Shu Meng\*, Qilin Gu\*, Rongbin Zheng, Xinlei Gao, Yihan Zuo, Sen Zhu Jun-dae Kim Bo Xia Dongyu Zhao , Yanqiang Li , Guangyu Wang , Xin Wang , Qingshu Meng, Qi Cao, John P. Cooke^, Longhou Fang^, Kaifu Chen^, Lili Zhang^. **Epigenetic Landscape Reveals MECOM As an Endothelial Lineage Regulator.** Nature Communications. (2023).
+Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene.** 
+Nucleic Acids Research. (07/07/2023). 
+
+Farnaz Shamsi\*, Rongbin Zheng\*, Li-Lun Ho, Kaifu Chen^, Yu-Hua Tseng^. **Comprehensive analysis of intercellular communication in the thermogenic adipose niche**. Communication Biology (07/21/2023).
+
+Jie Lv\*, Shu Meng\*, Qilin Gu\*, Rongbin Zheng, Xinlei Gao, Yihan Zuo, Sen Zhu Jun-dae Kim Bo Xia Dongyu Zhao , Yanqiang Li , Guangyu Wang , Xin Wang , Qingshu Meng, Qi Cao, John P. Cooke^, Longhou Fang^, Kaifu Chen^, Lili Zhang^. **Epigenetic Landscape Reveals MECOM As an Endothelial Lineage Regulator.** Nature Communications. (04/25/2023).
 
 Pingzhu Zhou\*, Nathan J. VanDusen\*, Yanchun Zhang\*, Yangpo Cao\*, Isha Sethi Rong Hu, Shuo Zhang, Guangyu Wang, Lincai Ye, Neil Mazumdar Jian Chen Xiaoran Zhang Yuxuan Guo, Bin Li, Qing Ma Julianna Y. Lee Wei-liang Gu, Guo-Cheng Yuan, Bing Ren, Kaifu Chen^, William T. Pu^. **Dynamic changes in P300 enhancers and enhancer-promoter contacts control mouse cardiomyocyte maturation.**  
-Developmental Cell. (2023).
+Developmental Cell. (04/17/2023; 05/22/2023).
 
-Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunzhou Dong,  Yuling Xiao,  Xingya Jiang,  Marina V. Malovichko, Kathryn Li,  Qianman Peng,  Yao Wei Lu,  Bo Zhu,  Rongbin Zheng,  Scott Wong,  Douglas B. Cowan,  MacRae Linton,  Sanjay Srivastava, Jinjun Shi,  Kaifu Chen^ and  Hong Chen^. **Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression.** Circulation Research. (2023)
+Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunzhou Dong,  Yuling Xiao,  Xingya Jiang,  Marina V. Malovichko, Kathryn Li,  Qianman Peng,  Yao Wei Lu,  Bo Zhu,  Rongbin Zheng,  Scott Wong,  Douglas B. Cowan,  MacRae Linton,  Sanjay Srivastava, Jinjun Shi,  Kaifu Chen^ and  Hong Chen^. **Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression.** Circulation Research. (11/29/2022; 01/06/2023)
 
-Farnaz Shamsi\*, Rongbin Zheng\*, Li-Lun Ho, Kaifu Chen^, Yu-Hua Tseng^. **Comprehensive analysis of intercellular communication in the thermogenic adipose niche**. Communication Biology (Accepted 2023).
+Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (02/08/2023; 08/01/2023).
 
-Abhijit Chakraborty, Yanming Li, Chen Zhang, Yang Li, Kimberly Rebello, Shengyu Li, Samantha Xu, Hernan Vasquez, Lin Zhang, Wei Luo, Guangyu Wang, Kaifu Chen, Joseph Coselli, Scott LeMaire, and Ying Shen. Epigenetic Induction of Smooth Muscle Cell Phenotypic Alterations in Aortic Aneurysms and Dissections. Circulation. (2023). 
+Keman Xu; Fatma Saaoud; Ying Shao; Yifan Lu; Sheng Wu; Huaqing Zhao; Kaifu Chen; Roberto Vazquez-Padron; Xiaohua Jiang; Hong Wang. Early hyperlipidemia triggers metabolomic reprogramming with increased SAH, increased acetyl-CoA-cholesterol synthesis, and decreased glycolysis. Redox Biology. (06/16/2022; 08/01/2023)
 
-Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (2023).
-
-Keman Xu; Fatma Saaoud; Ying Shao; Yifan Lu; Sheng Wu; Huaqing Zhao; Kaifu Chen; Roberto Vazquez-Padron; Xiaohua Jiang; Hong Wang. Early hyperlipidemia triggers metabolomic reprogramming with increased SAH, increased acetyl-CoA-cholesterol synthesis, and decreased glycolysis. Redox Biology. (2023)
-
-Yang Yi, Yanqiang Li, Kaifu Chen and Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget. (2023).
+Yang Yi, Yanqiang Li, Kaifu Chen and Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget. (02/11/2023).
 
 Sana Nasim , Jill Wylie-Sears , Xinlei Gao , Qianman Peng , Bo Zhu , Kaifu Chen , Hong Chen, Joyce Bischoff. CD45 is sufficient to initiate EndMT in human endothelial cells. 
-ATVB. (2023) 
+ATVB. (05/01/2023) 
+
+Xiaolei Liu, Kui Cui, Hao Wu, Kathryn S. Li, Qianman Peng, Donghai Wang, Douglas B. Cowan, J. Brandon Dixon, R. Sathish Srinivasan, Diane R. Bielenberg, Kaifu Chen, Da-Zhi Wang, Yabing Chen, Hong Chen. Promoting Lymphangiogenesis and Lymphatic Growth and Remodeling to Treat Cardiovascular and Metabolic Diseases. 
+ATVB. (01/01/2023). 
+
+Yunzhou Dong, Beibei Wang, Mulong Du, Bo Zhu, Kui Cui, Douglas Cowan, Sudarshan Bhattacharjee, Scott Wong, Da-Zhi Wang, Kaifu Chen, Joyce Bischoff, MacRae Linton, and Hong Chen. Targeting Epsins to Inhibit FGF Signaling while Potentiating TGF-β Signaling Constrains Endothelial-to-Mesenchymal-Transition in Atherosclerosis. 
+Circulation. (01/02/2023)
 
 ### 2022
 
 Dongyu Zhao\*, Min Zhang\*, Shaodong Liu, Qi Liu, Sen Zhu, Yanqiang Li, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang\*^, Kaifu Chen^. **CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells.** 
-Nucleic Acids Research. (2022). 
+Nucleic Acids Research. (11/28/2022). 
 
 Krishan Gupta\*, Guangyu Wang\*, Shuo Zhang\*, Xinlei Gao, Rongbin Zheng, Yanchun Zhang, Qingshu Meng, Lili Zhang, Qi Cao, Kaifu Chen. **StripeDiff: Model-based Algorithm for Differential Analysis of Chromatin Stripe.** 
-Science Advances. (2022). 
-
-Yunzhou Dong, Beibei Wang, Mulong Du, Bo Zhu, Kui Cui, Douglas Cowan, Sudarshan Bhattacharjee, Scott Wong, Da-Zhi Wang, Kaifu Chen, Joyce Bischoff, MacRae Linton, and Hong Chen. Targeting Epsins to Inhibit FGF Signaling while Potentiating TGF-β Signaling Constrains Endothelial-to-Mesenchymal-Transition in Atherosclerosis. 
-Circulation. (2022)
-
-Yang Yi\*, Yanqiang Li\*, Chao Li\*, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Long Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. Methylation-dependent and -independent roles of EZH2 synergize in CDCA8 activation in prostate cancer. 
-Oncogene. (2022)
-
-Xiaolei Liu, Kui Cui, Hao Wu, Kathryn S. Li, Qianman Peng, Donghai Wang, Douglas B. Cowan, J. Brandon Dixon, R. Sathish Srinivasan, Diane R. Bielenberg, Kaifu Chen, Da-Zhi Wang, Yabing Chen, Hong Chen. Promoting Lymphangiogenesis and Lymphatic Growth and Remodeling to Treat Cardiovascular and Metabolic Diseases. 
-ATVB. (2022). 
+Science Advances. (12/07/2022). 
 
 Bandana Singh, Kathryn Li, Kui Cui, Qianman Peng, Douglas B Cowan, Da-Zhi Wang, Kaifu Chen, Hong Chen. Defective Efferocytosis of Vascular Cells in Heart Disease. 
-Front Cardiovasc Med. (2022). 
+Front Cardiovasc Med. (9/30/2022). 
+
+Yang Yi\*, Yanqiang Li\*, Chao Li\*, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Long Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. Methylation-dependent and -independent roles of EZH2 synergize in CDCA8 activation in prostate cancer. 
+Oncogene. (03/01/2022)
 
 ### 2021
 

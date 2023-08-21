@@ -18,7 +18,6 @@ Xin Wang, Dongyu Zhao, Yanqiang Li, Yang Yu, Grzegorz Ira, Lili Zhang, Kaifu Che
 Research Square.
 
 
-### 2023
 79. Abhijit Chakraborty, Yanming Li, Chen Zhang, Yang Li, Kimberly Rebello, Shengyu Li, Samantha Xu, Hernan Vasquez, Lin Zhang, Wei Luo, Guangyu Wang, Kaifu Chen, Joseph Coselli, Scott LeMaire, and Ying Shen. Epigenetic Induction of Smooth Muscle Cell Phenotypic Alterations in Aortic Aneurysms and Dissections. Circulation. (08/09/2023). 
 
 78. Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene.** 
@@ -49,8 +48,6 @@ ATVB. (01/01/2023).
 
 67. Yunzhou Dong, Beibei Wang, Mulong Du, Bo Zhu, Kui Cui, Douglas Cowan, Sudarshan Bhattacharjee, Scott Wong, Da-Zhi Wang, Kaifu Chen, Joyce Bischoff, MacRae Linton, and Hong Chen. Targeting Epsins to Inhibit FGF Signaling while Potentiating TGF-β Signaling Constrains Endothelial-to-Mesenchymal-Transition in Atherosclerosis. 
 Circulation. (01/02/2023)
-
-    ### 2022
 
 66. Dongyu Zhao\*, Min Zhang\*, Shaodong Liu, Qi Liu, Sen Zhu, Yanqiang Li, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang\*^, Kaifu Chen^. **CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells.** 
 Nucleic Acids Research. (11/28/2022). 

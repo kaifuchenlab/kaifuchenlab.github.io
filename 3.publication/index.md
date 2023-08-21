@@ -18,7 +18,7 @@ Xin Wang, Dongyu Zhao, Yanqiang Li, Yang Yu, Grzegorz Ira, Lili Zhang, Kaifu Che
 Research Square.
 
 
-79. Abhijit Chakraborty, Yanming Li, Chen Zhang, Yang Li, Kimberly Rebello, Shengyu Li, Samantha Xu, Hernan Vasquez, Lin Zhang, Wei Luo, Guangyu Wang, Kaifu Chen, Joseph Coselli, Scott LeMaire, and Ying Shen. Epigenetic Induction of Smooth Muscle Cell Phenotypic Alterations in Aortic Aneurysms and Dissections. Circulation. (08/09/2023). 
+1. Abhijit Chakraborty, Yanming Li, Chen Zhang, Yang Li, Kimberly Rebello, Shengyu Li, Samantha Xu, Hernan Vasquez, Lin Zhang, Wei Luo, Guangyu Wang, Kaifu Chen, Joseph Coselli, Scott LeMaire, and Ying Shen. Epigenetic Induction of Smooth Muscle Cell Phenotypic Alterations in Aortic Aneurysms and Dissections. Circulation. (08/09/2023). 
 
 78. Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene.** 
 Nucleic Acids Research. (07/07/2023). 

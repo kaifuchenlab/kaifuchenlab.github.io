@@ -50,7 +50,7 @@ ATVB. (01/01/2023).
 67. Yunzhou Dong, Beibei Wang, Mulong Du, Bo Zhu, Kui Cui, Douglas Cowan, Sudarshan Bhattacharjee, Scott Wong, Da-Zhi Wang, Kaifu Chen, Joyce Bischoff, MacRae Linton, and Hong Chen. Targeting Epsins to Inhibit FGF Signaling while Potentiating TGF-β Signaling Constrains Endothelial-to-Mesenchymal-Transition in Atherosclerosis. 
 Circulation. (01/02/2023)
 
-### 2022
+    ### 2022
 
 66. Dongyu Zhao\*, Min Zhang\*, Shaodong Liu, Qi Liu, Sen Zhu, Yanqiang Li, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang\*^, Kaifu Chen^. **CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells.** 
 Nucleic Acids Research. (11/28/2022). 

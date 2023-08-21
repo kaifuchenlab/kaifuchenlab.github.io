@@ -61,8 +61,6 @@ Front Cardiovasc Med. (9/30/2022).
 63. Yang Yi\*, Yanqiang Li\*, Chao Li\*, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Long Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. Methylation-dependent and -independent roles of EZH2 synergize in CDCA8 activation in prostate cancer. 
 Oncogene. (03/01/2022)
 
-### 2021
-
 62. Yang Yi\*, Yanqiang Li\*, Qingshu Meng\*, Qiaqia Li, Fuxi Li, Bing Lu, Jiangchuan Shen, Ladan Fazli, Dongyu Zhao, Chao Li, Weihua Jiang, Rui Wang, Qipeng Liu, Aileen Szczepanski, Qianru Li, Wei Qin, Adam B. Weiner, Tamara L. Lotan, Zhe Ji, Sundeep Kalantry, Lu Wang, Edward M. Schaeffer, Hengyao Niu, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^.
 **A PRC2-independent function for EZH2 in regulating rRNA 2′-O methylation and IRES-dependent translation.**
 Nature Cell Biology. (2021) 
@@ -78,8 +76,6 @@ PNAS. (2021)
 
 58. Guangyu Wang\*, Ana Sofia Cruz\*, Keith Youker, Hernan G. Marcos-Abdala, Rajarajan A. Thandavarayan, John P. Cooke, Guillermo Torre-Amione, Kaifu Chen^, Arvind Bhimaraj^. Role of Endothelial and Mesenchymal Cell Transitions in Heart Failure and Recovery Thereafter. 
 Frontiers in Genetics. (2021). 
-
-### 2020
 
 57. Shu Meng\*^, Jie Lv\*, Palas K. Chanda, Iris Owusu, Kaifu Chen^, John P. Cooke^. **Reservoir of Fibroblasts Promotes Recovery from Limb Ischemia.** 
 Circulation. (2020) 
@@ -106,8 +102,6 @@ The Journal of clinical investigation. (2020)
 Antihistamine Drug Ebastine inhibits cancer growth by targeting Polycomb Group Protein EZH2. 
 Molecular Cancer Therapeutics. 
 
-### 2019
-
 49. Qilin Gu, Xiaojie Yang, Jie Lv, Jiaxiong Zhang, Bo Xia, Jun-dae Kim, Ruoyu Wang, Feng Xiong, Shu Meng, Thomas P. Clements, Bhavna Tandon, Daniel S. Wagner, Miguel F. Diaz, Pamela L. Wenzel, Yury I. Miller, David Traver, John P. Cooke, Wenbo Li, Leonard I. Zon, Kaifu Chen^, Yongping Bai^, Longhou Fang^. **AIBP-mediated Cholesterol Efflux Instructs Hematopoietic Stem and Progenitor Cell Fate.** 
 Science. (2019)
 
@@ -119,8 +113,6 @@ Circulation. (2019)
 
 46. Zhi Long, Yinan Li, Yu Gan, Dongyu Zhao, Guangyu Wang, Ning Xie, Jessica M Lovnicki, Ladan Fazli, Qi Cao, Kaifu Chen, Xuesen Dong. Roles of the HOXA10 Gene during Castrate Resistant Prostate Cancer Progression.
 Endocrine-Related Cancer (2019) 
-
-### 2018
 
 45. Yang Yu\*, Nhung Pham\*, Bo Xia\*, Alma Papusha, Guangyu Wang, Zhenxin Yan, Guang Peng, Kaifu Chen^, Grzegorz Ira1^. **Dna2 nuclease deficiency results in large and complex DNA insertions at chromosomal breaks.** 
 Nature. (2018) 
@@ -153,8 +145,6 @@ Cell Reports. (2018)
 36. Moon Jong Kim, Bo Xia, Han Na Suh, Sung Ho Lee, Sohee Jun, Esther M. Lien, Jie Zhang, Kaifu Chen, and Jae-Il Park. PAF-Myc-Controlled Cell Stemness Is Required for Intestinal Regeneration and Tumorigenesis. 
 Developmental Cell. (2018) 
 
-### 2017 
-
 35. Shaofeng Liu\*, Zhiyun Xu\*, He Leng\*, Pu Zheng, Jiayi Yang, Kaifu Chen, Jianxun Feng, Qing Li. **RPA binds histone H3-H4 and functions in DNA replication–coupled nucleosome assembly.** 
 Science. (2017) 
 
@@ -173,8 +163,6 @@ Arteriosclerosis, Thrombosis, and Vascular Biology. (2017)
 30. Rebecca Jean Watters, Ryan Hartmaier, Hatice Ulku Osmanbeyoglu, Ryan Gillihan, James Rae, Lan Liao, Kaifu Chen, Wei Li, Xinghua Lu, steffi oesterreich. Steroid receptor coactivator-1 can regulate osteoblastogenesis independently of estrogen. 
 Molecular and Cellular Endocrinology. (2017) 
 
-### 2016 
-
 29. Li N\*, Li Y\*, Lv J\*, Zheng X, Wen H, Shen H, Zhu G, Chen TY, Dhar SS, Kan PY, Wang Z, Shiekhattar R, Shi X, Lan F, Chen K, Li W, Li H, Lee MG. ZMYND8 reads the dual histone mark H3K4me1-H3K14ac to antagonize the expression of metastasis-linked genes. 
 Molecular Cell (2016)
 
@@ -186,8 +174,6 @@ Nucleic Acids Research. (2016)
 
 26. Meng S, Matrone G, Lv J, Chen K, Wong W, Cooke J. LMO2 Regulates Endothelial Proliferation, Angiogenesis and Tissue Regeneration. 
 Journal of the American Heart Association. (2016) 
-
-### 2015 
 
 25. Chen K\*, Chen Z\*, Wu D, Zhang L, Lin X, Su J, Rodriguez B, Xi Y, Xia Z, Chen X, Shi X, Wang Q, Li W. **Broad H3K4me3 is associated with increased transcription elongation and enhancer activity at tumor-suppressor genes.** 
 Nature Genetics. (2015) highlighted by the Cancer Discovery journal
@@ -201,8 +187,6 @@ Molecular and Cellular Biology. (2015)
 22. Chen L\*, Chen K\*, Baker S A, Shaw C, Li W, Zoghbi H Y. **MeCP2 binds to mCH as neurons mature, influencing transcription and onset of Rett syndrome.** 
 PNAS. (2015) (Highlighted by the Science journal) 
 
-### 2014 
-
 21. Hu Z\*, Chen K\*, Xia Z, Chavez M, Pal S, Seol J, Chen C, Li W, Tyler J K. **Nucleosome loss leads to global transcriptional upregulation and genomic instability during yeast aging.** 
 Genes & Development. (2014). (Highlighted by the Science journal), (Recommended by Faculty of 1000)
 
@@ -215,8 +199,6 @@ Transcription. (2014)
 18. Hu Z, Chen K, Li W, Tyler JK. Transcriptional and genomic mayhem due to aging-induced nucleosome loss in budding yeast. 
 Microbial Cell. (2014)
 
-### 2013 
-
 17. Chen K\*, Xi Y, Pan X, Li Z, Kaestner K, Tyler J, Dent S YR, He X, Li W. **DANPOS: Dynamic Analysis of Nucleosome Position and Occupancy by Sequencing.** 
 Genome Research (2013). (Highlighted in headlines by Epigenie). 
 
@@ -228,8 +210,6 @@ Cell Reports. (2013).
 
 14. Al-Mssallem I S, Hu S, Zhang X, Tan J, Lin Q, Liu W, Yu X, … Chen K, Alkhaldi S R, Liu G, Zhang M, Guo H, Yu J. Genome Sequences and Genetic Variations of Date Palm. 
 Nature Communications. (2013). 
-
-### 2012 
 
 13. Li Z, Gadue P, Chen K, Tuteja G, Schug J, Li W, Kaestner K H. Foxa2 and H2A.Z Mediate Nucleosome Depletion during Embryonic Stem Cell Differentiation. 
 Cell. (2012). 
@@ -246,8 +226,6 @@ PLOS Genetics. (2012)
 9. Badeaux A I, Yang Y, Cardenas K, Vemulapalli V, Chen K, Kusewitt D, Richie E, et al. Loss of the methyl lysine effector protein PHF20 impacts the expression of genes regulated by the lysine acetyltransferase MOF. 
 The Journal of biological chemistry. (2012) 
 
-### 2011 
-
 8. Kuo A J\*, Cheung P\*, Chen K\*, Zee B M, Kioi M, Lauring J, Xi Y, et al. **NSD2 Links Dimethylation of Histone H3 at Lysine 36 to Oncogenic Programming.** 
 Molecular cell. (2011) 
 
@@ -259,8 +237,6 @@ Parasitology research. (2011)
 
 5. Meng Q, Chen K, Ma L, Hu S, Yu J. A systematic identification of Kolobok superfamily transposons in Trichomonas vaginalis and sequence analysis on related transposases. 
 Journal of genetics and genomics. (2011) 
-
-### 2010 and before 
 
 4. Chen K\*, Wang L, Yang M, Liu J, Xin C, Hu S, Yu J. **Sequence signatures of nucleosome positioning in Caenorhabditis elegans.** Genomics, proteomics & bioinformatics. (2010) 
 

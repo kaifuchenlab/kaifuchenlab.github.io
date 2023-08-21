@@ -33,6 +33,8 @@ Developmental Cell. (04/17/2023; 05/22/2023).
 
 Kui Cui\*,  Xinlei Gao\*,  Beibei Wang\*,  Hao Wu,  Kulandaisamy Arulsamy,  Yunzhou Dong,  Yuling Xiao,  Xingya Jiang,  Marina V. Malovichko, Kathryn Li,  Qianman Peng,  Yao Wei Lu,  Bo Zhu,  Rongbin Zheng,  Scott Wong,  Douglas B. Cowan,  MacRae Linton,  Sanjay Srivastava, Jinjun Shi,  Kaifu Chen^ and  Hong Chen^. **Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression.** Circulation Research. (11/29/2022; 01/06/2023)
 
+Mason E. Sweat, Yangpo Cao, Xiaoran Zhang, Ozanna Burnicka-Turek, Carlos Perez-Cervantes, Brynn N. Akerberg, Qing Ma, Hiroko Wakimoto, Joshua M. Gorham, Mi Kyoung Song, Michael A. Trembley, Peizhe Wang, Fujian Lu, Matteo Gianeselli, Maksymilian Prondzynski, Raul H. Bortolin, Jonathan G. Seidman, Christine E. Seidman, Ivan P. Moskowitz, William T. Pu. Tbx5 maintains atrial identity by regulating an atrial enhancer network. Nature Cardiovascular Research. (Accepted 2023)
+
 Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (02/08/2023; 08/01/2023).
 
 Keman Xu; Fatma Saaoud; Ying Shao; Yifan Lu; Sheng Wu; Huaqing Zhao; Kaifu Chen; Roberto Vazquez-Padron; Xiaohua Jiang; Hong Wang. Early hyperlipidemia triggers metabolomic reprogramming with increased SAH, increased acetyl-CoA-cholesterol synthesis, and decreased glycolysis. Redox Biology. (06/16/2022; 08/01/2023)

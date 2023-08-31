@@ -85,7 +85,7 @@ From the Nanjing University. Moved to New York for family reason.
 From the King Abdullah University of Science and Technology. Moved to Ohio State University for a faculty position.
 
 
-# <i class="fas fa-users"></i>Intern & Visitor
+# <i class="fas fa-users"></i>Intern & Visitor Alumni
 
 **Lei La**, 2017-2018, from Southern Medical University
 
@@ -96,8 +96,6 @@ From the King Abdullah University of Science and Technology. Moved to Ohio State
 **Shakhi Andrews**, Summer 2022, from Brooke High School
 
 **Jasmine Liu**, Summer 2023, from Northestern University
-
-**Kaiyuan Wu**, Summer 2023, from Rice University
 
 **Zimo Zhu**, Summer 2023, from University of Washington
 

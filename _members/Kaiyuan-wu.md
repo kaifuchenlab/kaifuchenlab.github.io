@@ -1,6 +1,6 @@
 ---
 name: Kaiyuan Wu, Ph.D.
-image: images/KaiyuanWu.jpg
+image: images/KaiyuanWu.jpeg
 description: Intern
 role: Intern
 ---

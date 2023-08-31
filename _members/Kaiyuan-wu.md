@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://github.com/kaifuchenlab/kaifuchenlab.github.io/blob/main/_members/Yang-Yu.md</string>
-</dict>
-</plist>
+---
+name: Kaiyuan Wu, Ph.D.
+image: images/KaiyuanWu.jpg
+description: Intern
+role: Intern
+---
+05/2023 ~ Present 
+
+Kaiyuan is a current undergraduate student from the Rice University. He is working on RNA methylation projects during his intership period in the lab.

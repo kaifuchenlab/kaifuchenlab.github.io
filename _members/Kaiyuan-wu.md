@@ -1,8 +1,8 @@
 ---
 name: Kaiyuan Wu, Ph.D.
 image: images/KaiyuanWu.jpeg
-description: Intern
-role: Intern
+description: undergrad
+role: undergrad
 ---
 05/2023 ~ Present 
 

@@ -94,3 +94,14 @@ From the King Abdullah University of Science and Technology. Moved to Ohio State
 **Xuanqi Li**, Summer 2022, from Texas A&M University
 
 **Shakhi Andrews**, Summer 2022, from Brooke High School
+
+**Jasmine Liu**, Summer 2023, from Northestern University
+
+**Kaiyuan Wu**, Summer 2023, from Rice University
+
+**Zimo Zhu**, Summer 2023, from University of Washington
+
+**Hannah Guo**, Summer 2023, from Lexington High School
+
+
+

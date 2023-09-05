@@ -1,8 +1,8 @@
 ---
 name: Kaiyuan Wu, Ph.D.
 image: images/KaiyuanWu.jpeg
-description: undergrad
-role: undergrad
+description: Postdoc
+role: Postdoc
 ---
 05/2023 ~ Present 
 

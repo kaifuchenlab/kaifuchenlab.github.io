@@ -6,6 +6,6 @@ description: Postdoc
 role: postdoc
 ---
 
-09/2022 ~ Present 
+07/2023 ~ Present 
 
 Zimo's major research interest is in computational modeling of cell identity heterogenity.

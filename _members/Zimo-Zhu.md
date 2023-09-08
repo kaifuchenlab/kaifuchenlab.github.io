@@ -2,7 +2,7 @@
 name: Zimo Zhu
 
 image: images/ZimoZhu.jpeg
-description: Undergraduate student
+description: Undergraduate
 role: undergrad
 ---
 

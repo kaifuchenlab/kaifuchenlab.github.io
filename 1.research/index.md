@@ -8,7 +8,6 @@ nav:
 # <i class="fas fa-microscope"></i>Research Summary
 
 **We are a bioinformatics lab developing computation technology to model how cell identity is established during development and dysregulated in diseases.** We develop bioinformatics methods to understand genetic, epigenetic, and molecular signaling mechanisms in cell identity regulation. Different cell types in a healthy body share the same genetic sequence. Difference in identity of these cell types is determined by epigenetic regulation of gene expression, which represents an consequence of the interaction between the genetic factors and signaling molecules in the cell. Genetic mutations and abnormal signals can lead to epigenetic alteration and cause cell identity dysregulation in diseases.
-
 {%
   include figure.html
   image="images/Cell_Identity.png"

@@ -33,12 +33,6 @@ nav:
   component="portrait"
   filters="role: programmer"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad"
-%}
 {:.center}
 
 

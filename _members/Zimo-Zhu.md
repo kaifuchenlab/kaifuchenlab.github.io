@@ -2,8 +2,8 @@
 name: Zimo Zhu
 
 image: images/ZimoZhu.jpeg
-description: Postdoc
-role: postdoc
+description: Undergraduate student
+role: undergrad
 ---
 
 07/2023 ~ Present 

@@ -97,8 +97,6 @@ From the King Abdullah University of Science and Technology. Moved to Ohio State
 
 **Jasmine Liu**, Summer 2023, from Northestern University
 
-**Zimo Zhu**, Summer 2023, from University of Washington
-
 **Hannah Guo**, Summer 2023, from Lexington High School
 
 

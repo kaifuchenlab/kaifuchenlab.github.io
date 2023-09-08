@@ -1,6 +1,6 @@
 ---
 name: Yadong Zhang, Ph.D.
-image: images/RZCL.jpeg
+image: images/photo.jpg
 description: Postdoc
 role: postdoc
 ---

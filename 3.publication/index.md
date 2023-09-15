@@ -19,7 +19,7 @@ Research Square.
 
 ### Papers 
 
-1. Xinlei Gao, Yang Yi, Jie Lv, Yanqiang Li, Kulandaisamy Arulsamy, Sahana Babu, Ivone Bruno, Lili Zhang, Qi Cao, Kaifu Chen. **Low RNA stability signifies strong expression regulatability of tumor suppressors**. Nucleic Acids Research. (In Press).
+1. Xinlei Gao\*, Yang Yi\*, Jie Lv\*, Yanqiang Li, Kulandaisamy Arulsamy, Sahana Babu, Ivone Bruno, Lili Zhang, Qi Cao, Kaifu Chen. **Low RNA stability signifies strong expression regulatability of tumor suppressors**. Nucleic Acids Research. (In Press).
 
 2. Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene.** 
 Nucleic Acids Research. (07/07/2023).

@@ -19,7 +19,7 @@ Research Square.
 
 ### Papers 
 
-1.Xinlei Gao, Yang Yi, Jie Lv, Yanqiang Li, Kulandaisamy Arulsamy, Sahana Babu, Ivone Bruno, Lili Zhang, Qi Cao, Kaifu Chen. **Low RNA stability signifies strong expression regulatability of tumor suppressors**. Nucleic Acids Research. (In Press).
+1. Xinlei Gao, Yang Yi, Jie Lv, Yanqiang Li, Kulandaisamy Arulsamy, Sahana Babu, Ivone Bruno, Lili Zhang, Qi Cao, Kaifu Chen. **Low RNA stability signifies strong expression regulatability of tumor suppressors**. Nucleic Acids Research. (In Press).
 
 1. Abhijit Chakraborty, Yanming Li, Chen Zhang, Yang Li, Kimberly Rebello, Shengyu Li, Samantha Xu, Hernan Vasquez, Lin Zhang, Wei Luo, Guangyu Wang, Kaifu Chen, Joseph Coselli, Scott LeMaire, and Ying Shen. Epigenetic Induction of Smooth Muscle Cell Phenotypic Alterations in Aortic Aneurysms and Dissections. Circulation. (08/09/2023). 
 

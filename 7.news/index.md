@@ -6,6 +6,33 @@ nav:
 ---
 
 # <i class="fas fa-feather-alt"></i> Lab log
+
+
+**October, 2023:**
+Congratulations to Xuanqi for being admited to the PhD program of University of Michigan for nuclear photonics research. Xuanqi was an undergraduate internship co-supervised by Rongbin in the lab in Summer 2022. 
+
+**September, 2023:**
+Congratulations to Xinlei for her new manuscript accepted to Nucleic Acids Research.
+
+**August, 2023:**
+Welcome Yadong to our lab as a new postdoctoral fellows.
+Congratulations to Xinlei for receiving an offer for Scientist postion at MIT.
+
+**July, 2023:**
+Congratulations to Yanqiang for his new manuscript accepted to Nucleic Acids Research.
+Congratulations to Rongbin for his new manuscript accepted to Communication Biology.
+
+**April, 2023:**
+Congratulations to Jie for his manuscript accepted to Nature Communications.
+Congratulations to Yanchun for his manuscript accepted to Developmental cells.
+
+**December, 2022:**
+Congratulations to Krishan, Guangyu, and Shuo for their work published by Science Advances. 
+
+**November, 2022:**
+Congratulations to Xinlei for her manuscript accepted to Circulation Research.
+Congratulations to Dongyu and Min for their manuscript accepted to Nucleic Acids Research.
+
 **June, 2022:**
 Dr. Yang Yu, a bioinformatics PhD from the University of Virginia, will join the lab as a postdoc.
 Dr. Archana Hari, a bioinformatics PhD from the University of Maryland, will join the lab as a postdoc.

@@ -9,7 +9,7 @@ nav:
 
 
 **October, 2023:**
-Congratulations to Xuanqi for being admited to the PhD program of University of Michigan for nuclear photonics research. Xuanqi was an undergraduate internship co-supervised by Rongbin in the lab in Summer 2022. 
+Congratulations to Xuanqi for being admited to the PhD program of University of Michigan for nuclear photonics research. Xuanqi was an undergraduate internship co-supervised by Rongbin in the lab in Summer 2022. Kaifu is invited to talk as a keynote speaker at the CRD 2023 Conference (https://cancerresearchconference.org/speakers), cheers!
 
 **September, 2023:**
 Congratulations to Xinlei for her new manuscript accepted to Nucleic Acids Research.

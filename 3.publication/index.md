@@ -255,6 +255,10 @@ Nucleic acids research. (2008)
 
 ### Abstracts 
 
+Sana Nasim,  Jill Wylie-Sears,  Xinlei Gao,  Kaifu Chen,  Bo Zhu,  Qianman Peng,  Hong Chen and  Joyce Bischoff. Endogenous Activation Of Cd45 Can Induce Endothelial To Mesenchymal Transition In Human Endothelial Cells. ATVB. 2023.
+
+Kui Cui,  Xinlei Gao,  Beibei Wang,  Hao Wu,  Yunzhou Dong,  Douglas B Cowan,  Jinjun Shi,  Kaifu Chen and  Hong Chen. Nano-targeting Epsin In Cholesterol Uptake-efflux Fortifies Atheroma Regression. ATVB. 2023.
+
 Shilpa S Dhar, Calena J Brown, Ali S Rizvi, Janak R Abraham, Roy V Sillitoe, Kaifu Chen, Min Gyu Lee. KMT2D loss cooperates with PTCH loss for medulloblastoma genesis. Cancer Research. 2022.
 
 YANG ZHANG; RONGBIN ZHENG; CHIH-HAO WANG; JUSTIN DARCY; KAIFU CHEN; YU-HUA TSENG. Histone Variant H2A. Z-Mediated Chromatin Organization Regulates Brown Adipocyte Thermogenic Function. Diabetes. 2022. 

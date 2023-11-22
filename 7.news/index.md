@@ -8,25 +8,37 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 
-**October, 2023:**
-Kaifu become a faculty of the PhD Program in Bioinformatics and Integrative Genomics at Harvard Medical School. Cheers!
+**November, 2023:**
+Kaifu becomes an editor of The Innovation (IF 33.1), a new Cell Press journal!
 
 **October, 2023:**
-Congratulations to Xuanqi for being admited to the PhD program of University of Michigan for nuclear photonics research. Xuanqi was an undergraduate internship co-supervised by Rongbin in the lab in Summer 2022. Kaifu is invited to talk as a keynote speaker at the CRD 2023 Conference (https://cancerresearchconference.org/speakers), cheers!
+Kaifu becomes a faculty of the PhD Program in Bioinformatics and Integrative Genomics at Harvard Medical School. Cheers!
+
+**October, 2023:**
+Congratulations to Xuanqi for being admited to the PhD program of University of Michigan for nuclear photonics research. Xuanqi was an undergraduate internship co-supervised by Rongbin in the lab in Summer 2022.
+
+**October, 2023:**
+Kaifu is invited to talk as a keynote speaker at the CRD 2023 Conference (https://cancerresearchconference.org/speakers), cheers!
 
 **September, 2023:**
 Congratulations to Xinlei for her new manuscript accepted to Nucleic Acids Research.
 
 **August, 2023:**
 Welcome Yadong to our lab as a new postdoctoral fellows.
+
+**August, 2023:**
 Congratulations to Xinlei for receiving an offer for Scientist postion at MIT.
 
 **July, 2023:**
 Congratulations to Yanqiang for his new manuscript accepted to Nucleic Acids Research.
+
+**July, 2023:**
 Congratulations to Rongbin for his new manuscript accepted to Communication Biology.
 
 **April, 2023:**
 Congratulations to Jie for his manuscript accepted to Nature Communications.
+
+**April, 2023:**
 Congratulations to Yanchun for his manuscript accepted to Developmental cells.
 
 **December, 2022:**
@@ -34,6 +46,8 @@ Congratulations to Krishan, Guangyu, and Shuo for their work published by Scienc
 
 **November, 2022:**
 Congratulations to Xinlei for her manuscript accepted to Circulation Research.
+
+**November, 2022:**
 Congratulations to Dongyu and Min for their manuscript accepted to Nucleic Acids Research.
 
 **June, 2022:**

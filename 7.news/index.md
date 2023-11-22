@@ -9,7 +9,7 @@ nav:
 
 
 **November, 2023:**
-Kaifu becomes an editor of The Innovation (IF 33.1), a new Cell Press journal!
+Kaifu becomes an editor of The Innovation (IF 33.1), which is a new Cell Press journal!
 
 **October, 2023:**
 Kaifu becomes a faculty of the PhD Program in Bioinformatics and Integrative Genomics at Harvard Medical School. Cheers!

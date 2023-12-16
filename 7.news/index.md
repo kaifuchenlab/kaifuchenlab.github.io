@@ -8,6 +8,9 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 **December, 2023:**
+Welcome Yunxia to the lab as a new postdoctoral fellow.
+
+**December, 2023:**
 Congratuations to Rongbin for receiving the Excellent Poster Award in the Annual retreat for the Broad Institute of MIT and Harvard! It is proud to see Rongbin's poster ranked the 2nd among 420 posters presented by the many outstanding researchers from MIT and Harvard.
 
 **November, 2023:**
@@ -26,10 +29,10 @@ Kaifu is invited to talk as a keynote speaker at the CRD 2023 Conference (https:
 Congratulations to Xinlei for her new manuscript accepted to Nucleic Acids Research.
 
 **August, 2023:**
-Welcome Yadong to our lab as a new postdoctoral fellows.
+Welcome Yadong to the lab as a new postdoctoral fellow.
 
 **August, 2023:**
-Congratulations to Xinlei for receiving an offer for Scientist postion at MIT.
+Congratulations to Xinlei for receiving an offer for a Scientist postion at MIT.
 
 **July, 2023:**
 Congratulations to Yanqiang for his new manuscript accepted to Nucleic Acids Research.

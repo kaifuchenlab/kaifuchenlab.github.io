@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 **December, 2023:**
-Congratuations to Rongbin for receiving the Excellent Poster Award in the Annual retreat for the Broad Institute of MIT and Harvard! It is proud to see Rongbin's poster ranked the 2nd among 420 posters presented by outstanding researchers from MIT and Harvard.
+Congratuations to Rongbin for receiving the Excellent Poster Award in the Annual retreat for the Broad Institute of MIT and Harvard! It is proud to see Rongbin's poster ranked the 2nd among 420 posters presented by the many outstanding researchers from MIT and Harvard.
 
 **November, 2023:**
 Kaifu becomes an editor of The Innovation (IF 33.1), which is a new Cell Press journal!

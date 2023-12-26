@@ -54,7 +54,11 @@ Currently a Staff Scientist at St. Jude Children's Hospital. Jie received a Ph.D
 
 **Bo Xia, Ph.D.**
 11/2016 ~ 12/2019 
-Xia received a Ph.D. degree in Biochemistry and Molecular Biology from the Clemson University, and is a master in Computer Science at Georgia Tech. After staying in the lab for 3 years, Bo has to moved to Canada due to limitation of his Canadian Permanent Residency and later joined the Amazon.
+Bo received a Ph.D. degree in Biochemistry and Molecular Biology from the Clemson University, and is a master in Computer Science at Georgia Tech. After staying in the lab for 3 years, Bo has to moved to Canada due to limitation of his Canadian Permanent Residency and later joined the Amazon.
+
+**Chongming Jiang, Ph.D.**
+7/2017 ~ 9/2019 
+Chongming received his Ph.D. degree from Sun Yat-sen University and he was a co-mentored bioinformatics postdoctoral researcher in the lab. Chongming is currently an Assistant Professor at the Terasaki Institute for Biomedical Innovation
 
 **Yiwen Bu, Ph.D.**
 5/2018 ~ 04/2019 

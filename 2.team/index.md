@@ -66,7 +66,7 @@ Yiwen was a PhD in Biology. After doing bioinformatics research in the lab for 1
 
 **Min Zhang, Ph.D.**
 8/2018 ~ 10/2020 
-Min received a Ph.D. degree in Cell Biology from the National Laboratory for Microscale Physical Sciences, University of Science and Technology of China. Min quitted when the lab moved to Harvard.
+Min received a Ph.D. degree in Cell Biology from the National Laboratory for Microscale Physical Sciences, University of Science and Technology of China. Min quitted when the lab moved to Harvard and is now a PI at the Zhejiang University.
 
 **Sen Zhu, Ph.D.**
 5/2019 ~ 10/2020 

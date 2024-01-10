@@ -88,6 +88,9 @@ From the Nanjing University. Moved to New York for family reason.
 12/2018 ~ 01/2023
 From the King Abdullah University of Science and Technology. Moved to Ohio State University for a faculty position.
 
+**Xinlei Gao, Ph.D.**
+01/2020 ~ 12/2023
+From the University of Science and Technology of China. Moved to MIT for a faculty position.
 
 # <i class="fas fa-users"></i>Intern & Visitor Alumni
 

@@ -92,6 +92,7 @@ From the King Abdullah University of Science and Technology. Moved to Ohio State
 01/2020 ~ 12/2023
 From the University of Science and Technology of China. Moved to MIT for a faculty position.
 
+
 # <i class="fas fa-users"></i>Intern & Visitor Alumni
 
 **Lei La**, 2017-2018, from Southern Medical University

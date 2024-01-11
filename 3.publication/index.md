@@ -21,7 +21,7 @@ Research Square.
 
 82. Min Zhang, Kaiyuan Wu, Weijie Zhang, Xia Lin, Qi Cao, Lili Zhang, Kaifu Chen. The therapeutic potential of targeting the CHD protein family in cancer. Pharmacology and Therapeutics. (Accepted In Pinciple).
 
-81. Khanh M. Chau, Abishai Dominic, Eleanor L. Davis, Arsany Fahim, Shengyu Li, Dongyu Zhao, Kaifu Chen, Alan R. Davis, Minh T. H. Nguyen, Yongxing Wang, Scott E Evans, Guangyu Wang, John Cooke, Jun-ichi Abe, David P. Huston and Nhat-Tu Le. TNIK regulation of Interferon signaling and endothelial cell response to virus infection. Frontiers in Cardiovascular Medicine. (01/09/2023).
+81. Khanh M. Chau, Abishai Dominic, Eleanor L. Davis, Arsany Fahim, Shengyu Li, Dongyu Zhao, Kaifu Chen, Alan R. Davis, Minh T. H. Nguyen, Yongxing Wang, Scott E Evans, Guangyu Wang, John Cooke, Jun-ichi Abe, David P. Huston and Nhat-Tu Le. TNIK regulation of Interferon signaling and endothelial cell response to virus infection. Frontiers in Cardiovascular Medicine. (01/09/2024).
 
 80. Xinlei Gao\*, Yang Yi\*, Jie Lv\*, Yanqiang Li, Kulandaisamy Arulsamy, Sahana Babu, Ivone Bruno, Lili Zhang, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies strong expression regulatability of tumor suppressors**. Nucleic Acids Research. (10/13/2023).
 

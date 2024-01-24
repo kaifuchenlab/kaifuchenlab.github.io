@@ -20,12 +20,12 @@ title: Home
 
 {%
   include gallery.html
-  image="images/lab2023.jpeg"
+  image="images/lab2023.jpg"
 %}
 
 {%
   include figure.html
-  image="images/lab2023.jpeg"
+  image="images/lab2023.jpg"
   width="70%"
   height="70%"
   caption="2023: group photo in front of the Gordon Hall."

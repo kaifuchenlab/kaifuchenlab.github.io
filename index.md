@@ -17,6 +17,7 @@ title: Home
   caption="2022: the first lab lunch after the pandemic."
 %}
 
+
 {%
   include gallery.html
   image="images/lab2023.jpeg"

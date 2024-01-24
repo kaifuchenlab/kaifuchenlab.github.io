@@ -3,7 +3,6 @@ title: Home
 ---
 ## [Kaifu Chen Lab, Do Good Science](https://kaifuchenlab.github.io)
 
- 
 
 {%
   include gallery.html

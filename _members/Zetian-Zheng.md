@@ -1,9 +1,9 @@
 ---
-name: Rongbin Zheng, Ph.D.
-image: images/RZCL.jpeg
-description: Postdoc
-role: postdoc
+name: Zetian Zheng, Ph.D.
+image: images/ZetianZheng.jpeg
+description: PhD Student
+role: PhD Student
 ---
-09/2021 ~ Present 
+03/2024 ~ Present 
 
-Rongbin's major research interest is in cell signaling and epigenetics.
+Dr. Zheng comes from City University of Hong Kong as a visiting PhD  student. His major interest is understanding tumor heterogeneity by employing computational biology methods on multi-omics data.

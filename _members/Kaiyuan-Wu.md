@@ -1,5 +1,5 @@
 ---
-name: Kaiyuan Wu, Ph.D.
+name: Kaiyuan Wu
 image: images/KaiyuanWu.jpeg
 description: Undergraduate
 role: undergrad

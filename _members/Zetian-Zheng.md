@@ -1,6 +1,6 @@
 ---
 name: Zetian Zheng, Ph.D.
-image: images/ZetianZheng.jpeg
+image: images/ZetianZheng.jpg
 description: PhD Student
 role: phd
 ---

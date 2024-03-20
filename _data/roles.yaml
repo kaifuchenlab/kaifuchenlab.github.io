@@ -3,15 +3,15 @@ pi:
   text: Principal Investigator
 
 postdoc:
-  icon: fas fa-glasses
+  icon: fa-user-graduate
   text: Postdoctoral Researcher
 
 phd:
-  icon: fas fa-graduation-cap
+  icon: fas fa-user-graduate 
   text: PhD Student
 
 undergrad:
-  icon: fas fa-user-graduate
+  icon: fas fa-glasses
   text: Undergraduate Student
 
 instructor:
@@ -19,5 +19,5 @@ instructor:
   text: Instructor
 
 mascot:
-  icon: fas fa-dog
+  icon: fas fa-graduation-cap
   text: Mascot

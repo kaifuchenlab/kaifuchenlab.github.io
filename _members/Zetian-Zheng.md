@@ -2,7 +2,7 @@
 name: Zetian Zheng, Ph.D.
 image: images/ZetianZheng.jpeg
 description: PhD Student
-role: postdoc
+role: phd
 ---
 03/2024 ~ Present 
 

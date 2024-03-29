@@ -289,4 +289,3 @@ Raquel A Araujo-Gutierrez, Guangyu Wang, Areeba Ali, Hernan G Marcos-Abdala, Ces
 Sen Zhu, Dongyu Zhang, Lin Yan, Weihua Jiang, Qipeng Liu, Rui Wang, Bo Xia, Jonathan C Zhao, Rong-Fu Wang, Xiaobing Shi, Hung-ming Lam, Xuesen Dong, Jindan Yu, Kaifu Chen, Qi Cao. A novel role for polycomb group protein BMI1 in prostate cancer. Cancer Research. 2018
 
 Shu Meng , Qilin Gu , Xiaojie Yang , Jie Lv , Iris Owusu , Gianfranco Matrone , Kaifu Chen , Longhou Fang , and John Cooke. Discovery of a Novel Angiogenic Factor TBX20. Circulation. 2017
-

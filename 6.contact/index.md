@@ -77,6 +77,3 @@ The main entrance to the Enders building is on the Longwood Avenue (Figure from 
   width="60%"
   height="60%"
 %}
-
-
-

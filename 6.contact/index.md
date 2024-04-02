@@ -72,11 +72,11 @@ The main entrance to the Enders building is on the Longwood Avenue (Figure from 
 %}
 
 
-Program Administration Manager: Kumara Springer
+**Program Administration Manager:** Kumara Springer
 
-Research Administrative Manager: Sara Benmoha Soto, CRA
+**Research Administrative Manager:** Sara Benmoha Soto, CRA
 
-Research Administrator: Marcela Silva de Oliveira
+**Research Administrator:** Marcela Silva de Oliveira
 
-Program Coordinator: Cassandra Summers
+**Program Coordinator:** Cassandra Summers
 

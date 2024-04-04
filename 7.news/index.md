@@ -7,6 +7,15 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
+**April, 2024:**
+Welcome Zetian to the lab as a visiting PhD student.
+
+**April, 2024:**
+Congratulations to Kaiyuan for receiving offers from the PhD programs at several institutes including the Duke University, Zimo for receiving offers from the PhD programs at several institutes including the Cornell University, and Jasmine for recing offers from the PhD programs at several institutes including the Brown University.
+
+**March, 2024:**
+Congratulations to Yanqiang for his mRNA 2'-O-methylation manuscript accepted by Molecular Cell.
+
 **December, 2023:**
 Welcome Yunxia to the lab as a new postdoctoral fellow.
 

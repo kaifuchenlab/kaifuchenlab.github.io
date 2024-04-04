@@ -12,33 +12,37 @@ nav:
 To apply for a position, please send a CV, cover letter or research statement, and information for three references to the PI, Kaifu Chen, PhD (Bchkfc.png).
 
 
-**Overview:**
+**Overview**
 
-The lab led by Kaifu Chen in the Harvard Medical School at Boston Children's Hospital is seeking a bioinformatics postdoc for single-cell and spatial multi-omics bioinformatics research. Major biological topic can be 3D genome organization, RNA methylation, or metabolism.
+Outstanding bioinformatics postdoctoral candidates are always welcome to apply for positions in the Chen Lab (https://kaifuchenlab.github.io) at the Boston Children's Hospital in Harvard Medical School. Candidates with rich experiences in spatial / single-cell multi-omics data analysis and a strong background in disciplines such as biology, physics, mathematics, statistics, or computer sciences are highly encouraged to apply. Ideal candidates are highly selfmotivated, creative, independent, excellent in communication skills, and enthusiastic about discussions and sharing.
 
-This researcher will develop bioinformatics technology to investigate gene expression regulation at the single-cell and spatial resolution. Experiences with bioinformatics technique development or epigenetic research will be considered with high priority (but not a prerequisite). The lab is productive in recent years in both development of bioinformatics methods (Nature Genetics 2015, Nature Communications 2020a, Nature Communications 2020b, Genome Biology 2020, etc.) and biomedical research based on cutting-edge bioinformatics techniques (Nature 2018, Science 2019, Circulation 2020, Nature Cell Biology 2021, etc). Both the School and Hospital offer rich and dynamic research environments. The work location is embraced by tens of other top institutes such as the Massachusetts General Hospital, Dana-Farber Cancer Institute, and Broad Institute.
+**Research Opportunities**
+A postdoc in the lab can choose some of the following research directions.
 
+• Analyze high-resolution single-cell RNA-seq, ChIP-seq / Cut&Tag, ATAC-seq, MERFISH, RNA modification profiles, and Hi-C data to unravel spatial and temporal dimensions of biological processes.
 
-**Responsibilities:**
+• Investigate the regulatory mechanisms of gene expression, including intercellular communication, transcription factors, histone modifications, RNA modifications, and 3D chromatin folding, to gain insights into development and diseases.
 
-• Develop computational tools, statistical methods, artificial intelligence techniques, machine learning algorithms, or network models to understand single-cell sequencing data. 
+• Develop innovative computational tools, statistical methods, artificial intelligence (AI) techniques, machine learning algorithms, or network models.
 
-• Analyze single cell sequencing data to study cell identity regulation and dysregulation. 
+• Collaborate with clinicians and biologists to enhance research productivity, foster innovation, and facilitate translational applications.
 
-• Analyze Hi-C, ChIP-seq, ATAC-seq, and RNA-seq data to study epigenetic regulation of transcription. 
+**Research Environment**
+At the Chen Lab, we foster an environment that promotes research freedom, self-motivation, and collaboration. We prioritize the diverse career goals of our lab members. The Lab is physically located in the Boston Children’s Hospital and academically affiliated with Harvard Medical School. Our location further offers proximity to multiple prestigious biomedical institutes, including the Dana-Farber Cancer Center, Massachusetts General Hospital, and the Massachusetts Institute of Technology (MIT). The city also boasts a thriving high-tech industry.
 
-• Collaboration with biologist and clinician to leverage research output, innovation, and significance.
-
-
-**Qualifications:**
-Applicants must have a training in area related to bioinformatics. Experiences with algorithm development and analysis of multiple types of genomic datasets will be a strong plus but not a prerequisite. Candidates with a PhD degree in biology, medicine, genomics, bioinformatics, computer science, electronics engineering, mathematics, statistics, physics, or other related area are encouraged to apply.
-
+**Life in Boston**
+Boston consistently ranks as one of the Best Places to Live according to the U.S. News & World Report. This vibrant city is renowned for its safety, efficient public transportation system, rich historical and cultural heritage, world-class education and research institutions, and its natural beauty, including ocean beaches, islands, rivers, hills, and mountains that showcase the allure of all four seasons.
 
 **Commitment to Diversity:**
-We are committed to cultivating a diverse workplace. We do not discriminate on the basis of race, gender, gender identity, color, religion, age, disability, or national origin. We encourage individuals with diverse backgrounds to apply.
-
+We are dedicated to cultivating a diverse and inclusive workplace. We strongly encourage individuals from diverse backgrounds to apply. We do not discriminate based on race, gender identity, color, religion, age, disability, or national origin.
 
 **Commitment to Integrity:**
 The Lab has zero tolerance to research fraud. Candidate with any history of fabrication, falsification, plagiarism or deception is suggested not to apply for a position in this lab.
+
+**Salary Range**
+The salary for this position ranges from $65,000 to $76,000, commensurate with experience.
+
+**How to Apply**
+If you are interested in this position, please submit your curriculum vitae (CV), a cover letter (or research statement), and the contact information of three referees to kaifu.chen@childrens.harvard.edu.
 
 {% include section.html %}

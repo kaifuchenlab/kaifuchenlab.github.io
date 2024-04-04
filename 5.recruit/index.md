@@ -33,7 +33,7 @@ Boston consistently ranks as one of the Best Places to Live according to the U.S
 We are dedicated to cultivating a diverse and inclusive workplace. We strongly encourage individuals from diverse backgrounds to apply. We do not discriminate based on race, gender identity, color, religion, age, disability, or national origin.
 
 **Commitment to Integrity:**
-The Lab has zero tolerance to research fraud. Candidate with any history of fabrication, falsification, plagiarism or deception is suggested not to apply for a position in this lab.
+The Lab has zero tolerance to research fraud. Candidate committed to fabrication, falsification, plagiarism or deception would not like to apply for the position in our lab.
 
 **Salary Range:**
 The salary for this position ranges from $65,000 to $76,000, commensurate with experience.

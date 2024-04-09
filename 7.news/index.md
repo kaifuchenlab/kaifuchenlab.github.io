@@ -26,7 +26,7 @@ Congratuations to Rongbin for receiving the Excellent Poster Award in the Annual
 Kaifu becomes an editor of The Innovation (IF 33.1), which is a recent Cell Press journal.
 
 **October, 2023:**
-Kaifu becomes a faculty of the PhD Program in Bioinformatics and Integrative Genomics at Harvard Medical School. Cheers!
+Kaifu becomes a faculty member of the PhD Program in Bioinformatics and Integrative Genomics at Harvard Medical School. Cheers!
 
 **October, 2023:**
 Congratulations to Xuanqi for being admited to the PhD program of University of Michigan for nuclear photonics research. Xuanqi was an undergraduate internship co-supervised by Rongbin in the lab in Summer 2022.

@@ -11,7 +11,7 @@ nav:
 Welcome Zetian to the lab as a visiting PhD student.
 
 **April, 2024:**
-Congratulations to Kaiyuan for receiving offers from the PhD programs at several institutes including the Duke University, Zimo for receiving offers from the PhD programs at several institutes including the Cornell University, and Jasmine for receiving offers from the PhD programs at several institutes including the Brown University.
+Congratulations to Kaiyuan (co-mentored by Yanqiang) for receiving offers from the PhD programs at several institutes including the Duke University, Zimo (co-mentored by Rongbin) for receiving offers from the PhD programs at several institutes including the Cornell University, and Jasmine (co-mentored by Rongbin and Yanqiang) for receiving offers from the PhD programs at several institutes including the Brown University.
 
 **March, 2024:**
 Congratulations to Yanqiang for his mRNA 2'-O-methylation manuscript accepted by Molecular Cell.

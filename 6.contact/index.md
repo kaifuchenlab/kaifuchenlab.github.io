@@ -79,4 +79,4 @@ The main entrance to the Enders building is on the Longwood Avenue (Figure from 
 
 **Program Coordinator:** Cassandra Summers
 
-**[High Performance Computing](https://chbwiki.tch.harvard.edu/display/RCK/Research+Computing+Wiki) Engineering Manager:** Rob Bryant
+**High Performance Computing Engineering Manager:** Rob Bryant ([wiki]((https://chbwiki.tch.harvard.edu/display/RCK/Research+Computing+Wiki)))

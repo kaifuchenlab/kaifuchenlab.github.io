@@ -16,14 +16,6 @@ Enders 1307
 **Address for package and orders:**
 61 Binney St, Boston, MA 02115 
 
-**Program Administration Manager:** Kumara Springer
-
-**Research Administrative Manager:** Sara Benmoha Soto, CRA
-
-**Research Administrator:** Marcela Silva de Oliveira
-
-**Program Coordinator:** Cassandra Summers
-
 {%
   include link.html
   type="address"
@@ -77,3 +69,14 @@ The main entrance to the Enders building is on the Longwood Avenue (Figure from 
   width="60%"
   height="60%"
 %}
+
+
+**Program Administration Manager:** Kumara Springer
+
+**Research Administrative Manager:** Sara Benmoha Soto, CRA
+
+**Research Administrator:** Marcela Silva de Oliveira
+
+**Program Coordinator:** Cassandra Summers
+
+**High Performance Computing (Engineering Manager):** Rob Bryant

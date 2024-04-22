@@ -20,7 +20,7 @@ Research Square.
 ### Papers 
 
 84.	Yanqiang Li, Yang Yi, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao, Kaifu Chen. **Dynamic 2'-O-Methylation reprograming at widespread mRNA internal sites**.
-Molecular Cell. (Accepted in principle)
+Molecular Cell. (Accepted)
 
 83. Zulong Chen\*, Xin Wang\*, Xinlei Gao, Nina Arslanovic, Kaifu Chen^ and Jessica Tyler^. Transcriptional inhibition after irradiation occurs preferentially at highly expressed genes in a manner dependent on cell cycle progression. 
 Elife. (Accepted).

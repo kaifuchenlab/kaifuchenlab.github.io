@@ -71,6 +71,8 @@ The main entrance to the Enders building is on the Longwood Avenue (Figure from 
 %}
 
 
+**Director of Finance (Research):** Arlenin Perez Dushku, MBA
+
 **Program Administration Manager:** Kumara Springer
 
 **Research Administrative Manager:** Sara Benmoha Soto, CRA

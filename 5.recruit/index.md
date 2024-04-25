@@ -16,7 +16,7 @@ To apply for a position, please send a CV, cover letter or research statement, a
 
 **Research Opportunities:** A postdoc in the lab can choose some of the following research directions.
 
-• Analyze high-resolution single-cell RNA-seq, ChIP-seq / Cut&Tag, ATAC-seq, MERFISH, RNA modification profiles, and Hi-C data to unravel spatial and temporal dimensions of biological processes.
+• Analyze high-resolution single-cell RNA-seq, ChIP-seq, Cut&Tag, ATAC-seq, MERFISH, RNA modification profiles, and Hi-C data to unravel spatial and temporal dimensions of biological processes.
 
 • Investigate the regulatory mechanisms of gene expression, including intercellular communication, transcription factors, histone modifications, RNA modifications, and 3D chromatin folding, to gain insights into development and diseases.
 

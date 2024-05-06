@@ -70,15 +70,4 @@ The main entrance to the Enders building is on the Longwood Avenue (Figure from 
   height="60%"
 %}
 
-
-**Director of Finance (Research):** Arlenin Perez Dushku, MBA
-
-**Program Administration Manager:** Kumara Springer
-
-**Research Administrative Manager:** Sara Benmoha Soto, CRA
-
-**Research Administrator:** Marcela Silva de Oliveira
-
-**Program Coordinator:** Cassandra Summers
-
-**High Performance Computing:** visit [HPC Wiki](https://chbwiki.tch.harvard.edu/display/RCK/Research+Computing+Wiki) for helps or contact Engineering Manager, Mr. Rob Bryant. 
+ 

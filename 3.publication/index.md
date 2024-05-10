@@ -20,7 +20,7 @@ Research Square.
 ### Papers 
 
 83. Zulong Chen\*, Xin Wang\*, Xinlei Gao, Nina Arslanovic, Kaifu Chen^ and Jessica Tyler^. Transcriptional inhibition after irradiation occurs preferentially at highly expressed genes in a manner dependent on cell cycle progression. 
-Elife. (Accepted).
+Elife. (02/07/2024).
 
 82. Min Zhang, Kaiyuan Wu, Weijie Zhang, Xia Lin, Qi Cao, Lili Zhang, Kaifu Chen. The therapeutic potential of targeting the CHD protein family in cancer.
 Pharmacology and Therapeutics. (02/15/2024).

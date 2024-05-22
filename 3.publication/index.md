@@ -265,24 +265,52 @@ Nucleic acids research. (2008)
 
 ### Abstracts 
 
-Sana Nasim,  Jill Wylie-Sears,  Xinlei Gao,  Kaifu Chen,  Bo Zhu,  Qianman Peng,  Hong Chen and  Joyce Bischoff. Endogenous Activation Of Cd45 Can Induce Endothelial To Mesenchymal Transition In Human Endothelial Cells. ATVB. 2023.
+1.	Kaifu Chen, Wei Li. 
+**Broad H3k4me3 marks tumor suppressors for increased transcriotion elongation.** 
+NIH Epigenome Roadmap Investigators’ Meeting (Bethesda, MD, May 13-15, 2012)
+2.	Shu Meng, Qilin Gu, Xiaojie Yang  Jie Lv  Iris Owusu  Gianfranco Matrone, Kaifu Chen, L onghou Fan, and John Cooke. 
+Discovery of a Novel Angiogenic Factor TBX20. 
+Circulation. 2017
+3.	Sen Zhu, Dongyu Zhang, Lin Yan, Weihua Jiang, Qipeng Liu, Rui Wang, Bo Xia, Jonathan C Zhao, Rong-Fu Wang, Xiaobing Shi, Hung-ming Lam, Xuesen Dong, Jindan Yu, Kaifu Chen, Qi Cao. 
+A novel role for polycomb group protein BMI1 in prostate cancer. 
+Cancer Research. 2018
+4.	Shu Meng , Jie Lv , Palas K Chanda , Iris Owusu , Kaifu Chen , John P Cooke. 
+**A Reservoir of Fibroblasts Promotes Recovery From Limb Ischemia.**
+Circulation, 2019.
+5.	Raquel A Araujo-Gutierrez, Guangyu Wang, Areeba Ali, Hernan G Marcos-Abdala, Cesar Uribe, Hilda M Gonzalez-Bonilla, Alpana Senapati, Keith A Youker, Guillermo Torre-Amione, Kaifu Chen, Arvind Bhimaraj. 
+Genetic Determinants of Allograft Hypertrophy-A Human Myocardial Biopsy Study. 
+Journal of Cardiac Failure. 2019.
+6.	A Mojiri, B Walter, C Jiang, G Matrone, R Holgate, Q Qiu, K Chen, J Cooke. 
+Telomerase Therapy Reverses Vascular Senescence in HGPS. 
+Canadian Journal of Cardiology. 2020.
+7.	Shilpa S. Dhar, Dongyu Zhao, Tao Lin, Roy V. Sillitoe, Kaifu Chen, and Min Gyu Lee. 
+**Heterozygous knockout of the histone modifier MLL4 promotes Ptch+/−-driven medulloblastoma.** 
+Cancer Research. 2020.
+8.	Lili Zhang, Jie Lv, Sen Zhu, Kaifu Chen. 
+**ITF2 Maintains Endothelial Cell Identity to Oppose Endothelial-Mesenchymal Transition.** 
+Circulation Research. 2021.
+9.	Shilpa S Dhar, Calena J Brown, Ali S Rizvi, Janak R Abraham, Roy V Sillitoe, Kaifu Chen, Min Gyu Lee. 
+KMT2D loss cooperates with PTCH loss for medulloblastoma genesis. 
+Cancer Research. 2022.
+10.	Yang Zhang, Rongbin Zheng, Chih-Hao Wang, Justin Darcy, Kaifu Chen, Yu-Hua Tseng. 
+**Histone Variant H2A.Z-Mediated Chromatin Organization Regulates Brown Adipocyte Thermogenic Function.** 
+Diabetes. 2022. 
+11.	Kui Cui,  Xinlei Gao,  Beibei Wang,  Hao Wu,  Yunzhou Dong,  Yuling Xiao, Xingya Jiang,  Siu-Lung Chan,  Bo Zhu,  Sudarshan Bhattacharjee, Dan Shan,  Qianman Peng,  Marrina Malovichko,  Vikram Norton, Scott Wong,  Douglas B Cowan,  Sanjay Srivastava,  MacRae F Linton, Jinjun Shi,  Kaifu Chen and  Hong Chen. 
+**Targeting Macrophage Epsins Inhibits Lipid Uptake And Facilitates Cholesterol Efflux In Atherosclerosis.** 
+ATVB. 2022
+12.	Kui Cui, Xinlei Gao, Beibei Wang, Hao Wu, Yunzhou Dong, Douglas B Cowan, Jinjun Shi, Kaifu Chen and Hong Chen. 
+**Nano-targeting Epsin In Cholesterol Uptake-efflux Fortifies Atheroma Regression.** 
+ATVB. 2023.
+13.	Sana Nasim, Jill Wylie-Sears, Xinlei Gao, Kaifu Chen, Bo Zhu, Qianman Peng, Hong Chen and Joyce Bischoff. 
+Endogenous Activation of Cd45 Can Induce Endothelial To Mesenchymal Transition In Human Endothelial Cells. 
+ATVB. 2023.
+14.	Hui-Min Yin, Xinlei Gao, Kaifu Chen, Caroline Burns, C Geoffrey Burns. 
+**Pontin Is Necessary and Sufficient For Driving Cardiomyocyte Proliferation In Zebrafish And Mice.** 
+Circulation Research. 2023
+15.	Keman Xu,  Fatma Saaoud,  Ying Shao,  Yifan Lu,  Huaqing Zhao,  Kaifu Chen, Xiaohua Jiang,  Hong Wang and  Xiaofeng Yang. 
+Cross-omics Identified That Early Hyperlipidemia Increased S-adenosylhomocysteine-hypomethylation And 24 Proinflammatory Metabolites May Synergize In Trained Immunity. 
+ATVB. 2023
+16.	Hakan Coskun,  Xinlei Gao,  Kaifu Chen,  C. Geoffrey Burns and Caroline Burns. 
+**Cellular Heterogeneity In The Nkx2.5+ Anterior Lateral Plate Mesoderm Underlies Lineage Diversity Of The Cardiovascular System.** 
+Circulation Research. 2024
 
-Kui Cui,  Xinlei Gao,  Beibei Wang,  Hao Wu,  Yunzhou Dong,  Douglas B Cowan,  Jinjun Shi,  Kaifu Chen and  Hong Chen. Nano-targeting Epsin In Cholesterol Uptake-efflux Fortifies Atheroma Regression. ATVB. 2023.
-
-Shilpa S Dhar, Calena J Brown, Ali S Rizvi, Janak R Abraham, Roy V Sillitoe, Kaifu Chen, Min Gyu Lee. KMT2D loss cooperates with PTCH loss for medulloblastoma genesis. Cancer Research. 2022.
-
-YANG ZHANG; RONGBIN ZHENG; CHIH-HAO WANG; JUSTIN DARCY; KAIFU CHEN; YU-HUA TSENG. Histone Variant H2A. Z-Mediated Chromatin Organization Regulates Brown Adipocyte Thermogenic Function. Diabetes. 2022. 
-
-Lili Zhang, Jie Lv, Sen Zhu, Kaifu Chen. ITF2 Maintains Endothelial Cell Identity to Oppose Endothelial-Mesenchymal Transition. CIRCULATION RESEARC. 2021. 
-
-A Mojiri, B Walter, C Jiang, G Matrone, R Holgate, Q Qiu, K Chen, J Cooke. TELOMERASE THERAPY REVERSES VASCULAR SENESCENCE IN HGPS. Canadian Journal of Cardiology. 2020.
-
-Shilpa S. Dhar, Dongyu Zhao, Tao Lin, Roy V. Sillitoe, Kaifu Chen and Min Gyu Lee. Heterozygous knockout of the histone modifier MLL4 promotes Ptch+/−-driven medulloblastoma. Cancer Research. 2020.
-
-Shu Meng , Jie Lv , Palas K Chanda , Iris Owusu , Kaifu Chen , John P Cooke. A Reservoir of Fibroblasts Promotes Recovery From Limb Ischemia. Circulation, 2019.
-
-Raquel A Araujo-Gutierrez, Guangyu Wang, Areeba Ali, Hernan G Marcos-Abdala, Cesar Uribe, Hilda M Gonzalez-Bonilla, Alpana Senapati, Keith A Youker, Guillermo Torre-Amione, Kaifu Chen, Arvind Bhimaraj. Genetic Determinants of Allograft Hypertrophy-A Human Myocardial Biopsy Study. Journal of Cardiac Failure. 2019.
-
-Sen Zhu, Dongyu Zhang, Lin Yan, Weihua Jiang, Qipeng Liu, Rui Wang, Bo Xia, Jonathan C Zhao, Rong-Fu Wang, Xiaobing Shi, Hung-ming Lam, Xuesen Dong, Jindan Yu, Kaifu Chen, Qi Cao. A novel role for polycomb group protein BMI1 in prostate cancer. Cancer Research. 2018
-
-Shu Meng , Qilin Gu , Xiaojie Yang , Jie Lv , Iris Owusu , Gianfranco Matrone , Kaifu Chen , Longhou Fang , and John Cooke. Discovery of a Novel Angiogenic Factor TBX20. Circulation. 2017

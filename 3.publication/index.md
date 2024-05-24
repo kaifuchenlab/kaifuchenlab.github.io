@@ -19,7 +19,7 @@ Research Square.
 
 ### Papers 
 
-84. Olivia Weeks, Xinlei Gao, Sandeep Basu, Jennifer Galdieri1, Kaifu Chen,Geoffrey Burns, Caroline E. Burns. Embryonic Alcohol Exposure in Zebrafish Predisposes Adults to Cardiomyopathy and Diastolic Dysfunction. Cardiovascular Research. (Accepted 2024)
+84. Olivia Weeks, Xinlei Gao, Sandeep Basu, Jennifer Galdieri1, Kaifu Chen,Geoffrey Burns, Caroline E. Burns. Embryonic Alcohol Exposure in Zebrafish Predisposes Adults to Cardiomyopathy and Diastolic Dysfunction. Cardiovascular Research. (2024)
 
 83. Zulong Chen\*, Xin Wang\*, Xinlei Gao, Nina Arslanovic, Kaifu Chen^ and Jessica Tyler^. Transcriptional inhibition after irradiation occurs preferentially at highly expressed genes in a manner dependent on cell cycle progression. 
 Elife. (02/07/2024).

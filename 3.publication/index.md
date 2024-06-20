@@ -27,7 +27,7 @@ Molecular Cell. (06/20/2024)
 83. Zulong Chen\*, Xin Wang\*, Xinlei Gao, Nina Arslanovic, Kaifu Chen^ and Jessica Tyler^. Transcriptional inhibition after irradiation occurs preferentially at highly expressed genes in a manner dependent on cell cycle progression. 
 Elife. (02/07/2024).
 
-82. Min Zhang, Kaiyuan Wu, Weijie Zhang, Xia Lin, Qi Cao, Lili Zhang, Kaifu Chen. The therapeutic potential of targeting the CHD protein family in cancer.
+82. Min Zhang, Kaiyuan Wu, Weijie Zhang, Xia Lin, Qi Cao, Lili Zhang, Kaifu Chen. **The therapeutic potential of targeting the CHD protein family in cancer.**
 Pharmacology and Therapeutics. (02/15/2024).
 
 81. Khanh M. Chau, Abishai Dominic, Eleanor L. Davis, Arsany Fahim, Shengyu Li, Dongyu Zhao, Kaifu Chen, Alan R. Davis, Minh T. H. Nguyen, Yongxing Wang, Scott E Evans, Guangyu Wang, John Cooke, Jun-ichi Abe, David P. Huston and Nhat-Tu Le. TNIK regulation of Interferon signaling and endothelial cell response to virus infection.

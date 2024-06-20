@@ -19,6 +19,9 @@ Research Square.
 
 ### Papers 
 
+84. a.	Yanqiang Li, Yang Yi, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.** 
+Molecular Cell. (06/20/2024)
+
 84. Olivia Weeks, Xinlei Gao, Sandeep Basu, Jennifer Galdieri1, Kaifu Chen,Geoffrey Burns, Caroline E. Burns. Embryonic Alcohol Exposure in Zebrafish Predisposes Adults to Cardiomyopathy and Diastolic Dysfunction. Cardiovascular Research. (05/23/2024)
 
 83. Zulong Chen\*, Xin Wang\*, Xinlei Gao, Nina Arslanovic, Kaifu Chen^ and Jessica Tyler^. Transcriptional inhibition after irradiation occurs preferentially at highly expressed genes in a manner dependent on cell cycle progression. 

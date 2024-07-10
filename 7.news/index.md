@@ -7,9 +7,6 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
-**July, 2024:**
-Big congratulations to Yanqiang! He is starting his own new lab as an independent full professor of a top Institute in China.
-
 **April, 2024:**
 Welcome Zetian to the lab as a visiting PhD student.
 

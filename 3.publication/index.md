@@ -20,7 +20,7 @@ Research Square.
 ### Papers 
 
 86. Yanqiang Li, Yang Yi, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.** 
-Molecular Cell. (06/20/2024)
+Molecular Cell. (Accepted in principle, 06/20/2024)
 
 85. Yang Yu\*, Xin Wang\*, Jordan Fox, Ruofan Yu, Pilendra Thakre, Brenna McCauley, Nicolas Nikoloutsos, Qian Li, P J Hastings, Weiwei Dang, Kaifu Chen^, Grzegorz Ira^. **Yeast EndoG prevents genome instability by degrading extranuclear DNA species.**
 Nature Communications. (07/30/2024)

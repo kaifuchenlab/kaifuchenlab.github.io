@@ -19,6 +19,9 @@ Research Square.
 
 ### Papers 
 
+87. Umji Lee\*, Yadong Zhang\*, Yonglin Zhu, Allen Chilun Luo, Liyan Gong, Daniel M. Tremmel, Yunhye Kim, Victoria Sofia Villarreal, Xi Wang, Ruei-Zeng Lin, Miao Cui, Minglin Ma, Ke Yuan, Kai Wang^, Kaifu Chen^, and Juan M. Melero-Martin^. **Robust differentiation of human pluripotent stem cells into mural progenitor cells via transient activation of NKX3.1.**
+Nature Communications. (Accepted in principle, 08/20/2024)
+
 86. Yanqiang Li, Yang Yi, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.** 
 Molecular Cell. (06/20/2024)
 

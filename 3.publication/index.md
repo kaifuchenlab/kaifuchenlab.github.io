@@ -25,7 +25,7 @@ Molecular Cell. (06/20/2024)
 86. Umji Lee\*, Yadong Zhang\*, Yonglin Zhu, Allen Chilun Luo, Liyan Gong, Daniel M. Tremmel, Yunhye Kim, Victoria Sofia Villarreal, Xi Wang, Ruei-Zeng Lin, Miao Cui, Minglin Ma, Ke Yuan, Kai Wang^, Kaifu Chen^, and Juan M. Melero-Martin^. **Robust differentiation of human pluripotent stem cells into mural progenitor cells via transient activation of NKX3.1.**
 Nature Communications. (Accepted in principle, 08/20/2024)
 
-85. Yang Yu\*, Xin Wang\*, Jordan Fox, Ruofan Yu, Pilendra Thakre, Brenna McCauley, Nicolas Nikoloutsos, Qian Li, P J Hastings, Weiwei Dang, Kaifu Chen^, Grzegorz Ira^. **Yeast EndoG prevents genome instability by degrading extranuclear DNA species.**
+85. Yang Yu\*, Xin Wang\*, Jordan Fox\*, Ruofan Yu, Pilendra Thakre, Brenna McCauley, Nicolas Nikoloutsos, Yang Yu, Qian Li, P J Hastings, Weiwei Dang, Kaifu Chen^, Grzegorz Ira^. **Yeast EndoG prevents genome instability by degrading extranuclear DNA species.**
 Nature Communications. (Accepted in principle, 07/30/2024)
 
 84. Olivia Weeks, Xinlei Gao, Sandeep Basu, Jennifer Galdieri1, Kaifu Chen,Geoffrey Burns, Caroline E. Burns. Embryonic Alcohol Exposure in Zebrafish Predisposes Adults to Cardiomyopathy and Diastolic Dysfunction. 

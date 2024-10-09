@@ -11,6 +11,10 @@ nav:
 **[NanoNm](https://github.com/kaifuchenlab/NanoNm) (Science Advances, 2022):**
 A machine learning model to detect the RNA modification 2'-O-methylation (Nm) in Nanopore direct RNA sequencing data.
 
+**[MCCP](http://cbp-kfc.org/mccp) [(BioRxiv, 2022)](https://www.biorxiv.org/content/10.1101/2022.05.30.494067v1):**
+A knowledgebase and web portal for accessing the landscape of metabolite-mediated cell-cell communications.
+
+
 **[MEBOCOST](https://github.com/zhengrongbin/MEBOCOST) [(BioRxiv, 2022)](https://www.biorxiv.org/content/10.1101/2022.05.30.494067v1):**
 A computational technology to enable detection of cell-cell communications mediated by metabolites and their sensor proteins (receptor, transporter, etc) based on single-cell RNA-Seq data.
 

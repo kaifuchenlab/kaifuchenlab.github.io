@@ -28,6 +28,8 @@ Nature Communications. (Accepted in principle, 08/20/2024)
 86. Yang Yu\*, Xin Wang\*, Jordan Fox\*, Ruofan Yu, Pilendra Thakre, Brenna McCauley, Nicolas Nikoloutsos, Yang Yu, Qian Li, P J Hastings, Weiwei Dang, Kaifu Chen^, Grzegorz Ira^. **Yeast EndoG prevents genome instability by degrading extranuclear DNA species.**
 Nature Communications. (Accepted in principle, 07/30/2024)
 
+Yang Yu\*, Xin Wang\*, Jordan Fox, Qian Li, Yang Yu, P.J. Hastings, Kaifu Chen^ and Grzegorz Ira^. **RPA and Rad27 limit templated and inverted insertions at DNA breaks**. Nucleic Acids Research. (Accepted 11/04/2024)
+
 85. Qingshu Meng, Jiangchuan Shen, Yanan Ren, Qi Liu, Rui Wang, Qiaqia Li, Weihua Jiang, Quan Wang, Yixiang Zhang, Jonathan C Trinidad, Xiaotong Lu, Tingyou Wang, Yanqiang Li, Chaehyun Yum, Yang Yi, Yongyong Yang, Dongyu Zhao, Clair Harris, Sundeep Kalantry, Kaifu Chen, Rendong Yang, Hengyao Niu, Qi Cao. EZH2 directly methylates PARP1 and regulates its activity in cancer. Science Advances (Accepted, 10/14/2024) 
 
 84. Olivia Weeks, Xinlei Gao, Sandeep Basu, Jennifer Galdieri1, Kaifu Chen,Geoffrey Burns, Caroline E. Burns. Embryonic Alcohol Exposure in Zebrafish Predisposes Adults to Cardiomyopathy and Diastolic Dysfunction. 

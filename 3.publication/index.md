@@ -65,7 +65,7 @@ Developmental Cell. (04/17/2023; 05/22/2023).
 
 72. Jun Cao\*, Xin Wang\*, Vivek Advani, Yao Wei Lu, Andrea P. Malizia, Gurinder Bir Singh, Zhan-Peng Huang, Jianming Liu, Chunbo Wang, Edilamar M. Oliveira, John D. Mably, Kaifu Chen^, Da-Zhi Wang^. mt-Ty 5 ́tiRNA regulates skeletal muscle cell proliferation and differentiation. Cell Proliferation. (02/08/2023; 08/01/2023).
 
-71. Keman Xu; Fatma Saaoud; Ying Shao; Yifan Lu; Sheng Wu; Huaqing Zhao; Kaifu Chen; Roberto Vazquez-Padron; Xiaohua Jiang; Hong Wang. Early hyperlipidemia triggers metabolomic reprogramming with increased SAH, increased acetyl-CoA-cholesterol synthesis, and decreased glycolysis. Redox Biology. (06/16/2022; 08/01/2023)
+71. Keman Xu; Fatma Saaoud; Ying Shao; Yifan Lu; Sheng Wu; Huaqing Zhao; Kaifu Chen; Roberto Vazquez-Padron; Xiaohua Jiang; Hong Wang, Xiaofeng Yang. Early hyperlipidemia triggers metabolomic reprogramming with increased SAH, increased acetyl-CoA-cholesterol synthesis, and decreased glycolysis. Redox Biology. (06/16/2022; 08/01/2023)
 
 70. Yang Yi, Yanqiang Li, Kaifu Chen and Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget. (02/11/2023).
 

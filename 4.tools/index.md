@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-tools"></i>Software and Database
 
 
-**[NanoNm](https://github.com/kaifuchenlab/NanoNm) (Science Advances, 2022):**
+**[NanoNm](https://github.com/kaifuchenlab/NanoNm) (Molecular Cell, 2024):**
 A machine learning model to detect the RNA modification 2'-O-methylation (Nm) in Nanopore direct RNA sequencing data.
 
 **[MCCP](http://cbp-kfc.org/mccp) [(BioRxiv, 2022)](https://www.biorxiv.org/content/10.1101/2022.05.30.494067v1):**

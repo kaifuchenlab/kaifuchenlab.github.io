@@ -111,5 +111,5 @@ From the University of Science and Technology of China. Moved to MIT for a facul
 
 **Zimo Zhu Wu**, Summer 2023, from University of Washington
 
-**Zetian Zheng**, Summer 2024, from City University of Hong Kong
+**Zetian Zheng**, 03/2024-09/2024, from City University of Hong Kong
 

@@ -2,7 +2,7 @@
 name: Jiayi Chen, B.S.
 image: images/JiayiChen.jpg
 description: Master Student
-role: undergra
+role: undergrad
 ---
 09/2024 ~ Present 
 

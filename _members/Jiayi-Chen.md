@@ -6,7 +6,6 @@ role: undergra
 ---
 09/2024 ~ Present 
 
-Dr. Li is a PhD in Cell Biology, Interdisciplinary Research Center on Biology and
-Chemistry, Chinese Academy of Sciences, China. He received his B.S. in Biology, Jinan University, China. De-An's research in the lab covers a range of topics including AI, deep learning, Nanopore sequencing, and Spatial single-cell transcriptomics with applications to understanding of cardiovascular development and diseases.
+Jiayi is a Master student in the BIG program of Harvard Medical School. She received her Bachelor of Science in Bioinformatics (Graduate with a First-Class Degree) from the Xi’an Jiaotong Liverpool University. Her research interest is in computational modeling of cell identity gene expression regulation with application to cardiovascular development and diseases.
 
 

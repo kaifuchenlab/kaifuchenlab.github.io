@@ -1,10 +1,11 @@
 ---
-name: Zetian Zheng, Ph.D.
-image: images/ZetianZheng.jpg
-description: PhD Student
-role: undergrad
+name: De-An Li, Ph.D.
+image: images/DeanLi.jpg
+description: Postdoc
+role: postdoc
 ---
-03/2024 ~ Present 
+09/2024 ~ Present 
 
-Dr. Zheng comes from City University of Hong Kong as a visiting PhD  student. His major interest is understanding tumor heterogeneity by employing computational biology methods on multi-omics data.
+Dr. Li is a PhD in Cell Biology, Interdisciplinary Research Center on Biology and
+Chemistry, Chinese Academy of Sciences, China. He received his B.S. in Biology, Jinan University, China. De-An's research in the lab covers a range of topics including AI, deep learning, Nanopore sequencing, and Spatial single-cell transcriptomics with applications to understanding of cardiovascular development and diseases.
 

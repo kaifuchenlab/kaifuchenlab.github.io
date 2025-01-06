@@ -7,6 +7,9 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
+**December, 2024:**
+Congratulations to Krishan for receiving an AHA postdoc fellowship.
+
 **April, 2024:**
 Welcome Zetian to the lab as a visiting PhD student.
 

@@ -19,8 +19,6 @@ title: Home
 %}
 
 
-
-
 {%
   include gallery.html
   image="images/lab2023.jpg"

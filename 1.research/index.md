@@ -29,7 +29,7 @@ nav:
 
 {%
   include figure.html
-  image="images/CIGnew.png"
+  image="images/CIGnewer.png"
   width="100%"
   height="100%"
 %}

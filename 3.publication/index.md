@@ -19,6 +19,8 @@ Research Square.
 
 ### Papers 
 
+91. Shilpa S Dhar, Calena Brown, Ali Rizvi, Lauren Reed, Sivareddy Kotla, Constantin Zod, Janak Abraham, Jun-Ichi Abe, Veena Rajaram, Kaifu Chen, MinGyu Lee. Heterozygous Heterozygous Kmt2d loss diminishes enhancers to render medulloblastoma cells vulnerable to combinatory inhibition of LSD1 and OXPHOS. Cell Reports. (04/04/2025).
+
 90. Yanqiang Li, Yang Yi, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.** 
 Molecular Cell. (06/20/2024)
 

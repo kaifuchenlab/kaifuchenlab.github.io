@@ -19,7 +19,7 @@ Research Square.
 
 ### Papers 
 
-92. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research (04/18/2025).
+92. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research (Accepted, 04/18/2025).
 
 91. Shilpa S Dhar, Calena Brown, Ali Rizvi, Lauren Reed, Sivareddy Kotla, Constantin Zod, Janak Abraham, Jun-Ichi Abe, Veena Rajaram, Kaifu Chen, MinGyu Lee. Heterozygous Heterozygous Kmt2d loss diminishes enhancers to render medulloblastoma cells vulnerable to combinatory inhibition of LSD1 and OXPHOS. Cell Reports. (04/04/2025).
 

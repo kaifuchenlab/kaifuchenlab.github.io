@@ -19,7 +19,9 @@ Research Square.
 
 ### Papers 
 
-92. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (Accepted, 04/18/2025).
+93. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (Accepted, 04/18/2025).
+
+92. Jordan Fox\*, Yang Yu\*, Yang Yu, Pilendra Thakre, Chloe Fox, Qian Li, Yunxia Wang, Adam Hughes, Xin Wang, Kaifu Chen^, Grzegorz Ira1^. **Deficits in mitochondrial dynamics and iron balance result in templated insertions**. Nucleic Acids Research. (Accepted, 04/22/2025).
 
 91. Shilpa S Dhar, Calena Brown, Ali Rizvi, Lauren Reed, Sivareddy Kotla, Constantin Zod, Janak Abraham, Jun-Ichi Abe, Veena Rajaram, Kaifu Chen, MinGyu Lee. Heterozygous Heterozygous Kmt2d loss diminishes enhancers to render medulloblastoma cells vulnerable to combinatory inhibition of LSD1 and OXPHOS. Cell Reports. (04/04/2025).
 

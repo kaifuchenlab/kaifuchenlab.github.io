@@ -287,7 +287,6 @@ Plant Systematics and Evolution. (2010)
 1. Chen K\*, Meng Q, Ma L, Liu Q, Tang P, Chiu C, Hu S, et al. **A novel DNA sequence periodicity decodes nucleosome positioning.** 
 Nucleic acids research. (2008)
 
-
 ### Abstracts 
 
 1.	Kaifu Chen, Wei Li. 

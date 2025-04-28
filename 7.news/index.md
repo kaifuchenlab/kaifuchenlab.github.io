@@ -7,6 +7,21 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
+**April, 2024:**
+Congratulations to Kulandai for his new manuscript accepted to Nucleic Acids Research.
+
+**April, 2024:**
+Congratulations to Yang for his new manuscript accepted to Nature Communications.
+
+**April, 2024:**
+Congratulations to Yang for receiving the NextGen Accelerator Grant Award from the Cell Discovery Network
+
+**April, 2024:**
+Congratulations to Rongbin for receiving the NextGen Accelerator Grant Award from the Cell Discovery Network.
+
+**March, 2024:**
+Congratulations to Yanqiang for receiving a National-level grant and also starting to build his independent lab as a professor.
+
 **December, 2024:**
 Congratulations to Krishan for receiving an AHA postdoc fellowship.
 

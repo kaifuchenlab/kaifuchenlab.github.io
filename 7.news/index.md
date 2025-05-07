@@ -8,10 +8,10 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 **April, 2025:**
-Congratulations to Yang for receiving the NextGen Accelerator Grant Award from the Cell Discovery Network
+Congratulations to Yang for receiving the NextGen Accelerator Award from the Cell Discovery Network
 
 **April, 2025:**
-Congratulations to Rongbin for receiving the NextGen Accelerator Grant Award from the Cell Discovery Network.
+Congratulations to Rongbin for receiving the NextGen Accelerator Award from the Cell Discovery Network.
 
 **April, 2025:**
 Congratulations to Kulandai for his new manuscript accepted to Nucleic Acids Research.

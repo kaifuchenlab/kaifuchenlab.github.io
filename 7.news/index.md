@@ -20,7 +20,7 @@ Congratulations to Kulandai for his new manuscript accepted to Nucleic Acids Res
 Congratulations to Yang for his new manuscript accepted to Nature Communications.
 
 **March, 2025:**
-Congratulations to Yanqiang for receiving a National-level grant and also starting to build his independent lab as a professor.
+Congratulations to Yanqiang for receiving a National-level grant and also starting to build his new lab as a professor.
 
 **December, 2024:**
 Congratulations to Krishan for receiving an AHA postdoc fellowship.

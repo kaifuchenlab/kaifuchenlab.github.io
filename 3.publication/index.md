@@ -19,6 +19,8 @@ Research Square.
 
 ### Papers 
 
+94. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (Accepted, 05/11/2025).
+
 93. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (Accepted, 04/18/2025).
 
 92. Jordan Fox\*, Yang Yu\*, Yang Yu, Pilendra Thakre, Chloe Fox, Qian Li, Yunxia Wang, Adam Hughes, Xin Wang, Kaifu Chen^, Grzegorz Ira1^. **Deficits in mitochondrial dynamics and iron balance result in templated insertions**. Nature Communications. (Accepted, 04/22/2025).

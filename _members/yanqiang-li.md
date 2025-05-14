@@ -1,8 +1,8 @@
 ---
 name: Yanqiang Li, PhD
 image: images/YLCL.jpeg
-description: Instructor_left
-role: instructor
+description: Alumni
+role: Alumni
 ---
 
 7/2018 ~ Present 

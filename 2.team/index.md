@@ -92,6 +92,10 @@ From the King Abdullah University of Science and Technology. Moved to Ohio State
 01/2020 ~ 12/2023
 From the University of Science and Technology of China. Moved to MIT for a faculty position.
 
+**Yanqiang Li, Ph.D.**
+07/2018 ~ 03/2025
+From the University of Biological Sciences, Chinese Academy of Sciences. Moved to XiAn Jiaotong University for a professor position to build his new lab.
+
 
 # <i class="fas fa-users"></i>Intern & Visitor Alumni
 

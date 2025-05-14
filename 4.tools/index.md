@@ -8,10 +8,10 @@ nav:
 # <i class="fas fa-tools"></i>Software and Database
 
 **[MCCP](http://rc-cbp.tch.harvard.edu/mccp/) [(BioRxiv, 2022)](https://www.biorxiv.org/content/10.1101/2022.05.30.494067v1):**
-A knowledgebase and web portal for accessing the landscape of metabolite-mediated cell-cell communications.
+A user-friendly web portal to explore the landscape of metabolite-mediated cell-cell communications.
 
 **[SCIG](https://github.com/kaifuchenlab/SCIG) (Nucleic Acids Research, 2025):**
-SCIG: A AI tool for Uncovering the Cell Identity Genes (CIGs) and their master transcription factors at single-cell levels, utilizing genetic sequence and RNA expression profiles.
+SCIG: A AI tool for Uncovering the Cell Identity Genes (CIGs) and their master regulatory genes using single cell transcriptome data.
 
 **[NanoNm](https://github.com/kaifuchenlab/NanoNm) (Molecular Cell, 2024):**
 A machine learning model to detect the RNA modification 2'-O-methylation (Nm) in Nanopore direct RNA sequencing data.

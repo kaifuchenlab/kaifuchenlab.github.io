@@ -1,7 +1,7 @@
 ---
 name: Yanqiang Li, PhD
 image: images/YLCL.jpeg
-description: Instructor
+description: Instructor_left
 role: instructor
 ---
 

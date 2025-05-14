@@ -19,7 +19,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: instructor"
+  filters="role: instructor_delete"
 %}
 {%
   include list.html

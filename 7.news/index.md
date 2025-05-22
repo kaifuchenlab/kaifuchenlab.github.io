@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 **May, 2025:**
-Congratulations to Yayun for receiving offers from the PhD program at UTHealth Houston.
+Congratulations to Yayun for joining the PhD program at UTHealth Houston.
 
 **April, 2025:**
 Congratulations to Yang for receiving the NextGen Accelerator Award from the Cell Discovery Network

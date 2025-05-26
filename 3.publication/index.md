@@ -25,6 +25,8 @@ Research Square.
 
 92. Jordan Fox\*, Yang Yu\*, Yang Yu, Pilendra Thakre, Chloe Fox, Qian Li, Yunxia Wang, Adam Hughes, Xin Wang, Kaifu Chen^, Grzegorz Ira1^. **Deficits in mitochondrial dynamics and iron balance result in templated insertions**. Nature Communications. (Accepted, 04/22/2025).
 
+94. Shuang Li, Alexander J. Lu, Eric S. Nagueh, Yanqiang Li, Michael Graber, Kaylee N. Carter, Elisa Morales, Crystina L. Kriss, Kaifu Chen, Junchen Liu, guangyu Wang, John P. Cooke, Li Lai. O-GlcNAcylation Promotes Angiogenic Transdifferentiation to Reverse Vascular Ischemia. Nature Cardiovascular Research. (Accepted 05/13/2025)
+
 91. Shilpa S Dhar, Calena Brown, Ali Rizvi, Lauren Reed, Sivareddy Kotla, Constantin Zod, Janak Abraham, Jun-Ichi Abe, Veena Rajaram, Kaifu Chen, MinGyu Lee. Heterozygous Heterozygous Kmt2d loss diminishes enhancers to render medulloblastoma cells vulnerable to combinatory inhibition of LSD1 and OXPHOS. Cell Reports. (04/04/2025).
 
 90. Yanqiang Li, Yang Yi, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.** 

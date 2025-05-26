@@ -19,13 +19,15 @@ Research Square.
 
 ### Papers 
 
-94. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (Accepted, 05/11/2025).
+96. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (Accepted, 05/11/2025).
 
-93. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (Accepted, 04/18/2025).
+95. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (Accepted, 04/18/2025).
 
-92. Jordan Fox\*, Yang Yu\*, Yang Yu, Pilendra Thakre, Chloe Fox, Qian Li, Yunxia Wang, Adam Hughes, Xin Wang, Kaifu Chen^, Grzegorz Ira1^. **Deficits in mitochondrial dynamics and iron balance result in templated insertions**. Nature Communications. (Accepted, 04/22/2025).
+94. Jordan Fox\*, Yang Yu\*, Yang Yu, Pilendra Thakre, Chloe Fox, Qian Li, Yunxia Wang, Adam Hughes, Xin Wang, Kaifu Chen^, Grzegorz Ira1^. **Deficits in mitochondrial dynamics and iron balance result in templated insertions**. Nature Communications. (Accepted, 04/22/2025).
 
-94. Shuang Li, Alexander J. Lu, Eric S. Nagueh, Yanqiang Li, Michael Graber, Kaylee N. Carter, Elisa Morales, Crystina L. Kriss, Kaifu Chen, Junchen Liu, guangyu Wang, John P. Cooke, Li Lai. O-GlcNAcylation Promotes Angiogenic Transdifferentiation to Reverse Vascular Ischemia. Nature Cardiovascular Research. (Accepted 05/13/2025)
+93. Liyan Gong, Yadong Zhang, Yonglin Zhu, Umji Lee, Allen Chilun Luo, Xiang Li, Xi Wang, Danyang Chen, William T. Pu, Ruei-Zeng Lin, Minglin Ma, Miao Cui, Kaifu Chen, Kai Wang, and Juan M. Melero-Martin. Rapid generation of functional vascular organoids via simultaneous transcription factor activation of endothelial and mural lineages. Cell Stem Cell. (Accepted 05/26/2025)
+
+92. Shuang Li, Alexander J. Lu, Eric S. Nagueh, Yanqiang Li, Michael Graber, Kaylee N. Carter, Elisa Morales, Crystina L. Kriss, Kaifu Chen, Junchen Liu, guangyu Wang, John P. Cooke, Li Lai. O-GlcNAcylation Promotes Angiogenic Transdifferentiation to Reverse Vascular Ischemia. Nature Cardiovascular Research. (Accepted 05/13/2025)
 
 91. Shilpa S Dhar, Calena Brown, Ali Rizvi, Lauren Reed, Sivareddy Kotla, Constantin Zod, Janak Abraham, Jun-Ichi Abe, Veena Rajaram, Kaifu Chen, MinGyu Lee. Heterozygous Heterozygous Kmt2d loss diminishes enhancers to render medulloblastoma cells vulnerable to combinatory inhibition of LSD1 and OXPHOS. Cell Reports. (04/04/2025).
 

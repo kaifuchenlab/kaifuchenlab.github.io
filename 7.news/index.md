@@ -31,6 +31,9 @@ Congratulations to Yanqiang for receiving a National-level grant and also starti
 **December, 2024:**
 Congratulations to Krishan for receiving an AHA postdoc fellowship.
 
+**November, 2024:**
+Congratulations to Krishan for receiving an AHA ATVB conference travel award and being invited to provide a talk. 
+
 **April, 2024:**
 Welcome Zetian to the lab as a visiting PhD student.
 

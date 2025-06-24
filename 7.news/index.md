@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 **June, 2025:**
-Congratulations to Rongbin for receiving the Poster Award and invited for oral presentation at the CADA conference.
+Congratulations to Rongbin for receiving the Poster Award as well as the Oral Presentation Award at the CADA conference.
 
 **May, 2025:**
 Congratulations to Yayun for joining the PhD program at UTHealth Houston.

@@ -7,6 +7,9 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
+**July, 2025:**
+Congratulations to Rongbin for receiving his K99 grant!!!
+
 **June, 2025:**
 Congratulations to Rongbin for receiving the Poster Award as well as the Oral Presentation Award at the CADA conference.
 

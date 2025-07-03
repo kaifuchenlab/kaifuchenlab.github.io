@@ -8,13 +8,13 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 **July, 2025:**
-Congratulations to Rongbin for receiving his K99 grant!!!
+Congratulations to Rongbin for receiving his K99 grant, a new milestone in the lab!!!
 
 **June, 2025:**
 Congratulations to Rongbin for receiving the Poster Award as well as the Oral Presentation Award at the CADA conference.
 
 **May, 2025:**
-Congratulations to Yayun for joining the PhD program at UTHealth Houston.
+Congratulations to Yayun for joining the PhD program at UTHealth Houston,thanks to Rongbin for the co-mentorship.
 
 **April, 2025:**
 Congratulations to Yang for receiving the NextGen Accelerator Award from the Cell Discovery Network

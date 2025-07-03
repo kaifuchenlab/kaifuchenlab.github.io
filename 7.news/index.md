@@ -14,7 +14,7 @@ Congratulations to Rongbin for receiving his K99 grant, a new milestone in the l
 Congratulations to Rongbin for receiving the Poster Award as well as the Oral Presentation Award at the CADA conference.
 
 **May, 2025:**
-Congratulations to Yayun for joining the PhD program at UTHealth Houston,thanks to Rongbin for the co-mentoring Yayun.
+Congratulations to Yayun for joining the PhD program at UTHealth Houston,thanks to Rongbin for co-mentoring Yayun.
 
 **April, 2025:**
 Congratulations to Yang for receiving the NextGen Accelerator Award from the Cell Discovery Network

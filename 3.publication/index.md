@@ -16,16 +16,15 @@ Research Square.
 
 ### Papers 
 
-97. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (Accepted, 05/11/2025).
+98. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (Accepted, 05/11/2025).
 
-96. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (Accepted, 04/18/2025).
+97. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (Accepted, 04/18/2025).
 
-95. Yanqiang Li, Jiayi Chen, Yunxia Wang, Jiahan Li, Yang Yi, Lili Zhang, Qi Cao, Kaifu Chen. **Protocol for mapping 2’-O-Methylation using nanopore direct RNA-seq data with NanoNm**. STAR Protocols. (Accepted in principle, 06/28/2025).
+96. Yanqiang Li, Jiayi Chen, Yunxia Wang, Jiahan Li, Yang Yi, Lili Zhang, Qi Cao, Kaifu Chen. **Protocol for mapping 2’-O-Methylation using nanopore direct RNA-seq data with NanoNm**. STAR Protocols. (Accepted in principle, 06/28/2025).
 
-94. Jordan Fox\*, Yang Yu\*, Yang Yu, Pilendra Thakre, Chloe Fox, Qian Li, Yunxia Wang, Adam Hughes, Xin Wang, Kaifu Chen^, Grzegorz Ira1^. **Deficits in mitochondrial dynamics and iron balance result in templated insertions**. Nature Communications. (Accepted, 04/22/2025).
+95. Jordan Fox\*, Yang Yu\*, Yang Yu, Pilendra Thakre, Chloe Fox, Qian Li, Yunxia Wang, Adam Hughes, Xin Wang, Kaifu Chen^, Grzegorz Ira1^. **Deficits in mitochondrial dynamics and iron balance result in templated insertions**. Nature Communications. (Accepted, 04/22/2025).
 
-
-Shilpa S. Dhar, Kyung Pil Ko, Jinho Jang, Calena Brown-Abel, Tao Lin, Sharad Awasthi, Kaifu Chen, Roy V. Sillitoe, Jae-Il Park, and Min Gyu Lee. KMT2D temporally activates neuronal transcriptional factor genes to mediate cerebellar granule cell differentiation. Science Advances. (Accepted, 7/23/2025)
+94. Shilpa S. Dhar, Kyung Pil Ko, Jinho Jang, Calena Brown-Abel, Tao Lin, Sharad Awasthi, Kaifu Chen, Roy V. Sillitoe, Jae-Il Park, and Min Gyu Lee. KMT2D temporally activates neuronal transcriptional factor genes to mediate cerebellar granule cell differentiation. Science Advances. (Accepted, 7/23/2025)
 
 93. Liyan Gong, Yadong Zhang, Yonglin Zhu, Umji Lee, Allen Chilun Luo, Xiang Li, Xi Wang, Danyang Chen, William T. Pu, Ruei-Zeng Lin, Minglin Ma, Miao Cui, Kaifu Chen, Kai Wang, and Juan M. Melero-Martin. Rapid generation of functional vascular organoids via simultaneous transcription factor activation of endothelial and mural lineages. Cell Stem Cell. (Accepted 05/26/2025)
 

@@ -1,9 +1,9 @@
 ---
-name: Jiayi Chen, B.S.
-image: images/JiayiChen.jpg
+name: Xu Yan, B.S.
+image: images/XuYan.jpg
 description: Master Student
 role: undergrad
 ---
-09/2024 ~ Present 
+09/2025 ~ Present 
 
-Jiayi is a Master student in the BIG program of Harvard Medical School. She received her Bachelor of Science in Bioinformatics (Graduate with a First-Class Degree) from the Xi’an Jiaotong Liverpool University. Her research interest is in computational modeling of cell identity gene expression regulation with application to cardiovascular development and diseases.
+Xu is a Master student in the Computational Biology and Quantitative Genetics program of Harvard School of Public Health. He received his Bachelor of Science in Chemistry (Graduate with #1 grade score in the class) from the University of Nottingham.

@@ -1,9 +1,9 @@
 ---
-name: Yadong Zhang, Ph.D.
+name: Ziyang Liu, Ph.D.
 image: images/photo.jpg
 description: Postdoc
 role: postdoc
 ---
-08/2023 ~ Present 
+09/2025 ~ Present 
 
-Yadong's major research interest is in spatial single-cell modeling of cellular identity regulation.
+Ziyang's major research interest is in AI and deep learning algorithms. Before joining the lab, he received B.S. and Ph.D. degrees from the Tianjin University and Tinghua University, respectively.

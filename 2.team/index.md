@@ -96,6 +96,9 @@ From the University of Science and Technology of China. Moved to MIT for a facul
 07/2018 ~ 03/2025
 From the University of Biological Sciences, Chinese Academy of Sciences. Moved to XiAn Jiaotong University for a professor position to build his new lab.
 
+**Yadong Zhang, Ph.D.**
+08/2023 ~ 07/2025
+From Beijing Institute of Genomics, Chinese Academy of Sciences.
 
 # <i class="fas fa-users"></i>Intern & Visitor Alumni
 

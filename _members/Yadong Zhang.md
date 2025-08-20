@@ -1,6 +1,6 @@
 ---
 name: Ziyang Liu, Ph.D.
-image: images/photo.jpg
+image: images/ZiyangLiu.jpg
 description: Postdoc
 role: postdoc
 ---

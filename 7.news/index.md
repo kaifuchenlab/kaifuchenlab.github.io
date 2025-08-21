@@ -7,6 +7,12 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
+**August, 2025:**
+Congratulations to Yunxia for receiving the Oxford Nanopore Technologies Bursary.
+
+**August, 2025:**
+Congratulations to Gaopeng, Rongbin, and Jie for their new manuscript accepted by Nucleic Acids Research.
+
 **July, 2025:**
 Congratulations to Rongbin for receiving his K99 grant, a new milestone in the lab!!!
 

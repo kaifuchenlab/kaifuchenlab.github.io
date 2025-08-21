@@ -24,7 +24,7 @@ Research Square.
 
 96. Jordan Fox\*, Yang Yu\*, Yang Yu, Pilendra Thakre, Chloe Fox, Qian Li, Yunxia Wang, Adam Hughes, Xin Wang, Kaifu Chen^, Grzegorz Ira1^. **Deficits in mitochondrial dynamics and iron balance result in templated insertions**. Nature Communications. (Accepted, 04/22/2025).
 
-95. Gaopeng Xian\*, Rongbin Zheng\*, Jie Lv\*, Sen Zhu, Min Chen, Xinlei Gao, Shenli Yuan, Zhen Bouman Chen,  Keith Youker, John P. Cooke, Kaifu Chen^, Lili Zhang^. **Transcription Factor 4 Maintains Endothelial Cell Identity by Inhibiting Endothelial to Mesenchymal Transition**. Nucleic Acids Research. Nucleic Acids Research. (Accepted, 08/21/2025).
+95. Gaopeng Xian\*, Rongbin Zheng\*, Jie Lv\*, Sen Zhu, Min Chen, Xinlei Gao, Shenli Yuan, Zhen Bouman Chen,  Keith Youker, John P. Cooke, Kaifu Chen^, Lili Zhang^. **Transcription Factor 4 Maintains Endothelial Cell Identity by Inhibiting Endothelial to Mesenchymal Transition**. Nucleic Acids Research. (Accepted in principle, 08/21/2025).
 
 94. Shilpa S. Dhar, Kyung Pil Ko, Jinho Jang, Calena Brown-Abel, Tao Lin, Sharad Awasthi, Kaifu Chen, Roy V. Sillitoe, Jae-Il Park, and Min Gyu Lee. KMT2D temporally activates neuronal transcriptional factor genes to mediate cerebellar granule cell differentiation. Science Advances. (Accepted, 7/23/2025)
 

@@ -11,6 +11,9 @@ nav:
 Congratulations to Yunxia for receiving the Oxford Nanopore Technologies Bursary.
 
 **August, 2025:**
+Congratulations to Kaifu for receiving the Eminent Scholar Award of the International Association for Intelligent Biology and Medicine (IAIBM).
+
+**August, 2025:**
 Congratulations to Gaopeng, Rongbin, and Jie for their new manuscript accepted by Nucleic Acids Research.
 
 **July, 2025:**

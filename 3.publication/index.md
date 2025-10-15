@@ -149,7 +149,7 @@ The Journal of clinical investigation. (2020)
 
 50. Qiaqia Li\*, Kilia Y. Liu\*, Qipeng Liu\*, Guangyu Wang\*, Weihua Jiang, Dongyu Zhao,Qingshu Meng, Yang Yi, Yongyong Yang, Rui Wang, Sen Zhu, Chao Li, Lin Yan, Lili Zhang, Jung-Sun Kim, Xiongbing Zu, Anthony Kozielski, Wei Qian, Jenny Chang, Akash Patnaik, Kaifu Chen^ and Qi Cao. 
 Antihistamine Drug Ebastine inhibits cancer growth by targeting Polycomb Group Protein EZH2. 
-Molecular Cancer Therapeutics. 
+Molecular Cancer Therapeutics. (2020)
 
 49. Qilin Gu, Xiaojie Yang, Jie Lv, Jiaxiong Zhang, Bo Xia, Jun-dae Kim, Ruoyu Wang, Feng Xiong, Shu Meng, Thomas P. Clements, Bhavna Tandon, Daniel S. Wagner, Miguel F. Diaz, Pamela L. Wenzel, Yury I. Miller, David Traver, John P. Cooke, Wenbo Li, Leonard I. Zon, Kaifu Chen^, Yongping Bai^, Longhou Fang^. **AIBP-mediated Cholesterol Efflux Instructs Hematopoietic Stem and Progenitor Cell Fate.** 
 Science. (2019)

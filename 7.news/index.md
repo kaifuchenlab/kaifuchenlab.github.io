@@ -11,7 +11,7 @@ nav:
 Congratulations to Yang for receiving the AHA postdoctoral fellowship.
 
 **November, 2025:**
-Congratulations to Krishan for receiving all three Wellness Challenge Prizes at the AHA Scientific Session conference 2025..
+Congratulations to Krishan for receiving the Wellness Challenge Prize at the AHA Scientific Session conference 2025..
 
 **August, 2025:**
 Congratulations to Yunxia for receiving the Oxford Nanopore Technologies Bursary.

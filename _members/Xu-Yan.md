@@ -1,6 +1,6 @@
 ---
-name: Xu Yan, B.S.
-image: images/XuYan.jpg
+name: TBN, B.S.
+image: images/TBN.jpg
 description: Master Student
 role: undergrad
 ---

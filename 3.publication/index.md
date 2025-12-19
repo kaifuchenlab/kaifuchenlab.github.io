@@ -16,6 +16,9 @@ Research Square.
 
 ### Papers 
 
+102. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, proteomics & bioinformatics. (Accepted in principle, 12/18/2025).
+
+
 101. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (Accepted, 05/11/2025).
 
 100. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (Accepted, 04/18/2025).

@@ -16,19 +16,21 @@ Research Square.
 
 ### Papers 
 
-102. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (Accepted in principle, 12/18/2025).
+103. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (Accepted in principle, 12/18/2025).
 
-101. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (Accepted, 05/11/2025).
+102. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (Accepted, 05/11/2025).
 
-100. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (Accepted, 04/18/2025).
+101. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (Accepted, 04/18/2025).
 
-99. Yanqiang Li, Jiayi Chen, Yunxia Wang, Jiahan Li, Yang Yi, Lili Zhang, Qi Cao, Kaifu Chen. **Protocol for mapping 2’-O-Methylation using nanopore direct RNA-seq data with NanoNm**. STAR Protocols. (Accepted in principle, 06/28/2025).
+100. Yanqiang Li, Jiayi Chen, Yunxia Wang, Jiahan Li, Yang Yi, Lili Zhang, Qi Cao, Kaifu Chen. **Protocol for mapping 2’-O-Methylation using nanopore direct RNA-seq data with NanoNm**. STAR Protocols. (Accepted in principle, 06/28/2025).
 
-98. Jordan Fox\*, Yang Yu\*, Yang Yu, Pilendra Thakre, Chloe Fox, Qian Li, Yunxia Wang, Adam Hughes, Xin Wang, Kaifu Chen^, Grzegorz Ira1^. **Deficits in mitochondrial dynamics and iron balance result in templated insertions**. Nature Communications. (Accepted, 04/22/2025).
+99. Jordan Fox\*, Yang Yu\*, Yang Yu, Pilendra Thakre, Chloe Fox, Qian Li, Yunxia Wang, Adam Hughes, Xin Wang, Kaifu Chen^, Grzegorz Ira1^. **Deficits in mitochondrial dynamics and iron balance result in templated insertions**. Nature Communications. (Accepted, 04/22/2025).
 
-97. Hakan Coskun\*, Yunxia Wang\*, Xinlei Gao, Kaifu Chen^, C. Geoffrey Burns^, Caroline E. Burns^. **3D spatial organization of heterogeneous nkx2.5+ progenitors in the zebrafish heart field pre-patterns cardiovascular development**. Nature Communications. (Accepted in principle, 10/15/2025).
+98. Hakan Coskun\*, Yunxia Wang\*, Xinlei Gao, Kaifu Chen^, C. Geoffrey Burns^, Caroline E. Burns^. **3D spatial organization of heterogeneous nkx2.5+ progenitors in the zebrafish heart field pre-patterns cardiovascular development**. Nature Communications. (Accepted in principle, 10/15/2025).
 
-96. Gaopeng Xian\*, Rongbin Zheng\*, Jie Lv\*, Sen Zhu, Min Chen, Xinlei Gao, Shenli Yuan, Zhen Bouman Chen,  Keith Youker, John P. Cooke, Kaifu Chen^, Lili Zhang^. **Transcription Factor 4 Maintains Endothelial Cell Identity by Inhibiting Endothelial to Mesenchymal Transition**. Nucleic Acids Research. (Accepted in principle, 08/21/2025).
+97. Gaopeng Xian\*, Rongbin Zheng\*, Jie Lv\*, Sen Zhu, Min Chen, Xinlei Gao, Shenli Yuan, Zhen Bouman Chen,  Keith Youker, John P. Cooke, Kaifu Chen^, Lili Zhang^. **Transcription Factor 4 Maintains Endothelial Cell Identity by Inhibiting Endothelial to Mesenchymal Transition**. Nucleic Acids Research. (Accepted in principle, 08/21/2025).
+
+96. Kulandaisamy Arulsamy\*, Kui Cui\*, Bo Zhu, Beibei Wang, Shahram Eisa-Beygi, Anna Voronova, Xinlei Gao, Krishan Gupta, Lili Zhang, Kaifu Chen^, Hong Chen^. Single-Cell Analysis Reveals a Critical Role for Macrophage Epsins in Regulating the Origin of Foam Cells in Atherosclerosis. Arteriosclerosis, Thrombosis, and Vascular Biology. (Accepted 09/01/2025)
 
 95. Yang Yi, Joshua Fry, Chaehyun Yum, Rui Wang, Siqi Wu, Sharath Narayan, Qi Liu, Xingxing Zhang, Htoo Zarni Oo, Ning Xie, Yanqiang Li, Xinlei Gao, Xufen Yu, Xiaoping Hu, Qiaqia Li, Kemal Keseroglu, Ertuğrul M. Özbudak, Sarki A. Abdulkadir, Kaifu Chen, Jian Jin, Jonathan C. Zhao, Xuesen Dong, Daniel Arango, Rendong Yang, Qi Cao. Crosstalk between EZH2 and m6A promotes prostate cancer progression through modulating an m6A autoregulation pathway. The Journal of Clinical Investigation. (Accepted in principle, 11/12/2025)
 

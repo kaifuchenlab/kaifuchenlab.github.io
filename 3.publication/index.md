@@ -11,7 +11,10 @@ nav:
 
 ### Papers 
 
-103. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (Accepted in principle, 12/18/2025).
+104. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (Accepted in principle, 12/18/2025).
+
+103. Shahram Eisa-Beygi, Kulandaisamy Arulsamy, Kui Cui, Hao Wu, Beibei Wang, Kaifu Chen, Hong Chen. The chemokine receptor CXCR4 and its ligand CXCL12 (SDF-1) localize to ependymal cilia in brain ventricles. Vascular Pharmacology (Accepted 09/08/2025).
+
 
 102. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (Accepted, 05/11/2025).
 

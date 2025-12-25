@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 **December, 2025:**
-Cheers for Zimo and Rongbin's new manuscript accepted to GPB, a milestone for our internship students (Zimo as an undergraduate student) and senior postdoc (Rongbin as Zimo's supervisor and corresponding author). 
+Cheers for Zimo and Rongbin's new manuscript accepted to GPB, a milestone for our internship students (Zimo as an undergraduate student and the first author) and senior postdoc (Rongbin as Zimo's supervisor and corresponding author). 
 
 **December, 2025:**
 Congratulations to Yang for receiving the AHA postdoctoral fellowship.

@@ -7,6 +7,9 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
+**February, 2026:**
+Congratulations to De-An for receiving the Oxford Nanopore Technologies Bursary.
+
 **December, 2025:**
 Cheers for Zimo and Rongbin's new manuscript accepted to GPB, a milestone for our internship students (Zimo as an undergraduate student and the first author) and senior postdoc (Rongbin as Zimo's supervisor and corresponding author). 
 

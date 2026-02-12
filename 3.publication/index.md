@@ -12,7 +12,7 @@ nav:
 
 ### Papers 
 
-106. Yang Yi, Yanqiang Li, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen, Qi Cao. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR**, Nature Communications. (Accepted in principle, 02/12/2026)
+106. Yang Yi\*, Yanqiang Li\*, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR**, Nature Communications. (Accepted in principle, 02/12/2026)
 105. Yang Zhang\*, Rongbin Zheng\*, Tadataka Tsuji, Chih-Hao Wang, Xiangyu Liu, Yu-Hang Xing, Justin Darcy, Matthew D. Lynes, Morten Lundh, Rini Arianti, Ferenc Győry, Rui Dong, Brice Emanuelli, Sarah E Johnstone, Miguel N. Rivera, Endre Kristóf, C Ronald Kahn, Kaifu Chen^, Yu-Hua Tseng^. **A conserved hormonal signaling-H2A.Z axis rapidly reorganizes 3D chromatin interactions in adipocyte thermogenesis**. Nature Metabolism. (Accepted in principle, 01/01/2026).
 
 104. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (Accepted in principle, 12/18/2025).

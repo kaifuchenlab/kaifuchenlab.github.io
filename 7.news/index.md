@@ -10,6 +10,9 @@ nav:
 **February, 2026:**
 Congratulations to De-An for receiving the Oxford Nanopore Technologies Bursary.
 
+**January, 2026:**
+Rongbin's new manuscript, in collaboration with Yang in Dr. Tseng's group, is accepted by Nature Metabolism. Cheers!
+
 **December, 2025:**
 Cheers for Zimo and Rongbin's new manuscript accepted to GPB, a milestone for our internship students (Zimo as an undergraduate student and the first author) and senior postdoc (Rongbin as Zimo's supervisor and corresponding author). 
 

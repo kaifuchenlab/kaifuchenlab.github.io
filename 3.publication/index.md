@@ -12,7 +12,7 @@ nav:
 
 ### Papers 
 
-107. Shuang Li\*, Krishan Gupta\*, Rajul Ranka\*, Alexander Lu, Felix Naegele, Michael Graber, Kaylee Carter, Lili Zhang, Arvind Bhimaraj, Li Lai, Anahita Mojiri, Keith A Youker, Kaifu Chen^, and John Cooke^. **Recovery from Heart Failure: Microvascular Mechanisms**. Circulation. (Accepted in principle, 02/26/2026)
+107. Shuang Li\*, Krishan Gupta\*, Rajul Ranka\*, Alexander Lu, Felix Naegele, Michael Graber, Kaylee Carter, Lili Zhang, Arvind Bhimaraj, Li Lai, Anahita Mojiri, Keith A Youker, Kaifu Chen^, and John Cooke^. **Recovery from Heart Failure: Microvascular Mechanisms**. Circulation. (Accepted, 02/26/2026)
 
 106. Yang Yi\*, Yanqiang Li\*, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR**. Nature Communications. (Accepted in principle, 02/12/2026)
 105. Yang Zhang\*, Rongbin Zheng\*, Tadataka Tsuji, Chih-Hao Wang, Xiangyu Liu, Yu-Hang Xing, Justin Darcy, Matthew D. Lynes, Morten Lundh, Rini Arianti, Ferenc Győry, Rui Dong, Brice Emanuelli, Sarah E Johnstone, Miguel N. Rivera, Endre Kristóf, C Ronald Kahn, Kaifu Chen^, Yu-Hua Tseng^. **A conserved hormonal signaling-H2A.Z axis rapidly reorganizes 3D chromatin interactions in adipocyte thermogenesis**. Nature Metabolism. (Accepted in principle, 01/01/2026).

@@ -7,6 +7,9 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
+**March, 2026:**
+Krishan's new manuscript, in collaboration with Shuang in Dr. Cooke's group, is accepted by Circulation. Cheers!
+
 **February, 2026:**
 Congratulations to De-An for receiving the Oxford Nanopore Technologies Bursary.
 

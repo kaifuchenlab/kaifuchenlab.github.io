@@ -54,12 +54,12 @@ The Innovation Life. (02/24/2025)
 90. Yanqiang Li, Yang Yi, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.**  Molecular Cell. (06/20/2024)
 
 88. Umji Lee\*, Yadong Zhang\*, Yonglin Zhu, Allen Chilun Luo, Liyan Gong, Daniel M. Tremmel, Yunhye Kim, Victoria Sofia Villarreal, Xi Wang, Ruei-Zeng Lin, Miao Cui, Minglin Ma, Ke Yuan, Kai Wang^, Kaifu Chen^, and Juan M. Melero-Martin^. **Robust differentiation of human pluripotent stem cells into mural progenitor cells via transient activation of NKX3.1.**
-Nature Communications. (09/302024)
+Nature Communications. (09/30/2024)
 
 87. Yang Yu\*, Xin Wang\*, Jordan Fox\*, Ruofan Yu, Pilendra Thakre, Brenna McCauley, Nicolas Nikoloutsos, Yang Yu, Qian Li, P J Hastings, Weiwei Dang, Kaifu Chen^, Grzegorz Ira^. **Yeast EndoG prevents genome instability by degrading extranuclear DNA species.**
-Nature Communications. (09/032024)
+Nature Communications. (09/03/2024)
 
-85. Qingshu Meng, Jiangchuan Shen, Yanan Ren, Qi Liu, Rui Wang, Qiaqia Li, Weihua Jiang, Quan Wang, Yixiang Zhang, Jonathan C Trinidad, Xiaotong Lu, Tingyou Wang, Yanqiang Li, Chaehyun Yum, Yang Yi, Yongyong Yang, Dongyu Zhao, Clair Harris, Sundeep Kalantry, Kaifu Chen, Rendong Yang, Hengyao Niu, Qi Cao. EZH2 directly methylates PARP1 and regulates its activity in cancer. Science Advances (11/292024) 
+85. Qingshu Meng, Jiangchuan Shen, Yanan Ren, Qi Liu, Rui Wang, Qiaqia Li, Weihua Jiang, Quan Wang, Yixiang Zhang, Jonathan C Trinidad, Xiaotong Lu, Tingyou Wang, Yanqiang Li, Chaehyun Yum, Yang Yi, Yongyong Yang, Dongyu Zhao, Clair Harris, Sundeep Kalantry, Kaifu Chen, Rendong Yang, Hengyao Niu, Qi Cao. EZH2 directly methylates PARP1 and regulates its activity in cancer. Science Advances (11/29/2024) 
 
 84. Olivia Weeks, Xinlei Gao, Sandeep Basu, Jennifer Galdieri1, Kaifu Chen,Geoffrey Burns, Caroline E. Burns. Embryonic Alcohol Exposure in Zebrafish Predisposes Adults to Cardiomyopathy and Diastolic Dysfunction. 
 Cardiovascular Research. (05/23/2024)

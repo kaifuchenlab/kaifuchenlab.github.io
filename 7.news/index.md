@@ -8,6 +8,9 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 **March, 2026:**
+Congratulations to Anirudh, our remote high school internship student, for winning multiple awards at the Chester County Science Research Competition for his MECOM analysis, including 1st place in the Medicine & Health category and the 2nd Division Prize overall, out of 280 competitors.
+
+**March, 2026:**
 Krishan's new manuscript, in collaboration with Shuang in Dr. Cooke's group, is accepted by Circulation. Cheers!
 
 **February, 2026:**

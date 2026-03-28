@@ -10,9 +10,13 @@ nav:
  \*co-First authorship; ^co-corresponding authorship; **Bold title** indicates alignment with our core research interest.
  
 ### Papers that best represent the PI's personal interest
+
+104. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (In Press, 03/20/2026).
+
 94. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (6/20/2025).
 
-92. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (06/10/2025).
+49. Qilin Gu, Xiaojie Yang, Jie Lv, Jiaxiong Zhang, Bo Xia, Jun-dae Kim, Ruoyu Wang, Feng Xiong, Shu Meng, Thomas P. Clements, Bhavna Tandon, Daniel S. Wagner, Miguel F. Diaz, Pamela L. Wenzel, Yury I. Miller, David Traver, John P. Cooke, Wenbo Li, Leonard I. Zon, Kaifu Chen^, Yongping Bai^, Longhou Fang^. **AIBP-mediated Cholesterol Efflux Instructs Hematopoietic Stem and Progenitor Cell Fate.** 
+Science. (2019)
 
 90. Yanqiang Li, Yang Yi, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.**  Molecular Cell. (06/20/2024)
 
@@ -22,14 +26,13 @@ Nucleic Acids Research. (10/13/2023).
 79. Yanqiang Li\*, Yang Yi\*,  Jie Lv, Xinlei Gao, Yang Yu,  Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Weiqun Peng, Jun Zhu, Hong Chen, Lili Zhang^, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene.** 
 Nucleic Acids Research. (07/07/2023).
 
-56. Dongyu Zhao\*, Lili Zhang\*, Min Zhang, Bo Xia, Jie Lv, Guangyu Wang, Qingshu Meng, Yang Yi, Sen Zhu, Alin S. Tomoiaga, Min Gyu Lee, John P. Cooke, Qi Cao^, Kaifu Chen^. **Broad Genic Repression Domains Signify Enhanced Silencing of Oncogenes.** 
-Nature Communications. (2020b) 
+92. Kulandaisamy Arulsamy, Bo Xia, Yang Yu, Hong Chen, William T. Pu, Lili Zhang, Kaifu Chen. **Machine Learning Uncovers Cell Identity Genes in Single Cells by Genetic Sequence Codes**. Nucleic Acids Research. (06/10/2025).
 
 55. Bo Xia\*, Dongyu Zhao\*, Guangyu Wang\*, Min Zhang, Jie Lv, Alin S. Tomoiaga, Yanqiang Li, Xin Wang, Shu Meng, John P. Cooke, Qi Cao^, Lili Zhang^, Kaifu Chen^. **Machine learning reveals cell identity regulator by histone codes.** 
 Nature Communications. (2020a) 
 
-49. Qilin Gu, Xiaojie Yang, Jie Lv, Jiaxiong Zhang, Bo Xia, Jun-dae Kim, Ruoyu Wang, Feng Xiong, Shu Meng, Thomas P. Clements, Bhavna Tandon, Daniel S. Wagner, Miguel F. Diaz, Pamela L. Wenzel, Yury I. Miller, David Traver, John P. Cooke, Wenbo Li, Leonard I. Zon, Kaifu Chen^, Yongping Bai^, Longhou Fang^. **AIBP-mediated Cholesterol Efflux Instructs Hematopoietic Stem and Progenitor Cell Fate.** 
-Science. (2019)
+56. Dongyu Zhao\*, Lili Zhang\*, Min Zhang, Bo Xia, Jie Lv, Guangyu Wang, Qingshu Meng, Yang Yi, Sen Zhu, Alin S. Tomoiaga, Min Gyu Lee, John P. Cooke, Qi Cao^, Kaifu Chen^. **Broad Genic Repression Domains Signify Enhanced Silencing of Oncogenes.** 
+Nature Communications. (2020b) 
 
 43. Shilpa S. Dhar\*, Dongyu Zhao\*, Tao Lin, Bingnan Gu, Khusboo Pal, Hunain Alam, Jie Lv, Vidya Gopalakrishnan, Wei Li, Ali Shilatifard, Roy V. Sillitoe, Kaifu Chen^, Min Gyu Lee^. **MLL4 is required to maintain broad H3K4me3 peaks and super-enhancers at tumor suppressor genes.** 
 Molecular Cell. (2018)

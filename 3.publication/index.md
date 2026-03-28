@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publication
 
- \*co-First authorship; ^co-corresponding authorship; **Bold title** indicates alignment with our core research interest.
+ \*co-First authorship; ^co-corresponding authorship; **Bold title** indicates alignment with the PI's core interest.
  
 ### Papers that best represent the PI's personal interest
 

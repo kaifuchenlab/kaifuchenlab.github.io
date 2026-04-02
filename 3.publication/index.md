@@ -48,6 +48,8 @@ Nucleic acids research. (2008)
 
 ### All Papers 
 
+108. Jiayi Chen\*, Anirudh Venkatesh\*, Kaifu Chen^, Lili Zhang^. **Genetic Variation at the MECOM Locus Shaping Human Disease Pathogenesis**. Pharmacology & Therapeutics. (Accepted, 04/02/2026)
+
 107. Shuang Li\*, Krishan Gupta\*, Rajul Ranka\*, Alexander Lu, Felix Naegele, Michael Graber, Kaylee Carter, Lili Zhang, Arvind Bhimaraj, Li Lai, Anahita Mojiri, Keith A Youker, Kaifu Chen^, and John Cooke^. **Recovery from Heart Failure: Microvascular Mechanisms**. Circulation. (Accepted, 02/26/2026)
 
 106. Yang Yi\*, Yanqiang Li\*, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR**. Nature Communications. (Accepted in principle, 02/12/2026)

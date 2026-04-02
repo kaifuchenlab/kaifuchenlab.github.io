@@ -7,6 +7,9 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
+**April, 2026:**
+A manuscript of Jiayi and Anirudh, derived from their systematic survey of genetic variation at the MECOM Locus, is accepted by Pharmacology & Therapeuticsour Cheers.
+
 **March, 2026:**
 Congratulations to Anirudh, our remote high school internship student, for winning multiple awards at the Chester County Science Research Competition for his MECOM GWAS and eQTL analysi, including 1st place in the Medicine & Health category and the 2nd Division Prize overall, out of 280 competitors.
 

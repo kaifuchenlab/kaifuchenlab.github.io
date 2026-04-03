@@ -11,7 +11,7 @@ nav:
  
 ### Papers that best represent the PI's personal interest
 
-104. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (In Press, 03/20/2026).
+104. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (03/20/2026).
 
 94. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (6/20/2025).
 
@@ -56,7 +56,7 @@ Nucleic acids research. (2008)
 
 105. Yang Zhang\*, Rongbin Zheng\*, Tadataka Tsuji, Chih-Hao Wang, Xiangyu Liu, Yu-Hang Xing, Justin Darcy, Matthew D. Lynes, Morten Lundh, Rini Arianti, Ferenc Győry, Rui Dong, Brice Emanuelli, Sarah E Johnstone, Miguel N. Rivera, Endre Kristóf, C Ronald Kahn, Kaifu Chen^, Yu-Hua Tseng^. **A conserved hormonal signaling-H2A.Z axis rapidly reorganizes 3D chromatin interactions in adipocyte thermogenesis**. Nature Metabolism. (Accepted in principle, 01/01/2026).
 
-104. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (Accepted in principle, 12/18/2025).
+104. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (Accepted in principle, 03/20/2026).
 
 103. Yang Yi, Joshua Fry, Chaehyun Yum, Rui Wang, Siqi Wu, Sharath Narayan, Qi Liu, Xingxing Zhang, Htoo Zarni Oo, Ning Xie, Yanqiang Li, Xinlei Gao, Xufen Yu, Xiaoping Hu, Qiaqia Li, Kemal Keseroglu, Ertuğrul M. Özbudak, Sarki A. Abdulkadir, Kaifu Chen, Jian Jin, Jonathan C. Zhao, Xuesen Dong, Daniel Arango, Rendong Yang, Qi Cao. Crosstalk between EZH2 and m6A promotes prostate cancer progression through modulating an m6A autoregulation pathway. The Journal of Clinical Investigation. (01/16/2026)
 

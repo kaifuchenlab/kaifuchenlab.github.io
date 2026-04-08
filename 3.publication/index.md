@@ -11,8 +11,6 @@ nav:
  
 ### Papers that best represent the PI's personal interest
 
-104. Zimo Zhu\*, Rongbin Zheng\*^, Yang Yu, Lili Zhang, Kaifu Chen^. **Human single-cell atlas analysis reveals heterogeneous endothelial signaling**. Genomics, Proteomics & Bioinformatics. (03/20/2026).
-
 94. Rongbin Zheng, Yang Zhang, Tadataka Tsuji, Xinlei Gao, Farnaz Shamsi, Allon Wagner, Nir Yosef, Kui Cui, Hong Chen, Michael A. Kiebish, Juan J. Aristizabal-Henao, Niven R. Narain, Lili Zhang, Yu-Hua Tseng, Kaifu Chen. **Mapping metabolite-mediated intercellular communications using single-cell RNA-seq**. Nucleic Acids Research. (6/20/2025).
 
 49. Qilin Gu, Xiaojie Yang, Jie Lv, Jiaxiong Zhang, Bo Xia, Jun-dae Kim, Ruoyu Wang, Feng Xiong, Shu Meng, Thomas P. Clements, Bhavna Tandon, Daniel S. Wagner, Miguel F. Diaz, Pamela L. Wenzel, Yury I. Miller, David Traver, John P. Cooke, Wenbo Li, Leonard I. Zon, Kaifu Chen^, Yongping Bai^, Longhou Fang^. **AIBP-mediated Cholesterol Efflux Instructs Hematopoietic Stem and Progenitor Cell Fate.** 

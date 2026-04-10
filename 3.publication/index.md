@@ -46,6 +46,10 @@ Nucleic acids research. (2008)
 
 ### All Papers 
 
+110. Yang Yu, Gaopeng Xian, Shaila Saifee, Michael Trembley, Kulandaisamy Arulsamy, Yanqiang Li, Shenli Yuan, Min Chen, Yapeng Liu, Jiehui Chen, Yunxia Wang, Yi Wang, Rongbin Zheng, Xinlei Gao, Dean Li, Jiayi Chen, Ingeborg Friehs, Pedro del Nido, Stephen Sanders, Chrystalle Carreon, William Pu^, Kaifu Chen^, and Lili Zhang^. **Spatial and single-nucleus multi-omics profiling reveals heterogeneous endothelial cell overabundance in endocardial fibroelastosis**. Circulation. (Accepted, 04/10/2026)
+
+109. Xin Cheng, Yadong Zhang, Changli Qian, Erica Holdridge, Guruprasad Ananda, Tao Jiang, Jing Ni, Shaozhen Xie, Hao Gu, Renlei Ji, Elena Ivanova, Marisa R Nucci, Zhe Wang, Kaifu Chen, Bose Kochupurakkal, Gordon Freeman, Geoffrey Shapiro, Joyce Liu, Panagiotis Konstantinopoulos, Ursula Matulonis, Jean Zhao. Targeting FGFR signaling overcomes therapeutic resistance and immune evasion in oncogenic PIK3CA-driven serous-like endometrial cancer. Nature Communications. (Accepted, 04/10/2026)
+
 108. Jiayi Chen\*, Anirudh Venkatesh\*, Kaifu Chen^, Lili Zhang^. **Genetic Variation at the MECOM Locus Shaping Human Disease Pathogenesis**. Pharmacology & Therapeutics. (Accepted, 04/02/2026)
 
 107. Shuang Li\*, Krishan Gupta\*, Rajul Ranka\*, Alexander Lu, Felix Naegele, Michael Graber, Kaylee Carter, Lili Zhang, Arvind Bhimaraj, Li Lai, Anahita Mojiri, Keith A Youker, Kaifu Chen^, and John Cooke^. **Recovery from Heart Failure: Microvascular Mechanisms**. Circulation. (Accepted, 02/26/2026)

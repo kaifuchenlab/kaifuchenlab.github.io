@@ -9,7 +9,7 @@ nav:
 
  \*co-First authorship; ^co-corresponding authorship; **Bold title** indicates alignment with the PI's core interest.
 
-110. Yang Yu, Gaopeng Xian, Shaila Saifee, Michael Trembley, Kulandaisamy Arulsamy, Yanqiang Li, Shenli Yuan, Min Chen, Yapeng Liu, Jiehui Chen, Yunxia Wang, Yi Wang, Rongbin Zheng, Xinlei Gao, Dean Li, Jiayi Chen, Ingeborg Friehs, Pedro del Nido, Stephen Sanders, Chrystalle Carreon, William Pu^, Kaifu Chen^, and Lili Zhang^. **Spatial and single-nucleus multi-omics profiling reveals heterogeneous endothelial cell overabundance in endocardial fibroelastosis**. Circulation. (Accepted, 04/10/2026)
+110. Yang Yu\*, Gaopeng Xian\*, Shaila Saifee, Michael Trembley, Kulandaisamy Arulsamy, Yanqiang Li, Shenli Yuan, Min Chen, Yapeng Liu, Jiehui Chen, Yunxia Wang, Yi Wang, Rongbin Zheng, Xinlei Gao, Dean Li, Jiayi Chen, Ingeborg Friehs, Pedro del Nido, Stephen Sanders, Chrystalle Carreon, William Pu^, Kaifu Chen^, and Lili Zhang^. **Spatial and single-nucleus multi-omics profiling reveals heterogeneous endothelial cell overabundance in endocardial fibroelastosis**. Circulation. (Accepted, 04/10/2026)
 
 109. Xin Cheng, Yadong Zhang, Changli Qian, Erica Holdridge, Guruprasad Ananda, Tao Jiang, Jing Ni, Shaozhen Xie, Hao Gu, Renlei Ji, Elena Ivanova, Marisa R Nucci, Zhe Wang, Kaifu Chen, Bose Kochupurakkal, Gordon Freeman, Geoffrey Shapiro, Joyce Liu, Panagiotis Konstantinopoulos, Ursula Matulonis, Jean Zhao. Targeting FGFR signaling overcomes therapeutic resistance and immune evasion in oncogenic PIK3CA-driven serous-like endometrial cancer. Nature Communications. (Accepted, 04/10/2026)
 

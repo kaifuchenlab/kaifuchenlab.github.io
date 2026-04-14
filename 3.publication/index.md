@@ -9,7 +9,7 @@ nav:
 
  \*co-First authorship; ^co-corresponding authorship; **Bold title** indicates alignment with the lab's key interest.
 
-### 2026 
+**2026**
 110. Yang Yu\*, Gaopeng Xian\*, Shaila Saifee, Michael Trembley, Kulandaisamy Arulsamy, Yanqiang Li, Shenli Yuan, Min Chen, Yapeng Liu, Jiehui Chen, Yunxia Wang, Yi Wang, Rongbin Zheng, Xinlei Gao, Dean Li, Jiayi Chen, Ingeborg Friehs, Pedro del Nido, Stephen Sanders, Chrystalle Carreon, William Pu^, Kaifu Chen^, and Lili Zhang^. **Spatial and single-nucleus multi-omics profiling reveals heterogeneous endothelial cell overabundance in endocardial fibroelastosis**. Circulation. (Accepted, 04/10/2026)
 
 109. Xin Cheng, Yadong Zhang, Changli Qian, Erica Holdridge, Guruprasad Ananda, Tao Jiang, Jing Ni, Shaozhen Xie, Hao Gu, Renlei Ji, Elena Ivanova, Marisa R Nucci, Zhe Wang, Kaifu Chen, Bose Kochupurakkal, Gordon Freeman, Geoffrey Shapiro, Joyce Liu, Panagiotis Konstantinopoulos, Ursula Matulonis, Jean Zhao. Targeting FGFR signaling overcomes therapeutic resistance and immune evasion in oncogenic PIK3CA-driven serous-like endometrial cancer. Nature Communications. (Accepted, 04/10/2026)
@@ -26,7 +26,7 @@ nav:
 
 103. Yang Yi, Joshua Fry, Chaehyun Yum, Rui Wang, Siqi Wu, Sharath Narayan, Qi Liu, Xingxing Zhang, Htoo Zarni Oo, Ning Xie, Yanqiang Li, Xinlei Gao, Xufen Yu, Xiaoping Hu, Qiaqia Li, Kemal Keseroglu, Ertuğrul M. Özbudak, Sarki A. Abdulkadir, Kaifu Chen, Jian Jin, Jonathan C. Zhao, Xuesen Dong, Daniel Arango, Rendong Yang, Qi Cao. Crosstalk between EZH2 and m6A promotes prostate cancer progression through modulating an m6A autoregulation pathway. The Journal of Clinical Investigation. (01/16/2026)
 
-### 2025
+**2025**
 102. Hakan Coskun\*, Yunxia Wang\*, Xinlei Gao, Kaifu Chen^, C. Geoffrey Burns^, Caroline E. Burns^. **3D spatial organization of heterogeneous nkx2.5+ progenitors in the zebrafish heart field pre-patterns cardiovascular development**. Nature Communications. (11/25/2025).
 
 101. Shahram Eisa-Beygi, Kulandaisamy Arulsamy, Kui Cui, Hao Wu, Beibei Wang, Kaifu Chen, Hong Chen. The chemokine receptor CXCR4 and its ligand CXCL12 (SDF-1) localize to ependymal cilia in brain ventricles. Vascular Pharmacology (12/01/2025).
@@ -56,7 +56,7 @@ The Innovation Life. (02/24/2025)
 
 86. Yang Yu\*, Xin Wang\*, Jordan Fox, Qian Li, Yang Yu, P.J. Hastings, Kaifu Chen^ and Grzegorz Ira^. **RPA and Rad27 limit templated and inverted insertions at DNA breaks**. Nucleic Acids Research. (01/07/2025)
 
-### 2024
+**2024**
 90. Yanqiang Li, Yang Yi, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.**  Molecular Cell. (06/20/2024)
 
 88. Umji Lee\*, Yadong Zhang\*, Yonglin Zhu, Allen Chilun Luo, Liyan Gong, Daniel M. Tremmel, Yunhye Kim, Victoria Sofia Villarreal, Xi Wang, Ruei-Zeng Lin, Miao Cui, Minglin Ma, Ke Yuan, Kai Wang^, Kaifu Chen^, and Juan M. Melero-Martin^. **Robust differentiation of human pluripotent stem cells into mural progenitor cells via transient activation of NKX3.1.**
@@ -79,7 +79,7 @@ Pharmacology and Therapeutics. (02/15/2024).
 81. Khanh M. Chau, Abishai Dominic, Eleanor L. Davis, Arsany Fahim, Shengyu Li, Dongyu Zhao, Kaifu Chen, Alan R. Davis, Minh T. H. Nguyen, Yongxing Wang, Scott E Evans, Guangyu Wang, John Cooke, Jun-ichi Abe, David P. Huston and Nhat-Tu Le. TNIK regulation of Interferon signaling and endothelial cell response to virus infection.
 Frontiers in Cardiovascular Medicine. (01/09/2024).
 
-### 2023
+**2023**
 80. Xinlei Gao\*, Yang Yi\*, Jie Lv\*, Yanqiang Li, Kulandaisamy Arulsamy, Sahana Babu, Ivone Bruno, Lili Zhang, Qi Cao^, Kaifu Chen^. **Low RNA stability signifies strong expression regulatability of tumor suppressors**.
 Nucleic Acids Research. (10/13/2023).
 
@@ -114,7 +114,7 @@ ATVB. (01/01/2023).
 67. Yunzhou Dong, Beibei Wang, Mulong Du, Bo Zhu, Kui Cui, Douglas Cowan, Sudarshan Bhattacharjee, Scott Wong, Da-Zhi Wang, Kaifu Chen, Joyce Bischoff, MacRae Linton, and Hong Chen. Targeting Epsins to Inhibit FGF Signaling while Potentiating TGF-β Signaling Constrains Endothelial-to-Mesenchymal-Transition in Atherosclerosis. 
 Circulation. (01/02/2023)
 
-### 2022
+**2022**
 66. Dongyu Zhao\*, Min Zhang\*, Shaodong Liu, Qi Liu, Sen Zhu, Yanqiang Li, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang^, Kaifu Chen^. **CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells.** 
 Nucleic Acids Research. (11/28/2022). 
 
@@ -127,7 +127,7 @@ Front Cardiovasc Med. (9/30/2022).
 63. Yang Yi\*, Yanqiang Li\*, Chao Li\*, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Long Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. Methylation-dependent and -independent roles of EZH2 synergize in CDCA8 activation in prostate cancer. 
 Oncogene. (03/01/2022)
 
-### 2021
+**2021**
 62. Yang Yi\*, Yanqiang Li\*, Qingshu Meng\*, Qiaqia Li, Fuxi Li, Bing Lu, Jiangchuan Shen, Ladan Fazli, Dongyu Zhao, Chao Li, Weihua Jiang, Rui Wang, Qipeng Liu, Aileen Szczepanski, Qianru Li, Wei Qin, Adam B. Weiner, Tamara L. Lotan, Zhe Ji, Sundeep Kalantry, Lu Wang, Edward M. Schaeffer, Hengyao Niu, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^.
 **A PRC2-independent function for EZH2 in regulating rRNA 2′-O methylation and IRES-dependent translation.**
 Nature Cell Biology. (2021) 
@@ -144,7 +144,7 @@ PNAS. (2021)
 58. Guangyu Wang\*, Ana Sofia Cruz\*, Keith Youker, Hernan G. Marcos-Abdala, Rajarajan A. Thandavarayan, John P. Cooke, Guillermo Torre-Amione, Kaifu Chen^, Arvind Bhimaraj^. Role of Endothelial and Mesenchymal Cell Transitions in Heart Failure and Recovery Thereafter. 
 Frontiers in Genetics. (2021). 
 
-### 2020
+**2020**
 57. Shu Meng\*^, Jie Lv\*, Palas K. Chanda, Iris Owusu, Kaifu Chen^, John P. Cooke^. **Reservoir of Fibroblasts Promotes Recovery from Limb Ischemia.** 
 Circulation. (2020) 
 
@@ -170,7 +170,7 @@ The Journal of clinical investigation. (2020)
 Antihistamine Drug Ebastine inhibits cancer growth by targeting Polycomb Group Protein EZH2. 
 Molecular Cancer Therapeutics. (2020)
 
-### 2019
+**2019**
 49. Qilin Gu, Xiaojie Yang, Jie Lv, Jiaxiong Zhang, Bo Xia, Jun-dae Kim, Ruoyu Wang, Feng Xiong, Shu Meng, Thomas P. Clements, Bhavna Tandon, Daniel S. Wagner, Miguel F. Diaz, Pamela L. Wenzel, Yury I. Miller, David Traver, John P. Cooke, Wenbo Li, Leonard I. Zon, Kaifu Chen^, Yongping Bai^, Longhou Fang^. **AIBP-mediated Cholesterol Efflux Instructs Hematopoietic Stem and Progenitor Cell Fate.** 
 Science. (2019)
 
@@ -183,7 +183,7 @@ Circulation. (2019)
 46. Zhi Long, Yinan Li, Yu Gan, Dongyu Zhao, Guangyu Wang, Ning Xie, Jessica M Lovnicki, Ladan Fazli, Qi Cao, Kaifu Chen, Xuesen Dong. Roles of the HOXA10 Gene during Castrate Resistant Prostate Cancer Progression.
 Endocrine-Related Cancer (2019) 
 
-### 2018
+**2018**
 45. Yang Yu\*, Nhung Pham\*, Bo Xia\*, Alma Papusha, Guangyu Wang, Zhenxin Yan, Guang Peng, Kaifu Chen^, Grzegorz Ira1^. **Dna2 nuclease deficiency results in large and complex DNA insertions at chromosomal breaks.** 
 Nature. (2018) 
 
@@ -215,7 +215,7 @@ Cell Reports. (2018)
 36. Moon Jong Kim, Bo Xia, Han Na Suh, Sung Ho Lee, Sohee Jun, Esther M. Lien, Jie Zhang, Kaifu Chen, and Jae-Il Park. PAF-Myc-Controlled Cell Stemness Is Required for Intestinal Regeneration and Tumorigenesis. 
 Developmental Cell. (2018) 
 
-### 2017
+**2017**
 35. Shaofeng Liu\*, Zhiyun Xu\*, He Leng\*, Pu Zheng, Jiayi Yang, Kaifu Chen, Jianxun Feng, Qing Li. **RPA binds histone H3-H4 and functions in DNA replication–coupled nucleosome assembly.** 
 Science. (2017) 
 
@@ -234,7 +234,7 @@ Arteriosclerosis, Thrombosis, and Vascular Biology. (2017)
 30. Rebecca Jean Watters, Ryan Hartmaier, Hatice Ulku Osmanbeyoglu, Ryan Gillihan, James Rae, Lan Liao, Kaifu Chen, Wei Li, Xinghua Lu, steffi oesterreich. Steroid receptor coactivator-1 can regulate osteoblastogenesis independently of estrogen. 
 Molecular and Cellular Endocrinology. (2017) 
 
-### 2016
+**2016**
 29. Li N\*, Li Y\*, Lv J\*, Zheng X, Wen H, Shen H, Zhu G, Chen TY, Dhar SS, Kan PY, Wang Z, Shiekhattar R, Shi X, Lan F, Chen K, Li W, Li H, Lee MG. ZMYND8 reads the dual histone mark H3K4me1-H3K14ac to antagonize the expression of metastasis-linked genes. 
 Molecular Cell (2016)
 
@@ -247,7 +247,7 @@ Nucleic Acids Research. (2016)
 26. Meng S, Matrone G, Lv J, Chen K, Wong W, Cooke J. LMO2 Regulates Endothelial Proliferation, Angiogenesis and Tissue Regeneration. 
 Journal of the American Heart Association. (2016) 
 
-### 2015 and ealier
+**2015 and ealier**
 25. Chen K\*, Chen Z\*, Wu D, Zhang L, Lin X, Su J, Rodriguez B, Xi Y, Xia Z, Chen X, Shi X, Wang Q, Li W. **Broad H3K4me3 is associated with increased transcription elongation and enhancer activity at tumor-suppressor genes.** 
 Nature Genetics. (2015) highlighted by the Cancer Discovery journal
 

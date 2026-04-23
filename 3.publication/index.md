@@ -15,7 +15,7 @@ nav:
 
 105. Yang Zhang\*, Rongbin Zheng\*, Tadataka Tsuji, Chih-Hao Wang, Xiangyu Liu, Yu-Hang Xing, Justin Darcy, Matthew D. Lynes, Morten Lundh, Rini Arianti, Ferenc Győry, Rui Dong, Brice Emanuelli, Sarah E Johnstone, Miguel N. Rivera, Endre Kristóf, C Ronald Kahn, Kaifu Chen^, Yu-Hua Tseng^. **A conserved hormonal signaling-H2A.Z axis rapidly reorganizes 3D chromatin interactions in adipocyte thermogenesis**. Nature Metabolism. (Accepted, 01/01/2026).
 
-108. Jiayi Chen\*, Anirudh Venkatesh\*, Kaifu Chen^, Lili Zhang^. **Genetic Variation at the MECOM Locus Shaping Human Disease Pathogenesis**. Pharmacology & Therapeutics. (04/03/2026)
+108. Jiayi Chen\*, Anirudh Venkatesh\*, Kaifu Chen, Lili Zhang^. **Genetic Variation at the MECOM Locus Shaping Human Disease Pathogenesis**. Pharmacology & Therapeutics. (04/03/2026)
 
 106. Yang Yi\*, Yanqiang Li\*, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR**. Nature Communications. (03/26/2026)
 

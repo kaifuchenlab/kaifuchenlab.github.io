@@ -13,7 +13,7 @@ nav:
 
 109. Xin Cheng, Yadong Zhang, Changli Qian, Erica Holdridge, Guruprasad Ananda, Tao Jiang, Jing Ni, Shaozhen Xie, Hao Gu, Renlei Ji, Elena Ivanova, Marisa R Nucci, Zhe Wang, Kaifu Chen, Bose Kochupurakkal, Gordon Freeman, Geoffrey Shapiro, Joyce Liu, Panagiotis Konstantinopoulos, Ursula Matulonis, Jean Zhao. Targeting FGFR signaling overcomes therapeutic resistance and immune evasion in oncogenic PIK3CA-driven serous-like endometrial cancer. Nature Communications. (Accepted, 04/10/2026)
 
-105. Yang Zhang\*, Rongbin Zheng\*, Tadataka Tsuji, Chih-Hao Wang, Xiangyu Liu, Yu-Hang Xing, Justin Darcy, Matthew D. Lynes, Morten Lundh, Rini Arianti, Ferenc Győry, Rui Dong, Brice Emanuelli, Sarah E Johnstone, Miguel N. Rivera, Endre Kristóf, C Ronald Kahn, Kaifu Chen^, Yu-Hua Tseng^. **A conserved hormonal signaling-H2A.Z axis rapidly reorganizes 3D chromatin interactions in adipocyte thermogenesis**. Nature Metabolism. (Accepted, 01/01/2026).
+105. Yang Zhang\*, Rongbin Zheng\*, Tadataka Tsuji, Chih-Hao Wang, Xiangyu Liu, Yu-Hang Xing, Justin Darcy, Matthew D. Lynes, Morten Lundh, Rini Arianti, Ferenc Győry, Rui Dong, Brice Emanuelli, Sarah E Johnstone, Miguel N. Rivera, Endre Kristóf, C Ronald Kahn, Kaifu Chen^, Yu-Hua Tseng^. **A conserved hormonal signaling-H2A.Z axis rapidly reorganizes 3D chromatin interactions in adipocyte thermogenesis**. Nature Metabolism. (04/21/2026).
 
 108. Jiayi Chen\*, Anirudh Venkatesh\*, Kaifu Chen, Lili Zhang^. **Genetic Variation at the MECOM Locus Shaping Human Disease Pathogenesis**. Pharmacology & Therapeutics. (04/03/2026)
 
@@ -360,7 +360,6 @@ ATVB. 2023
 16.	Hakan Coskun,  Xinlei Gao,  Kaifu Chen,  C. Geoffrey Burns and Caroline Burns. 
 **Cellular Heterogeneity In The Nkx2.5+ Anterior Lateral Plate Mesoderm Underlies Lineage Diversity Of The Cardiovascular System.** 
 Circulation Research. 2024
-
 
 ### Preprint 
 

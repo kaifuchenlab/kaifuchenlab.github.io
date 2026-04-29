@@ -121,3 +121,9 @@ From Beijing Institute of Genomics, Chinese Academy of Sciences.
 **Zetian Zheng**, 03/2024-09/2024, from City University of Hong Kong
 
 **Yayun Xu**, Summer 2024, from UCLA
+
+**Toby Liu**, Summer 2024, from University of California, Santa Barbara
+
+**Joseph Pan**, Summer 2024, from Acton-Boxborough Regional High School
+
+

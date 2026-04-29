@@ -8,6 +8,9 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 **April, 2026:**
+Congratulations to Toby for being admitted to the Columbia University. Cheers!
+
+**April, 2026:**
 A manuscript of Jiayi and Anirudh, derived from their systematic survey of genetic variation at the MECOM Locus, is accepted by Pharmacology & Therapeutics. Cheers!
 
 **March, 2026:**

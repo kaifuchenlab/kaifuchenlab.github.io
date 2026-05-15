@@ -227,7 +227,7 @@ Molecular and Cellular Endocrinology. (2017)
 29. Na Li, Yuanyuan Li, Jie Lv, Xiangdong Zheng, Hong Wen, Hongjie Shen, Guangjing Zhu, Tsai-Yu Chen, Shilpa S. Dhar, Pu-Yeh Kan, Zhibin Wang, Ramin Shiekhattar, Xiaobing Shi, Fei Lan, Kaifu Chen, Wei Li, Haitao Li, and Min Gyu Lee. ZMYND8 reads the dual histone mark H3K4me1-H3K14ac to antagonize the expression of metastasis-linked genes. 
 Molecular Cell (2016)
 
-28. Jie Lv, Chen K. **Broad H3K4me3 as a Novel Epigenetic Signature for Normal Development and Disease.** 
+28. Jie Lv, Kaifu Chen. **Broad H3K4me3 as a Novel Epigenetic Signature for Normal Development and Disease.** 
 Genomics, proteomics & bioinformatics (2016) 
 
 27. Sung-Hun Lee, Tsai-Yu Chen, Shilpa S. Dhar,  Bingnan Gu,  Kaifu Chen, Young Zoon Kim,  Wei Li,  Min Gyu Lee. A feedback loop comprising PRMT7 and miR-24-2 interplays with Oct4, Nanog, Klf4, c-Myc to regulate stemness. 
@@ -239,10 +239,10 @@ Journal of the American Heart Association. (2016)
 25. Kaifu Chen, Zhong Chen, Dayong Wu, Lili Zhang, Xueqiu Lin, Jianzhong Su, Benjamin Rodriguez, Yuanxin Xi, Zheng Xia, Xi Chen, Xiaobing Shi, Qianben Wang, Wei Li. **Broad H3K4me3 is associated with increased transcription elongation and enhancer activity at tumor-suppressor genes.** 
 Nature Genetics. (2015) highlighted by the Cancer Discovery journal
 
-24. Dhar Shilpa\*, Lee Sung-Hun\*, Chen Kaifu\*, Zhu Guangjing, Oh WonKyung, Allton Kendra, Gafni Ohad, Alin S. Tomoiga, Kim Young Zoon, Barton Michelle, Hanna Jacob H, Wang Zhibin, Li Wei, Lee Min Gyu. **An essential role for UTX in resolution and activation of bivalent promoters.** 
+24. 24.	Shilpa S. Dhar\*, Sung-Hun Lee\*,  Kaifu Chen\*,  Guangjing Zhu\*,  WonKyung Oh, Kendra Allton,  Ohad Gafni,  Young Zoon Kim,  Alin S. Tomoiga,  Michelle Craig Barton, Jacob H. Hanna,  Zhibin Wang,  Wei Li,  Min Gyu Lee. **An essential role for UTX in resolution and activation of bivalent promoters.** 
 Nucleic Acids Research. (2015) 
 
-23. Chen Kaifu, Zheng Hu, Zheng Xia, Dongyu Zhao, Wei Li, Jessica K. Tyler. **The overlooked fact: fundamental need of spike-in controls for virtually all genome-wide analyses**. 
+23. Kaifu Chen, Zheng Hu, Zheng Xia, Dongyu Zhao, Wei Li, Jessica K. Tyler. **The overlooked fact: fundamental need of spike-in controls for virtually all genome-wide analyses**. 
 Molecular and Cellular Biology. (2015) 
 
 22. Lin Chen\*, Kaifu Chen\*, Laura A. Lavery, Steven Andrew Baker, Chad A. Shawa, Wei Li, Huda Y. Zoghbi. **MeCP2 binds to mCH as neurons mature, influencing transcription and onset of Rett syndrome.** 

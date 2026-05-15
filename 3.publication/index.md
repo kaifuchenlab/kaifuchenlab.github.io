@@ -194,7 +194,7 @@ Nature Genetics. (2018)
 40. Shu Meng\*, Qilin Gu\*, Xiaojie Yang, Jie Lv, Iris B Owusu, Gianfranco Matrone, Kaifu Chen, John Cooke^, and Longhou Fang^. TBX20 Regulates Angiogenesis through the PROK2-PROKR1 Pathway. 
 Circulation. (2018)
 
-39. Su J, Huang YH, Cui X, Zhang X, Lei Y, Wang X, Lin X, Chen K, Lv J, Goodell MA, Li W\*. Homeobox Oncogene Activation by Pan-Cancer DNA Hypermethylation.
+39. Jianzhong Su, Yung-Hsin Huang, Xiaodong Cui, Xinyu Wang, Xiaotian Zhang, Yong Lei, Jianfeng Xu, Xueqiu Lin, Kaifu Chen, Jie Lv, Margaret A. Goodell, Wei Li. Homeobox Oncogene Activation by Pan-Cancer DNA Hypermethylation.
 Genome Biology (2018) 
 
 38. Hunain Alam, Na Li, Shilpa S. Dhar, Ms. Sarah J. Wu, Jie Lv, Kaifu Chen, Elsa R. Flores, Laura Baseler, Min Gyu Lee. HP1γ promotes lung adenocarcinoma by downregulating the transcription-repressive regulators NCOR2 and ZBTB7A. 

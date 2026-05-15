@@ -224,90 +224,90 @@ Arteriosclerosis, Thrombosis, and Vascular Biology. (2017)
 30. Rebecca Jean Watters, Ryan Hartmaier, Hatice Ulku Osmanbeyoglu, Ryan Gillihan, James Rae, Lan Liao, Kaifu Chen, Wei Li, Xinghua Lu, steffi oesterreich. Steroid receptor coactivator-1 can regulate osteoblastogenesis independently of estrogen. 
 Molecular and Cellular Endocrinology. (2017) 
 
-29. Li N\*, Li Y\*, Lv J\*, Zheng X, Wen H, Shen H, Zhu G, Chen TY, Dhar SS, Kan PY, Wang Z, Shiekhattar R, Shi X, Lan F, Chen K, Li W, Li H, Lee MG. ZMYND8 reads the dual histone mark H3K4me1-H3K14ac to antagonize the expression of metastasis-linked genes. 
+29. Na Li, Yuanyuan Li, Jie Lv, Xiangdong Zheng, Hong Wen, Hongjie Shen, Guangjing Zhu, Tsai-Yu Chen, Shilpa S. Dhar, Pu-Yeh Kan, Zhibin Wang, Ramin Shiekhattar, Xiaobing Shi, Fei Lan, Kaifu Chen, Wei Li, Haitao Li, and Min Gyu Lee. ZMYND8 reads the dual histone mark H3K4me1-H3K14ac to antagonize the expression of metastasis-linked genes. 
 Molecular Cell (2016)
 
 28. Jie Lv, Chen K. **Broad H3K4me3 as a Novel Epigenetic Signature for Normal Development and Disease.** 
 Genomics, proteomics & bioinformatics (2016) 
 
-27. Lee S, Chen T, Dhar S, Gu B, Chen K, Kim Y, Li W, Lee M. A feedback loop comprising PRMT7 and miR-24-2 interplays with Oct4, Nanog, Klf4, c-Myc to regulate stemness. 
+27. Sung-Hun Lee, Tsai-Yu Chen, Shilpa S. Dhar,  Bingnan Gu,  Kaifu Chen, Young Zoon Kim,  Wei Li,  Min Gyu Lee. A feedback loop comprising PRMT7 and miR-24-2 interplays with Oct4, Nanog, Klf4, c-Myc to regulate stemness. 
 Nucleic Acids Research. (2016) 
 
-26. Meng S, Matrone G, Lv J, Chen K, Wong W, Cooke J. LMO2 Regulates Endothelial Proliferation, Angiogenesis and Tissue Regeneration. 
+26. Shu Meng, Gianfranco Matrone, Jie Lv, Kaifu Chen, Wing Tak Wong, John P. Cooke. LMO2 Regulates Endothelial Proliferation, Angiogenesis and Tissue Regeneration. 
 Journal of the American Heart Association. (2016) 
 
-25. Chen K\*, Chen Z\*, Wu D, Zhang L, Lin X, Su J, Rodriguez B, Xi Y, Xia Z, Chen X, Shi X, Wang Q, Li W. **Broad H3K4me3 is associated with increased transcription elongation and enhancer activity at tumor-suppressor genes.** 
+25. Kaifu Chen, Zhong Chen, Dayong Wu, Lili Zhang, Xueqiu Lin, Jianzhong Su, Benjamin Rodriguez, Yuanxin Xi, Zheng Xia, Xi Chen, Xiaobing Shi, Qianben Wang, Wei Li. **Broad H3K4me3 is associated with increased transcription elongation and enhancer activity at tumor-suppressor genes.** 
 Nature Genetics. (2015) highlighted by the Cancer Discovery journal
 
 24. Dhar Shilpa\*, Lee Sung-Hun\*, Chen Kaifu\*, Zhu Guangjing, Oh WonKyung, Allton Kendra, Gafni Ohad, Alin S. Tomoiga, Kim Young Zoon, Barton Michelle, Hanna Jacob H, Wang Zhibin, Li Wei, Lee Min Gyu. **An essential role for UTX in resolution and activation of bivalent promoters.** 
 Nucleic Acids Research. (2015) 
 
-23. Chen Kaifu\*, Zheng Hu\*, Zheng Xia, Dongyu Zhao, Wei Li, Jessica K. Tyler. The overlooked fact: fundamental need of spike-in controls for virtually all genome-wide analyses. 
+23. Chen Kaifu, Zheng Hu, Zheng Xia, Dongyu Zhao, Wei Li, Jessica K. Tyler. **The overlooked fact: fundamental need of spike-in controls for virtually all genome-wide analyses**. 
 Molecular and Cellular Biology. (2015) 
 
-22. Chen L\*, Chen K\*, Baker S A, Shaw C, Li W, Zoghbi H Y. **MeCP2 binds to mCH as neurons mature, influencing transcription and onset of Rett syndrome.** 
+22. Lin Chen\*, Kaifu Chen\*, Laura A. Lavery, Steven Andrew Baker, Chad A. Shawa, Wei Li, Huda Y. Zoghbi. **MeCP2 binds to mCH as neurons mature, influencing transcription and onset of Rett syndrome.** 
 PNAS. (2015) (Highlighted by the Science journal) 
 
-21. Hu Z\*, Chen K\*, Xia Z, Chavez M, Pal S, Seol J, Chen C, Li W, Tyler J K. **Nucleosome loss leads to global transcriptional upregulation and genomic instability during yeast aging.** 
+21. Zheng Hu\*, Kaifu Chen\*, Zheng Xia, Myrriah Chavez, Sangita Pal, Ja-Hwan Seol, Chin-Chuan Chen, Wei Li, Jessica K. Tyler. **Nucleosome loss leads to global transcriptional upregulation and genomic instability during yeast aging.** 
 Genes & Development. (2014). (Highlighted by the Science journal), (Recommended by Faculty of 1000)
 
-20. Wang L, Chen J, Wang C, Zimmermann M T, Yan H, Sun Z, Zhang Y, Chen K, Huang H, Kocher J A, Li W. MACE: Model based Analysis of ChIP-exo. 
+20. Liguo Wang, Junsheng Chen, Chen Wang, Liis Uusküla-Reimand, Kaifu Chen, Alejandra Medina-Rivera, Edwin J. Young, Michael T. Zimmermann, Huihuang Yan, Zhifu Sun, Yuji Zhang, Stephen T. Wu, Haojie Huang, Michael D. Wilson, Jean-Pierre A. Kocher. MACE: Model based Analysis of ChIP-exo. 
 Nucleic Acids Research. (2014). 
 
-19. Hu Z, Chen K, Li W, Tyler J. A matter of access: Nucleosome disassembly from gene promoters is the central goal of transcriptional activators. 
+19. Zheng Hu, Kaifu Chen, Wei Li, Jessica K. Tyler. A matter of access: Nucleosome disassembly from gene promoters is the central goal of transcriptional activators. 
 Transcription. (2014) 
 
-18. Hu Z, Chen K, Li W, Tyler JK. Transcriptional and genomic mayhem due to aging-induced nucleosome loss in budding yeast. 
+18.  Zheng Hu, Kaifu Chen, Wei Li, Jessica K. Tyler. **Transcriptional and genomic mayhem due to aging-induced nucleosome loss in budding yeast**. 
 Microbial Cell. (2014)
 
-17. Chen K\*, Xi Y, Pan X, Li Z, Kaestner K, Tyler J, Dent S YR, He X, Li W. **DANPOS: Dynamic Analysis of Nucleosome Position and Occupancy by Sequencing.** 
+17. Kaifu Chen, Yuanxin Xi, Xuewen Pan, Zhaoyu Li, Klaus Kaestner, Jessica Tyler, Sharon Dent, Xiangwei He, Wei Li. **DANPOS: Dynamic Analysis of Nucleosome Position and Occupancy by Sequencing.** 
 Genome Research (2013). (Highlighted in headlines by Epigenie). 
 
-16. Chen K\*, Wilson M A\*, Hirsch C, Watson A, Liang S, Lu Y, Li W, Dent S YR. **Stabilization of the Promoter Nucleosomes in Nucleosome Free Region by the Yeast Ssn6-Tup1 Corepressor.** 
+16. Kaifu Chen, Marenda A. Wilson, Calley Hirsch, Anjanette Watson, Shoudan Liang, Yue Lu, Wei Li, Sharon Y.R. Dent. **Stabilization of the Promoter Nucleosomes in Nucleosome Free Region by the Yeast Ssn6-Tup1 Corepressor.** 
 Genome Research. (2013). 
 
-15. Huang Z\*, Chen K\*, Zhang J\*, Li Y\*, Wang H, Cui D, Tang J, Liu Y, Shi X, Li W, Chen R, Sucgang R S, Pan X. **A functional variomics tool for discovering resistance genes and targets of small molecule compounds.** 
+15. ZhiweiHuang\*, Kaifu Chen\*, Jianhuai Zhang\*, Yongxiang Li\*, Hui Wang, Dandan Cui, Jiangwu Tang, Yong Liu, Xiaomin Shi, Wei Li, Dan Liu, Rui Chen, Richard S. Sucgang, Xuewen Pan. **A functional variomics tool for discovering resistance genes and targets of small molecule compounds.** 
 Cell Reports. (2013). 
 
-14. Al-Mssallem I S, Hu S, Zhang X, Tan J, Lin Q, Liu W, Yu X, … Chen K, Alkhaldi S R, Liu G, Zhang M, Guo H, Yu J. Genome Sequences and Genetic Variations of Date Palm. 
+14. Ibrahim S. Al-Mssallem, Songnian Hu, Xiaowei Zhang, Qiang Lin, Wanfei Liu, Jun Tan, Xiaoguang Yu, Jiucheng Liu, Linlin Pan, Tongwu Zhang, Yuxin Yin, Chengqi Xin, Hao Wu, Guangyu Zhang, Mohammed M. Ba Abdullah, Dawei Huang, Yongjun Fang, Yasser O. Alnakhli, Shangang Jia, An Yin, Eman M. Alhuzimi, Burair A. Alsaihati, Saad A. Al-Owayyed, Duojun Zhao, Sun Zhang, Noha A. Al-Otaibi, Gaoyuan Sun, Majed A. Majrashi, Fusen Li, Tala, Jixiang Wang, Quanzheng Yun, Nafla A. Alnassar, Lei Wang, Meng Yang, Rasha F. Al-Jelaify, Kan Liu, Shenghan Gao, Kaifu Chen, Samiyah R. Alkhaldi, Guiming Liu, Meng Zhang, Haiyan Guo, Jun Yu. Genome Sequences and Genetic Variations of Date Palm. 
 Nature Communications. (2013). 
 
-13. Li Z, Gadue P, Chen K, Tuteja G, Schug J, Li W, Kaestner K H. Foxa2 and H2A.Z Mediate Nucleosome Depletion during Embryonic Stem Cell Differentiation. 
+13. Zhaoyu Li, Paul Gadue, Kaifu Chen, Yang Jiao, Geetu Tuteja, Jonathan Schug, Wei Li, Klaus H. Kaestner. Mediate Nucleosome Depletion during Embryonic Stem Cell Differentiation. 
 Cell. (2012). 
 
-12. Chen X, Cui D, Papusha A, Zhang X, Chu C, Tang J, Chen K, Pan X, Ira G, **The Fun30 nucleosome remodeller promotes resection of DNA double-strand break ends.** 
+12. Xuefeng Chen, Dandan Cui, Alma Papusha, Xiaotian Zhang, Chia-Dwo Chu, Jiangwu Tang, Kaifu Chen, Xuewen Pan, Grzegorz Ira. **The Fun30 nucleosome remodeller promotes resection of DNA double-strand break ends.** 
 Nature. (2012) 
 
-11. Barber M F, Michishita-Kioi E, Xi Y, Tasselli L, Kioi M, Moqtaderi Z, Tennen R I, Chen K, et al. SIRT7 links H3K18 deacetylation to maintenance of oncogenic transformation. 
+11. Matthew F. Barber, Eriko Michishita-Kioi, Yuanxin Xi, Luisa Tasselli, Mitomu Kioi, Zarmik Moqtaderi, Ruth I. Tennen, Silvana Paredes, Nicolas L. Young, Kaifu Chen, Kevin Struhl, Benjamin A. Garcia, Or Gozani, Wei Li, Katrin F. Chua. SIRT7 links H3K18 deacetylation to maintenance of oncogenic transformation. 
 Nature. (2012)
 
-10. Huang Z, Srinivasan S, Zhang J, Chen K, Li Y, Li W, Quiocho F A, Pan X. Discovering thiamine transporters as targets of chloroquine using a novel functional genomics strategy. 
+10. Zhiwei Huang, Sankaranarayanan Srinivasan, Jianhuai Zhang, Kaifu Chen, Yongxiang Li, Wei Li, Florante A. Quiocho, Xuewen Pan. Discovering thiamine transporters as targets of chloroquine using a novel functional genomics strategy. 
 PLOS Genetics. (2012)
 
-9. Badeaux A I, Yang Y, Cardenas K, Vemulapalli V, Chen K, Kusewitt D, Richie E, et al. Loss of the methyl lysine effector protein PHF20 impacts the expression of genes regulated by the lysine acetyltransferase MOF. 
+9. Aimee I. Badeaux, Yanzhong Yang, Kim Cardenas, Vidyasiri Vemulapalli, Kaifu Chen, Donna Kusewitt, Ellen Richie, Wei Li, Mark T. Bedford. Loss of the methyl lysine effector protein PHF20 impacts the expression of genes regulated by the lysine acetyltransferase MOF. 
 The Journal of biological chemistry. (2012) 
 
-8. Kuo A J\*, Cheung P\*, Chen K\*, Zee B M, Kioi M, Lauring J, Xi Y, et al. **NSD2 Links Dimethylation of Histone H3 at Lysine 36 to Oncogenic Programming.** 
+8. Alex J. Kuo\*, Peggie Cheung\*, Kaifu Chen\*, Barry M. Zee, Mitomu Kioi, Josh Lauring, Yuanxin Xi, Ben Ho Park, Xiaobing Shi, Benjamin A. Garcia, Wei Li, Or Gozani. **NSD2 Links Dimethylation of Histone H3 at Lysine 36 to Oncogenic Programming.** 
 Molecular cell. (2011) 
 
-7. Huang Z, Chen K, Xu T, Zhang J, Li Y, Li W, Agarwal A K, et al. Sampangine inhibits heme biosynthesis in both yeast and human. 
+7. Zhiwei Huang, Kaifu Chen, Tao Xu, Jianhuai Zhang, Yongxiang Li, Wei Li, Ameeta K. Agarwal, Alice M. Clark, John D. Phillips, Xue. Sampangine inhibits heme biosynthesis in both yeast and human. 
 Eukaryotic cell, (2011) 
 
-6. Ma L, Chen K, Meng Q, Liu Q, Tang P, Hu S, Yu J. An evolutionary analysis of trypanosomatid GP63 proteases. 
+6. Lina Ma, Kaifu Chen, Qingshu Meng, Qingyou Liu, Petrus Tang, Songnian Hu, Jun Yu. An evolutionary analysis of trypanosomatid GP63 proteases. 
 Parasitology research. (2011) 
 
-5. Meng Q, Chen K, Ma L, Hu S, Yu J. A systematic identification of Kolobok superfamily transposons in Trichomonas vaginalis and sequence analysis on related transposases. 
+5. Qingshu Meng, Kaifu Chen, Lina Ma, Songnian Hu, JunYu. A systematic identification of Kolobok superfamily transposons in Trichomonas vaginalis and sequence analysis on related transposases. 
 Journal of genetics and genomics. (2011) 
 
-4. Chen K\*, Wang L, Yang M, Liu J, Xin C, Hu S, Yu J. **Sequence signatures of nucleosome positioning in Caenorhabditis elegans.** Genomics, proteomics & bioinformatics. (2010) 
+4. Kaifu Chen, Lei Wang, Meng Yang, Jiucheng Liu, Chengqi Xin, Songnian Hu, Jun Yu. **Sequence signatures of nucleosome positioning in Caenorhabditis elegans.** Genomics, proteomics & bioinformatics. (2010) 
 
-3. Yang M, Zhang X, Liu G, Yin Y, Chen K, Yun Q, Zhao D, et al. The complete chloroplast genome sequence of date palm. 
+3. Meng Yang, Xiaowei Zhang, Guiming Liu, Yuxin Yin, Kaifu Chen, Quanzheng Yun, Duojun Zhao, Ibrahim S. Al-Mssallem, Jun Yu. The complete chloroplast genome sequence of date palm. 
 PlOS ONE. (2010) 
 
-2. Yang M, Song S, Liu G, Chen K, Tian X, Zhao Z J, et al. A comprehensive analysis of protein phosphatases in rice and Arabidopsis.
+2. Meng Yang, Shuhui Song, Guiming Liu, Kaifu Chen, Xiangjun Tian, Zhizhuang Joe Zhao, Songnian Hu, Jun Yu. A comprehensive analysis of protein phosphatases in rice and Arabidopsis.
 Plant Systematics and Evolution. (2010)
 
-1. Chen K\*, Meng Q, Ma L, Liu Q, Tang P, Chiu C, Hu S, et al. **A novel DNA sequence periodicity decodes nucleosome positioning.** 
+1. Kaifu Chen, Qingshu Meng, Lina Ma, Qingyou Liu, Petrus Tang, Chungshung Chiu, Songnian Hu, Jun Yu. **A novel DNA sequence periodicity decodes nucleosome positioning.** 
 Nucleic acids research. (2008)
 
 ### Abstracts 

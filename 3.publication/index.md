@@ -239,7 +239,7 @@ Journal of the American Heart Association. (2016)
 25. Kaifu Chen, Zhong Chen, Dayong Wu, Lili Zhang, Xueqiu Lin, Jianzhong Su, Benjamin Rodriguez, Yuanxin Xi, Zheng Xia, Xi Chen, Xiaobing Shi, Qianben Wang, Wei Li. **Broad H3K4me3 is associated with increased transcription elongation and enhancer activity at tumor-suppressor genes.** 
 Nature Genetics. (2015) highlighted by the Cancer Discovery journal
 
-24. 24.	Shilpa S. Dhar\*, Sung-Hun Lee\*,  Kaifu Chen\*,  Guangjing Zhu\*,  WonKyung Oh, Kendra Allton,  Ohad Gafni,  Young Zoon Kim,  Alin S. Tomoiga,  Michelle Craig Barton, Jacob H. Hanna,  Zhibin Wang,  Wei Li,  Min Gyu Lee. **An essential role for UTX in resolution and activation of bivalent promoters.** 
+24. Shilpa S. Dhar\*, Sung-Hun Lee\*,  Kaifu Chen\*,  Guangjing Zhu\*,  WonKyung Oh, Kendra Allton,  Ohad Gafni,  Young Zoon Kim,  Alin S. Tomoiga,  Michelle Craig Barton, Jacob H. Hanna,  Zhibin Wang,  Wei Li,  Min Gyu Lee. **An essential role for UTX in resolution and activation of bivalent promoters.** 
 Nucleic Acids Research. (2015) 
 
 23. Kaifu Chen, Zheng Hu, Zheng Xia, Dongyu Zhao, Wei Li, Jessica K. Tyler. **The overlooked fact: fundamental need of spike-in controls for virtually all genome-wide analyses**. 

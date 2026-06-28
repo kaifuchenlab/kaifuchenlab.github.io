@@ -5,7 +5,6 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-
 # <i class="fas fa-feather-alt"></i> Lab log
 
 **June, 2026:**

@@ -7,6 +7,12 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
+**June, 2026:**
+Congratulations to Jiayi for being admitted to the Max Planck Institute for PhD study. Cheers!
+
+**May, 2026:**
+Congratulations to Yang for his manuscript accepted by Circulation. Cheers!
+
 **April, 2026:**
 Congratulations to Toby for being admitted to the Columbia University. Cheers!
 

@@ -12,6 +12,14 @@ title: Home
 
 {%
   include figure.html
+  image="images/lab2025.jpg"
+  width="70%"
+  height="70%"
+  caption="2024: so excited for Yanqiang's way toward independence."
+%}
+
+{%
+  include figure.html
   image="images/lab2024.jpg"
   width="70%"
   height="70%"

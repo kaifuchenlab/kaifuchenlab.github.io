@@ -7,7 +7,7 @@ title: Home
 
 {%
   include gallery.html
-  image="images/lab2024.jpg"
+  image="images/lab2025.jpg"
 %}
 
 {%
@@ -15,7 +15,13 @@ title: Home
   image="images/lab2025.jpg"
   width="70%"
   height="70%"
-  caption="2024: so excited for Yanqiang's way toward independence."
+  caption="2025: Farewell for Jiayi."
+%}
+
+
+{%
+  include gallery.html
+  image="images/lab2024.jpg"
 %}
 
 {%

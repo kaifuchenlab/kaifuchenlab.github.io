@@ -14,7 +14,7 @@ title: Home
   image="images/lab2025.jpg"
   width="70%"
   height="70%"
-  caption="2025: Farewell for Jiayi, keep in touch!"
+  caption="2025: Farewell for Jiayi."
 %}
 
 

@@ -126,10 +126,12 @@ From Beijing Institute of Genomics, Chinese Academy of Sciences.
 
 **Joseph Pan**, Summer 2024, from Acton-Boxborough Regional High School
 
-**Anirudh Venkatesh**, 2025-2026, Great Valley High School
+**Anirudh Venkatesh**, 2025-, Great Valley High School
 
 **Jiatong Liang**, Summer 2026, from Statistics PhD program, University of Michigan
 
 **Jiaqi Zhang**, Summer 2026, from Georgetown Preparatory School
+
+**Suri Li**, 2026-, from Sage Hill School
 
 

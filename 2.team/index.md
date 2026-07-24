@@ -126,4 +126,6 @@ From Beijing Institute of Genomics, Chinese Academy of Sciences.
 
 **Joseph Pan**, Summer 2024, from Acton-Boxborough Regional High School
 
+**Jiatong Liang**, Summer 2026, from PhD program, Michigan University
+
 

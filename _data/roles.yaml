@@ -5,6 +5,10 @@ pi:
 postdoc2021
   icon: fas fa-user-graduate
   text: Postdoctoral Researcher
+  
+postdoc2022
+  icon: fas fa-user-graduate
+  text: Postdoctoral Researcher
 
 postdoc:
   icon: fas fa-user-graduate

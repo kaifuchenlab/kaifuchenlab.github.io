@@ -1,9 +1,9 @@
 ---
-name: Ziyang Liu, Ph.D.
-image: images/ZiyangLiu.jpg
+name: Wei Zhou, Ph.D.
+image: images/WeiZhou.jpg
 description: Postdoc
 role: postdoc
 ---
-09/2025 ~ Present 
+07/2026 ~ Present 
 
-Ziyang's major research interest is in AI and deep learning algorithms. Before joining the lab, he received B.S. and Ph.D. degrees from the Tianjin University and Tsinghua University, respectively.
+Zhou's major research interest is in genomic statistics and spatical single-cell multiomics. Before joining the lab, he received B.S. in Mathematics & Statistics from the Nankai University and Ph.D. in Biostatistics (Bioinformatics focus) from the University of Wisconsin–Madison.

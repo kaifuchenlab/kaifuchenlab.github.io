@@ -2,7 +2,7 @@
 name: De-An Li, Ph.D.
 image: images/DeanLi.jpg
 description: Postdoc
-role: postdoc
+role: postdoc2024
 ---
 09/2024 ~ Present 
 

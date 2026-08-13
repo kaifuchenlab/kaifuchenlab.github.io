@@ -139,4 +139,3 @@ Master student at Harvard Medical School. Admited to PhD program at the Max Plan
 
 **Suri Li**, 2026-, from Sage Hill School
 
-

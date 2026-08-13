@@ -1,8 +1,8 @@
 ---
 name: Kulandaisamy A, Ph.D.
 image: images/KACL.jpeg
-description: postdoc2021
-role: postdoc
+description: postdoc
+role: postdoc2021
 ---
 06/2021 ~ Present 
 

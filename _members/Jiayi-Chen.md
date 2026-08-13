@@ -1,9 +1,9 @@
 ---
-name: Jiayi Chen, B.S.
-image: images/JiayiChen.jpg
+name: Shunjia Lou, B.S.
+image: images/ShunjiaLou.jpg
 description: Master Student
 role: undergrad
 ---
-09/2024 ~ Present 
+04/2026 ~ Present 
 
-Jiayi is a Master student in the Biomedical Informatics program of Harvard Medical School. She received her Bachelor of Science in Bioinformatics (Graduate with a First-Class Degree) from the Xi’an Jiaotong Liverpool University. Her research interest is in computational modeling of cell identity gene expression regulation with application to cardiovascular development and diseases.
+Shunjia is a Master student at Boston University. She received her Bachelor of Science in Shanghai Jiaotong University. Her research interest is in artificial intelligence, epigenomics, and spatial single-cell multiomics.

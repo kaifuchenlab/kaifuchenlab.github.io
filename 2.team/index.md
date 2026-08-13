@@ -33,6 +33,27 @@ nav:
   component="portrait"
   filters="role: postdoc2022"
 %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postdoc2024"
+%}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postdoc2025"
+%}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postdoc2026"
+%}
 {%
   include list.html
   data="members"

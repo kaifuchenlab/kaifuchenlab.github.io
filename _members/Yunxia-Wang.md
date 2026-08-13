@@ -2,7 +2,7 @@
 name: Yunxia Wang, PhD
 image: images/YunxiaWang.jpg
 description: Postdoc
-role: postdoc
+role: postdoc2024
 ---
 
 01/2024 ~ Present 

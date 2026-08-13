@@ -2,6 +2,10 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
 
+postdoc2021
+  icon: fas fa-user-graduate
+  text: Postdoctoral Researcher
+
 postdoc:
   icon: fas fa-user-graduate
   text: Postdoctoral Researcher

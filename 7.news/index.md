@@ -7,6 +7,15 @@ nav:
 
 # <i class="fas fa-feather-alt"></i> Lab log
 
+**August, 2026:**
+Yang, Yunxia, and De-An each provided a wonderful talk at the ICIBM conference 2026. Cheers!
+
+**July, 2026:**
+Congratulations to Kulandai for receiving his K99 grant. Cheers!
+
+**July, 2026:**
+Congratulations to Kulandai for receiving his K99 grant. Cheers!
+
 **June, 2026:**
 Congratulations to Jiayi for being admitted to the Max Planck Institute for PhD study. Cheers!
 

@@ -1,7 +1,7 @@
 ---
 name: Ziyang Liu, Ph.D.
 image: images/ZiyangLiu.jpg
-description: Postdoc
+description: Postdoc 2025
 role: postdoc2025
 ---
 09/2025 ~ Present 

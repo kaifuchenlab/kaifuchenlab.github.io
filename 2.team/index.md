@@ -26,13 +26,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc2021"
-%}
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: postdoc2022"
 %}
 

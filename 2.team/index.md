@@ -15,18 +15,21 @@ nav:
   component="portrait"
   filters="role: pi"
 %}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: instructor"
 %}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: postdoc2021"
 %}
+
 {%
   include list.html
   data="members"
@@ -54,18 +57,21 @@ nav:
   component="portrait"
   filters="role: postdoc2026"
 %}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: postdoc"
 %}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: undergrad"
 %}
+
 {:.center}
 
 

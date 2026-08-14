@@ -1,7 +1,7 @@
 ---
 name: Yang Yu, Ph.D.
 image: images/YangYu.jpg
-description: Postdoc
+description: Postdoc 2022
 role: postdoc2022
 ---
 11/2022 ~ Present 

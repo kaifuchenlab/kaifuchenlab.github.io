@@ -2,23 +2,23 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
 
-postdoc
+postdoc2021:
   icon: fas fa-user-graduate
   text: Postdoctoral Researcher 2021
   
-postdoc2022
+postdoc2022:
   icon: fas fa-user-graduate
   text: Postdoctoral Researcher 2022
 
-postdoc2024
+postdoc2024:
   icon: fas fa-user-graduate
   text: Postdoctoral Researcher 2024
 
-postdoc2025
+postdoc2025:
   icon: fas fa-user-graduate
   text: Postdoctoral Researcher 2025
 
-postdoc2026
+postdoc2026:
   icon: fas fa-user-graduate
   text: Postdoctoral Researcher 2026
 

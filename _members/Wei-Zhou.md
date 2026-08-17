@@ -1,5 +1,5 @@
 ---
-name: Wei Zhou, Ph.D.
+name: Zhou Wei, Ph.D.
 image: images/WeiZhou.jpg
 description: Postdoc 2026
 role: postdoc2026

@@ -132,7 +132,7 @@ From the University of Biological Sciences, Chinese Academy of Sciences. Moved t
 08/2023 ~ 07/2025
 From Beijing Institute of Genomics, Chinese Academy of Sciences.
 
-**Jiyi Chen, Ph.D.**
+**Jiayi Chen, Ph.D.**
 08/2023 ~ 07/2025
 Master student at Harvard Medical School. Admited to PhD program at the Max Planck Institutes.
 

@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 
-**August, 2026:**
+**September, 2026:**
 Congratulations to Rongbin and Ziyang for receiving great offers to start their own labs as tenure-track assistant professors.
 
 **August, 2026:**

@@ -9,7 +9,7 @@ nav:
 
 
 **August, 2026:**
-Congratulations to Rongbin and Ziyang for receiving tenure-track PI position offers to start their own labs, both in top-profile universities. Cheers!
+Congratulations to Rongbin and Ziyang for receiving great offers to start their own labs as tenure-track assistant professors.
 
 **August, 2026:**
 Yang, Yunxia, and De-An each provided a wonderful talk at the ICIBM conference 2026. Cheers!

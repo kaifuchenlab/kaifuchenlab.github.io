@@ -9,7 +9,7 @@ nav:
 
 
 **September, 2026:**
-Congratulations to Rongbin and Ziyang for receiving great offers to start their own labs as tenure-track assistant professors in Washington and Hongkong, respectively.
+Congratulations to Rongbin and Ziyang for receiving great offers to start their own labs as tenure-track assistant professors in Washington and Hong Kong, respectively.
 
 **August, 2026:**
 Yang, Yunxia, and De-An each provided a wonderful talk at the ICIBM conference 2026. Cheers!

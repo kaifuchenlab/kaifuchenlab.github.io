@@ -9,7 +9,7 @@ nav:
 
 
 **September, 2026:**
-Congratulations to Rongbin and Ziyang for receiving great offers to start their own labs as tenure-track assistant professors at University of Maryland and The Hong Kong Polytechnic University, respectively.
+Congratulations to Rongbin and Ziyang for receiving great offers to start their own labs as tenure-track assistant professors at University of Maryland and Hong Kong Polytechnic University, respectively.
 
 **August, 2026:**
 Yang, Yunxia, and De-An each provided a wonderful talk at the ICIBM conference 2026. Cheers!

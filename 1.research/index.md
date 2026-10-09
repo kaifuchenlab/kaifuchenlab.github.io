@@ -39,7 +39,7 @@ Using integrated single-cell and epigenomic analyses, we identified MECOM-associ
 
 To extend mechanistic understanding from individual cells to cell populations, we developed MEBOCOST to infer metabolite-mediated intercellular communication and applied computational analyses to diverse single-cell atlases (Zheng et al., Nucleic Acids Research, 2025). Our ongoing LINGO and LineageNet projects apply knowledge graph-grounded foundation modeling and multi-graph deep learning to reconstruct cellular ancestry from lineage-tracing data, while MCCP and CellFun develop agentic AI interfaces for atlas-scale communication and functional analyses. These advances aim to connect cell identity, lineage relationships, and multicellular signaling in a unified computational framework.
 
-**E. Molecular Mechanisms of Immunity, Inflammation, and Tumor Immunotherapy.**
+**E. Molecular and Cellular Mechanisms of Immunity, Inflammation, and Tumor Immunotherapy.**
 
 Our research has contributed to understanding immune cell regulation, inflammation, and tumor immune responses through AI-enabled single-cell analysis, computational genomics, and collaborative mechanistic investigations. We investigated how macrophage epsins shape inflammatory macrophage states, cytokine signaling, foam-cell formation, and pathological vascular cell transitions in atherosclerosis (Arulsamy et al., Arteriosclerosis, Thrombosis, and Vascular Biology, 2025). Related work explored epsin-targeted nanotherapy and mechanisms of atherosclerosis regression (Cui et al., Circulation Research, 2023; co-corresponding author). These studies show how single-cell computational analysis can connect immune-cell heterogeneity to disease mechanisms and therapeutic strategies.
 

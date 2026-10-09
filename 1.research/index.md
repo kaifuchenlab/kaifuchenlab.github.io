@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research Summary
 
-We are a bioinformatics lab developing Agenetic AI, foundation model, deep learning, machine learning, computational algorithms, and statistical methods to understand genetic, epigenetic, and cellular signaling mechanisms in the molecular regulation of cell differentiation, development, and diseases. Particularly, our research has been focused on the intersection of artificial inteligence, genomics, and medicine for over 20 years.
+We are a bioinformatics lab developing Agenetic AI, foundation model, deep learning, machine learning, computational algorithms, and statistical methods to understand genetic, epigenetic, and cellular signaling mechanisms in the molecular regulation of cell differentiation, development, and diseases. Our research has been focused on the intersection of artificial inteligence, genomics, and medicine for over 20 years.
 
 **A. Development of Artificial Intelligence, Machine Learning, Bioinformatics, and Statistical Methods.**
 

@@ -17,7 +17,7 @@ The group has developed more than 30 bioinformatics methods and tools for epigen
 
 More recently, the group has advanced AI approaches from predictive models to deep learning, foundation models, and agentic scientific workflows. Those include LINGO as a knowledge graph-grounded foundation model for single-cell lineage inference; LineageNet as a multi-graph neural network designed to infer cell lineages from static and evolving barcodes; NanoNmD that applies deep learning to single-molecule RNA-modification mapping; and MCCP and CellFun as agentic AI portals for, respectively, exploring metabolite-mediated cell–cell communication in the human single-cell atlas and supporting cell annotation and functional analysis of single-cell and spatial transcriptomics. Collectively, these efforts connect rigorous computational modeling with biologically grounded AI systems for interpreting complex molecular and cellular data.
 
-**B. Regulation of RNA Stability, Decay, and Translation by RNA Modifications and sequence Elements.**
+**B. Regulation of RNA Stability, Decay, and Translation by RNA Modifications and Sequence Elements.**
 
 Our research has investigated how RNA sequence elements and chemical modifications control RNA stability, decay, and translation, combining statistical genomics, machine learning, nanopore sequencing, and mechanistic experiments. We identified relatively low RNA stability as a feature of cell identity-associated genes and studied the relationship between RNA turnover and gene regulatory responsiveness (Li et al., Nucleic Acids Research, 2023). We also investigated RNA stability and regulatory control of tumor suppressor genes (Gao et al., Nucleic Acids Research, 2023).
 

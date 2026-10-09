@@ -23,7 +23,7 @@ Our research has investigated how RNA sequence elements and chemical modificatio
 
 We developed NanoNm to characterize internal 2′-O-methylation (Nm) in mRNA and demonstrated its association with increased mRNA stability (Li et al., Molecular Cell, 2024). Complementary studies identified roles for EZH2 in rRNA 2′-O-methylation and IRES-dependent translation and examined EZH2–ADAR-mediated RNA editing and RNA stability (Yi et al., Nature Cell Biology, 2021; Yi et al., Nature Communications, 2026). Building on this work, our deep-learning model NanoNmD seeks to map RNA modifications at single-molecule resolution (manuscript submitted, 2026). Together, these studies integrate computational innovation with functional RNA biology and establish a foundation for the rational investigation of RNA-based therapeutics.
 
-**C. Regulation of Cell Identity by Genetic, Epigenetic, and Cell Signaling Mechanisms in Cell Differentiation, Development and Pediatrics Diseases.**
+**C. Cell Identity Regulation by Genetic, Epigenetic, and Cell Signaling Mechanisms in Cell Differentiation, Development and Pediatrics Diseases.**
 
 A central goal of our research is to explain how genetic, epigenetic, and signaling mechanisms establish, maintain, and alter cell identity during development and disease. Our analyses of broad H3K4me3 domains and cell identity-associated transcriptional programs motivated the development of CEFCIG and SCIG, machine-learning methods that identify cell identity regulators from epigenetic signatures and DNA sequence features (Chen et al., Nature Genetics, 2015; Xia et al., Nature Communications, 2020; Arulsamy et al., Nucleic Acids Research, 2025). This work links interpretable genomic features to computational predictions of cellular identity.
 

@@ -31,7 +31,7 @@ Through collaborative cancer studies, we investigated epigenetic regulators and 
 
 Our research has also examined mechanisms of genome instability and mutational processes, including Dna2-associated complex insertions, EndoG-related genome maintenance, and factors limiting insertions at DNA breaks (Yu et al., Nature, 2018; Yu et al., Nature Communications, 2024; Yu et al., Nucleic Acids Research, 2025). These findings complement our computational cancer genomics research by linking DNA damage and repair mechanisms to the origins of genetic alterations. Our ongoing work on mutator-gene alterations and immunotherapy efficacy is a related translational direction (preprint).
 
-**D. Regulation of Cell Identity by Genetic, Epigenetic, and Cell Signaling Mechanisms in Development and Many Diseases.**
+**D. Regulation of Cell Identity by Genetic, Epigenetic, and Cell Signaling Mechanisms in Cell Differentiation, Development and Pediatrics Diseases.**
 
 A central goal of our research is to explain how genetic, epigenetic, and signaling mechanisms establish, maintain, and alter cell identity during development and disease. Our analyses of broad H3K4me3 domains and cell identity-associated transcriptional programs motivated the development of CEFCIG and SCIG, machine-learning methods that identify cell identity regulators from epigenetic signatures and DNA sequence features (Chen et al., Nature Genetics, 2015; Xia et al., Nature Communications, 2020; Arulsamy et al., Nucleic Acids Research, 2025). This work links interpretable genomic features to computational predictions of cellular identity.
 

@@ -5,7 +5,7 @@ nav:
   tooltip: Research description
 ---
 
-# <i class="fas fa-microscope"></i>Research Summary
+# <i class="fas fa-microscope"></i>Lay Narrative
 
 We are a bioinformatics lab developing Agenetic AI, foundation model, deep learning, machine learning, computational algorithms, and statistical methods to understand genetic, epigenetic, and cellular signaling mechanisms in the molecular regulation of cell differentiation, development, and diseases. Our research has focused on the intersection of artificial inteligence, genomics, and medicine for over 20 years.
 
@@ -47,7 +47,9 @@ In collaborative immunology research, we showed that OX40 costimulation inhibits
 
 The integration of single-cell, spatial, and AI-based approaches across these projects provides a framework for dissecting immune states and interactions, prioritizing molecular mechanisms, and generating hypotheses relevant to immunotherapy. Our ongoing MCCP and CellFun agentic AI projects extend these capabilities to exploration and interpretation of large human cell atlases.
 
-**The Lab's Central Research Dogma**
+**In summary,** our research integrates AI, machine learning, biostatistics, computational genomics, and experimental biology to uncover molecular mechanisms underlying gene regulation, cell identity, and human diseases. Over the past nearly two decades, we have developed innovative computational and statistical methods, progressing from probabilistic modeling to deep learning, foundation models, and agentic AI. These advances have enabled discoveries in RNA regulation, cancer genetics and epigenetics, cell fate determination, inflammation, and tumor immunotherapy. By combining methodological innovation with mechanistic and translational research, our work aims to transform complex biomedical data into actionable biological insights and new opportunities for disease diagnosis and therapy.
+
+# <i class="fas fa-microscope"></i>Technical Narrative
 
 Different cell types in a healthy body share the same genetic sequence. Difference in identity of these cell types is determined by epigenetic regulation of gene expression, which represents an consequence of the interaction between the genetic factors and signaling molecules in the cell. Genetic mutations and abnormal signals can lead to epigenetic alteration and cause cell identity dysregulation in diseases. {% include figure.html image="images/Cell_Identity.png" width="60%" height="60%" %}
 
@@ -57,4 +59,3 @@ Research in the lab is centered around one fundamental insight into basic biolog
 
 Our research findings offer a compelling rationale for targeting the intricate regulatory complexity governing cell identity genes in diseases linked to cell identity dysregulation. The heightened complexity of expression regulation at cell identity genes makes them particularly sensitive to manipulation of the associated molecular pathways. For instance, in our experiments, the knockout of the H3K4me3 methyltransferase MLL4 demonstrated that genes marked with broad H3K4me3 profiles were more susceptible compared to those with sharp H3K4me3 profiles. This vulnerability led to tumorigenesis and loss of normal cell identity (Molecular Cell, 2018). Additionally, the lower RNA stability observed for cell identity genes, attributed to their greater enrichment of co-transcriptional RNA m6A modification catalyzed by METTL3, revealed that knockdown of METTL3 had a more pronounced impact on RNA stability of cell identity genes compared to other genes (Nucleic Acids Research, 2023). Given that MLL4 and METTL3 may also influence many other expressed genes, there was a theoretical concern about potentially broad side effects when targeting these enzymes. However, our research suggests that a moderate dosage of MLL4 and METTL3 targeting may preferentially affect cell identity genes while exerting negligible effects on other genes. These findings provide a compelling justification for considering the therapeutic targeting of mechanisms govering the regulation complexity of cell identity genes in diseases associated with cell identity dysregulation.
 
-**In summary,** our research integrates AI, machine learning, biostatistics, computational genomics, and experimental biology to uncover molecular mechanisms underlying gene regulation, cell identity, and human diseases. Over the past nearly two decades, we have developed innovative computational and statistical methods, progressing from probabilistic modeling to deep learning, foundation models, and agentic AI. These advances have enabled discoveries in RNA regulation, cancer genetics and epigenetics, cell fate determination, inflammation, and tumor immunotherapy. By combining methodological innovation with mechanistic and translational research, our work aims to transform complex biomedical data into actionable biological insights and new opportunities for disease diagnosis and therapy.

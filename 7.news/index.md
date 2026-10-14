@@ -8,6 +8,9 @@ nav:
 # <i class="fas fa-feather-alt"></i> Lab log
 
 
+**October, 2026:**
+Congratulations to Yang for receiving the BCH PDA travel award to present his work at the AHA annual conference. Cheers!
+
 **September, 2026:**
 Congratulations to Rongbin and Ziyang for receiving great offers to start their own labs as tenure-track assistant professors at University of Maryland and Hong Kong Polytechnic University, respectively.
 

@@ -3,6 +3,19 @@ title: Home
 ---
 ## [Kaifu Chen Lab, Do Good Science](https://kaifuchenlab.github.io)
 
+{%
+  include gallery.html
+  image="images/lab2026.jpg"
+%}
+
+{%
+  include figure.html
+  image="images/lab2026.jpg"
+  width="70%"
+  height="70%"
+  caption="2026: Farewell for Jiayi."
+%}
+
 
 {%
   include gallery.html
@@ -14,7 +27,7 @@ title: Home
   image="images/lab2025.jpg"
   width="70%"
   height="70%"
-  caption="2025: Farewell for Jiayi."
+  caption="2026: Farewell for Jiayi."
 %}
 
 

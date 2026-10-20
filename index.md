@@ -13,7 +13,7 @@ title: Home
   image="images/lab2026.jpg"
   width="70%"
   height="70%"
-  caption="2026: Farewell for Jiayi."
+  caption="Fall 2026: Farewell for Rongbin and Ziyang."
 %}
 
 
@@ -27,7 +27,7 @@ title: Home
   image="images/lab2025.jpg"
   width="70%"
   height="70%"
-  caption="2026: Farewell for Jiayi."
+  caption="Spring 2026: Farewell for Jiayi."
 %}
 
 
